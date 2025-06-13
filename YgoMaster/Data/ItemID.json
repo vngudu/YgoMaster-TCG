@@ -205,25 +205,25 @@
     1011001,//Soccer Ball
     1011002,//Trophy
     1011003,//Diamond
-    1011004,//DC 2022 AUG Gold Finalist
-    1011005,//DC 2022 AUG Silver Finalist
-    1011006,//DC 2022 AUG Bronze Finalist
-    1011007,//DC 2022 DEC Gold Finalist
-    1011008,//DC 2022 DEC Silver Finalist
-    1011009,//DC 2022 DEC Bronze Finalist
-    1011010,//DC 2023 MAR Gold Finalist
-    1011011,//DC 2023 MAR Silver Finalist
-    1011012,//DC 2023 MAR Bronze Finalist
-    1011013,//WCS 2023 Qualifiers Gold Finalist
-    1011014,//WCS 2023 Qualifiers Silver Finalist
-    1011015,//WCS 2023 Qualifiers Bronze Finalist
-    1011016,//WCS 2023 Champion
-    1011017,//WCS 2023 Finalist
-    1011018,//WCS 2023 Top 4
-    1011019,//WCS 2023 Top 8
-    1011020,//DC 2023 OCT Gold Finalist
-    1011021,//DC 2023 OCT Silver Finalist
-    1011022,//DC 2023 OCT Bronze Finalist
+    1011004,//5D's Duel Transer Rider
+    1011005,//5D's Duel Transer Prince
+    1011006,//5D's Duel Transer Average Joe
+    1011007,//5D's Duel Transer Friendly Teen
+    1011008,//5D's Duel Transer Gruff King
+    1011009,//5D's Duel Transer Tough Guy
+    1011010,//5D's Duel Transer Casual Teen
+    1011011,//5D's Duel Transer School Student
+    1011012,//5D's Duel Transer Tough Girl
+    1011013,//5D's Duel Transer Idol
+    1011014,//5D's Duel Transer Secretary
+    1011015,//5D's Duel Transer Rider
+    1011016,//DM Rare Hunter
+    1011017,//GX Shadow Rider
+    1011018,//5D Dark Signer
+    1011019,//Zexal Barian Duelist
+    1011020,//Arc-V Obelisk Force
+    1011021,//VRAINS Knight of Hanoi
+    1011022,//DL Card Trader EX
     1011023,//DC 2023 DEC Gold Finalist
     1011024,//DC 2023 DEC Silver Finalist
     1011025,//DC 2023 DEC Bronze Finalist
@@ -250,6 +250,9 @@
     1011046,//DC 2025 MAR Gold Finalist
     1011047,//DC 2025 MAR Silver Finalist
     1011048,//DC 2025 MAR Bronze Finalist
+    1011049,//WCS 2025 Qualifiers Gold Finalist
+    1011050,//WCS 2025 Qualifiers Silver Finalist
+    1011051,//WCS 2025 Qualifiers Bronze Finalist
     1012001,//X-Krawler Synaphysis
     1012002,//Mekk-Knight Spectrum Supreme
     1012003,//Knightmare Gryphon
@@ -320,6 +323,7 @@
     1012070,//Sky Striker Ace - Shizuku
     1012071,//Rescue-ACE Impulse
     1012072,//Exosister Elis
+    1012073,//Flamvell Baby
     1013001,//PawaPuro
     1013002,//Memories of Intersecting Duels
     1013003,//Yu-Gi-Oh! CARD GAME THE CHRONICLES
@@ -483,6 +487,12 @@
     1020156,//Apocalyptic Fire Driven by the Wind
     1020157,//Berserker
     1020158,//All or Nothing
+    1020159,//WCS 2025 Qualifiers Top 10
+    1020160,//WCS 2025 Qualifiers Top 100
+    1020161,//WCS 2025 Qualifiers Top 500
+    1020162,//WCS 2025 Qualifiers Top 1000
+    1020163,//WCS 2025 Qualifiers Top 10000
+    1020164,//WCS 2025 Qualifiers DLv. MAX
     1021001,//Starting Out
     1021002,//Top Performer
   ],
@@ -521,6 +531,7 @@
     1030032,//White Frame
     1030033,//Yellow & Lime Frame
     1030034,//Blue & Purple Frame
+    1030035,//Rekindling
     1031001,//The Path of the Blue Sky Striker
     1031002,//The Path of the Red Sky Striker
     1031003,//Magic Cylinder
@@ -664,6 +675,8 @@
     1070113,//Dark Supremacy
     1070114,//Double Wild
     1070115,//The Fallen & The Virtuous
+    1070116,//Materiactor Exagard
+    1070117,//Crystron Quariongandrax
     1071001,//Crusadia Maximus
     1071002,//Longirsu, the Orcust Orchestrator
     1071003,//Dream Mirror Phantasms
@@ -697,6 +710,7 @@
     1071031,//Mist Valley Apex Avian
     1071032,//Skull Servant
     1071033,//Sky Striker Ace - Raye
+    1071034,//Flamvell Uruquizas
     1072001,//Sky Striker Conversion: Flaming Wings of Destruction
     1072002,//Chaos Xyz Evolution －Galactic Gathering of Dragons－
     1072003,//Sky Striker Armor - Black Flash Raiment
@@ -714,6 +728,7 @@
     1073010,//DC 2024 SEP Celebration
     1073011,//DC 2024 DEC Celebration
     1073012,//DC 2025 MAR Celebration
+    1073013,//WCS 2025 Qualifiers Celebration
     1075001,//Yu-Gi-Oh! CARD GAME THE CHRONICLES
     1075002,//THE CHRONICLES: Sky Striker Ace
   ],
@@ -855,6 +870,7 @@
     1101017,//Time Machine
     1101019,//Dragon Capture Jar
     1101020,//Opening of the Spirit Gates
+    1101022,//Scrap Recycler & Garbage Collector
     1101023,//Back to Square One
     1101025,//Fire King Sanctuary
     1101032,//Centur-Ion Emeth VI
@@ -931,6 +947,8 @@
     1111050,//WATER
     1111056,//Legend of the Sovereign Seas
     1111057,//Shield of the Millennium Dynasty
+    1111061,//Mimighoul Room
+    1111062,//Flamvell, the Scarlet Warriors
     1112001,//Colosseum
     1112002,//WCS
     1113001,//WCS 2023 Party Favor

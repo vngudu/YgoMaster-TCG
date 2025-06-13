@@ -23,12 +23,10 @@
     "MultiplayerPvpClientKeepConsoleAlive": false,
     "MultiplayerPvpClientSysActSleepInMilliseconds": 10,
     "MultiplayerPvpClientSysActCallsPerSleep": 5,
-    "MultiplayerPvpClientDoCommandUserOffset": 15500,
-    "MultiplayerPvpClientRunDialogUserOffset": 15396,
+    "MultiplayerPvpClientDoCommandUserOffset": 14468,
+    "MultiplayerPvpClientRunDialogUserOffset": 14364,
     "DisableDeckValidation": false,
     "DontUpdateDeckEditTime": false,
-    "DeckListAlphabetical": false,
-    "DeckListByBoxThenAlphabetical": false,
     "ShowTopics": true,
     "DeckSlots": 999,
     "UnlockAllCards": false,// 3x of every card (STYLE: Normal)
@@ -36,15 +34,16 @@
     "UnlockAllCardsHighestRarity": false,// 3x of every card (STYLE: N/R = Shine, UR/SR = Royal)
     "UnlockAllItems": false,// Gives every item in ItemID.json
     "UnlockAllSoloChapters": false,// Sets every solo chapter to complete
+    "SoloRemoveDuelTutorials": false,
     "SoloDisableNoShuffle": false,
-    "SoloShowGateClearForAllSecretPacks": false,
-    "SoloRewardsInDuelResult": false,
+    "SoloShowGateClearForAllSecretPacks": true,
+    "SoloRewardsInDuelResult": true,
     "SoloRewardsInDuelResultAreRare": false,
     "CardCraftableAll": false,
     "DisableNoDismantle": false,
-    "DisableBanList": false,
-    "ProgressiveCardList": false,
-    "ProgressiveCardRarities": false,
+    "DisableBanList": true,
+    "ProgressiveCardList": true,
+    "ProgressiveCardRarities": true,
     "FriendSearchLimit": 100,
     "FriendOfflineInSeconds": 300,
     "FriendRefreshInSeconds": 60,
@@ -94,7 +93,7 @@
     "TradeAllowOtherPlayerToRemoveYourCards": true,
     "TradeEnterRoomRequestDelayInSeconds": 1.5,
     "EmoteMaxLength": 1000,
-    "DefaultGems": 2000,
+    "DefaultGems": 1000,
     "DefaultCraftPoints": {
         "3":0,// Normal
         "4":0,// Rare
@@ -102,22 +101,40 @@
         "6":0,// UltraRare
     },
     "DefaultItems": [
-        1000001,// Rescue Rabbit (AVATAR)
+        1001009,// Shard of Greed (AVATAR)
         1010001,// Duelist (ICON)
+		1011004,//5D's Duel Transer Rider (ICON)
+		1011005,//5D's Duel Transer Prince (ICON)
+		1011006,//5D's Duel Transer Average Joe (ICON)
+		1011007,//5D's Duel Transer Friendly Teen (ICON)
+		1011008,//5D's Duel Transer Gruff King (ICON)
+		1011009,//5D's Duel Transer Tough Guy (ICON)
+		1011010,//5D's Duel Transer Casual Teen (ICON)
+		1011011,//5D's Duel Transer School Student (ICON)
+		1011012,//5D's Duel Transer Tough Girl (ICON)
+		1011013,//5D's Duel Transer Idol (ICON)
+		1011014,//5D's Duel Transer Secretary (ICON)
+		1011015,//5D's Duel Transer Rider (ICON)
+		1011016,//DM Rare Hunter
+		1011017,//GX Shadow Rider
+		1011018,//5D Dark Signer
+		1011019,//Zexal Barian Duelist
+		1011020,//Arc-V Obelisk Force
+		1011021,//VRAINS Knight of Hanoi
+		1011022,//DL Card Trader EX
         1030001,// ICON_FRAME01
         1070001,// Yu-Gi-Oh! Trading Card Game (PROTECTOR)
         1080001,// Duelist Card Case Red (DECK_CASE)
         1090001,// Forest (FIELD)
-        1130001,// Blue-Eyes Alternative White Dragon (WALLPAPER)
+        1130032,//Blue-Eyes White Dragon (WALLPAPER)
         //1120001,// Starting Deck (STRUCTURE)
     ],
     "Craft": {
-        // Disabled craft point rollover (as this isn't something in the normal game)
-        //"CraftPointRollover": {
-        //   "Normal": { "at": 1000, "take": 500, "give": 30 },
-        //   "Rare": { "at": 1000, "take": 500, "give": 30 },
-        //   "SuperRare": { "at": 1000, "take": 500, "give": 30 }
-        //},
+        "CraftPointRollover": {
+           "Normal": { "at": 1000, "take": 500, "give": 30 },
+           "Rare": { "at": 1000, "take": 500, "give": 30 },
+           "SuperRare": { "at": 1000, "take": 500, "give": 30 }
+        },
         "Craft": {
             // Cost of crafting cards
             "Normal": {
@@ -139,27 +156,27 @@
                 "Royal": 999999
             }
         },
-        "CraftStyleRarity": {
-            // Shine/royal chance when crafting (delete to disable this)
-            "Normal": {
-                "Normal": 90,
-                "Shine": 10
-            },
-            "Rare": {
-                "Normal": 90,
-                "Shine": 10
-            },
-            "SuperRare": {
-                "Normal": 90,
-                "Shine": 9,
-                "Royal": 1
-            },
-            "UltraRare": {
-                "Normal": 90,
-                "Shine": 9,
-                "Royal": 1
-            }
-        },
+        //"CraftStyleRarity": {
+        //    // Shine/royal chance when crafting (delete to disable this)
+        //    "Normal": {
+        //        "Normal": 90,
+        //        "Shine": 10
+        //    },
+        //    "Rare": {
+        //        "Normal": 90,
+        //        "Shine": 10
+        //    },
+        //    "SuperRare": {
+        //        "Normal": 90,
+        //        "Shine": 9,
+        //        "Royal": 1
+        //    },
+        //    "UltraRare": {
+        //        "Normal": 90,
+        //        "Shine": 9,
+        //        "Royal": 1
+        //    }
+        //},
         "Dismantle": {
             // Rewards for dismantling cards
             "Normal": {
@@ -184,7 +201,7 @@
     },
     "DuelRewards": {
         "ChapterStatusChangedMultiplier": 1.0,
-        "ChapterStatusChangedNoRewards": true,
+        "ChapterStatusChangedNoRewards": false,
         "win": [
             {
                 "type": "Item",
@@ -204,69 +221,69 @@
             {
                 "type": "Gem",
                 "value": 200,
-                "rate": 0.01,
+                "rate": 0,
                 "rare": true
             },
             {
                 "type": "Gem",
-                "min": 70,
-                "max": 120,
+                "min": 150,
+                "max": 250,
                 "rate": 100
             },
             {
                 "type": "Gem",
                 "value": 15,
-                "rate": 15
+                "rate": 0
             },
             {
                 "type": "Gem",
                 "value": 10,
-                "rate": 10
+                "rate": 0
             },
             {
                 "type": "Gem",
                 "value": 5,
-                "rate": 5
+                "rate": 0
             },
             {
                 "type": "Gem",
                 "value": 99,
-                "rate": 0.1
+                "rate": 0
             },
             {
                 "type": "Card",
                 "cardRate": [90,10],
-                "rate": 50
+                "rate": 0
             },
             {
                 "type": "Card",
                 "cardRate": [85,14,0.7,0.1],
                 "cardRare": [false,false,true,true],
-                "rate": 10
+                "rate": 0
             },
             {
                 "type": "Card",
                 "cardRate": [60,37,2.5,0.5],
                 "cardRare": [false,false,true,true],
-                "rate": 5
+                "rate": 0
             },
         ],
         "lose": [
             {
                 "type": "Gem",
-                "min": 5,
-                "max": 20,
+                "min": 50,
+                "max": 150,
                 "rate": 100
             },
             {
                 "type": "Gem",
                 "value": 8,
-                "rate": 10
+                "rate": 0
             },
             {
                 "type": "Card",
                 "cardRate": [90,9,0.7,0.1],
-                "rate": 10
+                "rate": 0
             },
         ]
     },
@@ -293,69 +310,69 @@
             {
                 "type": "Gem",
                 "value": 200,
-                "rate": 0.01,
+                "rate": 0,
                 "rare": true
             },
             {
                 "type": "Gem",
-                "min": 70,
-                "max": 120,
+                "min": 150,
+                "max": 250,
                 "rate": 100
             },
             {
                 "type": "Gem",
                 "value": 15,
-                "rate": 15
+                "rate": 0
             },
             {
                 "type": "Gem",
                 "value": 10,
-                "rate": 10
+                "rate": 0
             },
             {
                 "type": "Gem",
                 "value": 5,
-                "rate": 5
+                "rate": 0
             },
             {
                 "type": "Gem",
                 "value": 99,
-                "rate": 0.1
+                "rate": 0
             },
             {
                 "type": "Card",
                 "cardRate": [90,10],
-                "rate": 50
+                "rate": 0
             },
             {
                 "type": "Card",
                 "cardRate": [85,14,0.7,0.1],
                 "cardRare": [false,false,true,true],
-                "rate": 10
+                "rate": 0
             },
             {
                 "type": "Card",
                 "cardRate": [60,37,2.5,0.5],
                 "cardRare": [false,false,true,true],
-                "rate": 5
+                "rate": 0
             },
         ],
         "lose": [
             {
                 "type": "Gem",
-                "min": 5,
-                "max": 20,
+                "min": 50,
+                "max": 150,
                 "rate": 100
             },
             {
                 "type": "Gem",
                 "value": 8,
-                "rate": 10
+                "rate": 0
             },
             {
                 "type": "Card",
                 "cardRate": [90,9,0.7,0.1],
-                "rate": 10
+                "rate": 0
             },
         ]
     }

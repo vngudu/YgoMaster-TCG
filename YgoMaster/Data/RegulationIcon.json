@@ -1,4 +1,16 @@
 {
+  "8": {
+    "id": "5",
+    "regulation_id": 8,
+    "name": "IDS_CARDMENU_REGULATION_UNLIMITED",
+    "icon": "RegulationLogoUnlimited"
+  },
+  "10": {
+    "id": "9",
+    "regulation_id": 1018,
+    "name": "IDS_CARDMENU_REGULATION_NORMAL",
+    "icon": "RegulationLogoStandard"
+  },
   "101": {
     "id": "1",
     "regulation_id": 101,
@@ -57,7 +69,7 @@
   },
   "10": {
     "id": "9",
-    "regulation_id": 1037,
+    "regulation_id": 1033,
     "name": "IDS_CARDMENU_REGULATION_NORMAL",
     "icon": "RegulationLogoStandard",
     "enable_room": "0"
@@ -293,289 +305,226 @@
     "icon": "RegulationLogoEvent",
     "enable_room": "1"
   },
-  "144": {
-    "id": "144",
-    "regulation_id": 144,
-    "name": "IDS_DUELTRIAL_REG_027",
-    "icon": "RegulationLogoEvent",
-    "enable_room": "0"
-  },
-  "145": {
-    "id": "145",
-    "regulation_id": 145,
-    "name": "IDS_REGULATION_NAME_VERSUS_004_1",
-    "icon": "RegulationLogoEvent",
-    "enable_room": "1"
-  },
-  "146": {
-    "id": "146",
-    "regulation_id": 146,
-    "name": "IDS_REGULATION_NAME_VERSUS_004_2",
-    "icon": "RegulationLogoEvent",
-    "enable_room": "1"
-  },
-  "147": {
-    "id": "147",
-    "regulation_id": 147,
-    "name": "IDS_REGULATION_NAME_VERSUS_004_3",
-    "icon": "RegulationLogoEvent",
-    "enable_room": "1"
-  },
-  "148": {
-    "id": "148",
-    "regulation_id": 148,
-    "name": "IDS_DUELTRIAL_REG_030",
-    "icon": "RegulationLogoEvent",
-    "enable_room": "0"
-  },
-  "149": {
-    "id": "149",
-    "regulation_id": 149,
-    "name": "IDS_DICERALLY_REG_001",
-    "icon": "RegulationLogoEvent",
-    "enable_room": "1"
-  },
   "1002": {
     "id": "1002",
-    "regulation_id": 1037,
+    "regulation_id": 1033,
     "name": "IDS_CARDMENU_REGULATION_NORMAL",
     "icon": "RegulationLogoStandard",
     "enable_room": "0"
   },
   "1003": {
     "id": "1003",
-    "regulation_id": 1037,
+    "regulation_id": 1033,
     "name": "IDS_CARDMENU_REGULATION_NORMAL",
     "icon": "RegulationLogoStandard",
     "enable_room": "0"
   },
   "1004": {
     "id": "1004",
-    "regulation_id": 1037,
+    "regulation_id": 1033,
     "name": "IDS_CARDMENU_REGULATION_NORMAL",
     "icon": "RegulationLogoStandard",
     "enable_room": "0"
   },
   "1005": {
     "id": "1005",
-    "regulation_id": 1037,
+    "regulation_id": 1033,
     "name": "IDS_CARDMENU_REGULATION_NORMAL",
     "icon": "RegulationLogoStandard",
     "enable_room": "0"
   },
   "1006": {
     "id": "1006",
-    "regulation_id": 1037,
+    "regulation_id": 1033,
     "name": "IDS_CARDMENU_REGULATION_NORMAL",
     "icon": "RegulationLogoStandard",
     "enable_room": "0"
   },
   "1007": {
     "id": "1007",
-    "regulation_id": 1037,
+    "regulation_id": 1033,
     "name": "IDS_CARDMENU_REGULATION_NORMAL",
     "icon": "RegulationLogoStandard",
     "enable_room": "0"
   },
   "1008": {
     "id": "1008",
-    "regulation_id": 1037,
+    "regulation_id": 1033,
     "name": "IDS_CARDMENU_REGULATION_NORMAL",
     "icon": "RegulationLogoStandard",
     "enable_room": "0"
   },
   "1009": {
     "id": "1009",
-    "regulation_id": 1037,
+    "regulation_id": 1033,
     "name": "IDS_CARDMENU_REGULATION_NORMAL",
     "icon": "RegulationLogoStandard",
     "enable_room": "0"
   },
   "1010": {
     "id": "1010",
-    "regulation_id": 1037,
+    "regulation_id": 1033,
     "name": "IDS_CARDMENU_REGULATION_NORMAL",
     "icon": "RegulationLogoStandard",
     "enable_room": "0"
   },
   "1011": {
     "id": "1011",
-    "regulation_id": 1037,
+    "regulation_id": 1033,
     "name": "IDS_CARDMENU_REGULATION_NORMAL",
     "icon": "RegulationLogoStandard",
     "enable_room": "0"
   },
   "1012": {
     "id": "1012",
-    "regulation_id": 1037,
+    "regulation_id": 1033,
     "name": "IDS_CARDMENU_REGULATION_NORMAL",
     "icon": "RegulationLogoStandard",
     "enable_room": "0"
   },
   "1013": {
     "id": "1013",
-    "regulation_id": 1037,
+    "regulation_id": 1033,
     "name": "IDS_CARDMENU_REGULATION_NORMAL",
     "icon": "RegulationLogoStandard",
     "enable_room": "0"
   },
   "1014": {
     "id": "1014",
-    "regulation_id": 1037,
+    "regulation_id": 1033,
     "name": "IDS_CARDMENU_REGULATION_NORMAL",
     "icon": "RegulationLogoStandard",
     "enable_room": "0"
   },
   "1015": {
     "id": "1015",
-    "regulation_id": 1037,
+    "regulation_id": 1033,
     "name": "IDS_CARDMENU_REGULATION_NORMAL",
     "icon": "RegulationLogoStandard",
     "enable_room": "0"
   },
   "1016": {
     "id": "1016",
-    "regulation_id": 1037,
+    "regulation_id": 1033,
     "name": "IDS_CARDMENU_REGULATION_NORMAL",
     "icon": "RegulationLogoStandard",
     "enable_room": "0"
   },
   "1017": {
     "id": "1017",
-    "regulation_id": 1037,
+    "regulation_id": 1033,
     "name": "IDS_CARDMENU_REGULATION_NORMAL",
     "icon": "RegulationLogoStandard",
     "enable_room": "0"
   },
   "1018": {
     "id": "1018",
-    "regulation_id": 1037,
+    "regulation_id": 1033,
     "name": "IDS_CARDMENU_REGULATION_NORMAL",
     "icon": "RegulationLogoStandard",
     "enable_room": "0"
   },
   "1019": {
     "id": "1019",
-    "regulation_id": 1037,
+    "regulation_id": 1033,
     "name": "IDS_CARDMENU_REGULATION_NORMAL",
     "icon": "RegulationLogoStandard",
     "enable_room": "0"
   },
   "1020": {
     "id": "1020",
-    "regulation_id": 1037,
+    "regulation_id": 1033,
     "name": "IDS_CARDMENU_REGULATION_NORMAL",
     "icon": "RegulationLogoStandard",
     "enable_room": "0"
   },
   "1021": {
     "id": "1021",
-    "regulation_id": 1037,
+    "regulation_id": 1033,
     "name": "IDS_CARDMENU_REGULATION_NORMAL",
     "icon": "RegulationLogoStandard",
     "enable_room": "0"
   },
   "1022": {
     "id": "1022",
-    "regulation_id": 1037,
+    "regulation_id": 1033,
     "name": "IDS_CARDMENU_REGULATION_NORMAL",
     "icon": "RegulationLogoStandard",
     "enable_room": "0"
   },
   "1023": {
     "id": "1023",
-    "regulation_id": 1037,
+    "regulation_id": 1033,
     "name": "IDS_CARDMENU_REGULATION_NORMAL",
     "icon": "RegulationLogoStandard",
     "enable_room": "0"
   },
   "1024": {
     "id": "1024",
-    "regulation_id": 1037,
+    "regulation_id": 1033,
     "name": "IDS_CARDMENU_REGULATION_NORMAL",
     "icon": "RegulationLogoStandard",
     "enable_room": "0"
   },
   "1025": {
     "id": "1025",
-    "regulation_id": 1037,
+    "regulation_id": 1033,
     "name": "IDS_CARDMENU_REGULATION_NORMAL",
     "icon": "RegulationLogoStandard",
     "enable_room": "0"
   },
   "1026": {
     "id": "1026",
-    "regulation_id": 1037,
+    "regulation_id": 1033,
     "name": "IDS_CARDMENU_REGULATION_NORMAL",
     "icon": "RegulationLogoStandard",
     "enable_room": "1"
   },
   "1027": {
     "id": "1027",
-    "regulation_id": 1037,
+    "regulation_id": 1033,
     "name": "IDS_CARDMENU_REGULATION_NORMAL",
     "icon": "RegulationLogoStandard",
     "enable_room": "1"
   },
   "1028": {
     "id": "1028",
-    "regulation_id": 1037,
+    "regulation_id": 1033,
     "name": "IDS_CARDMENU_REGULATION_NORMAL",
     "icon": "RegulationLogoStandard",
     "enable_room": "1"
   },
   "1029": {
     "id": "1029",
-    "regulation_id": 1037,
+    "regulation_id": 1033,
     "name": "IDS_CARDMENU_REGULATION_NORMAL",
     "icon": "RegulationLogoStandard",
     "enable_room": "1"
   },
   "1030": {
     "id": "1030",
-    "regulation_id": 1037,
+    "regulation_id": 1033,
     "name": "IDS_CARDMENU_REGULATION_NORMAL",
     "icon": "RegulationLogoStandard",
     "enable_room": "1"
   },
   "1031": {
     "id": "1031",
-    "regulation_id": 1037,
+    "regulation_id": 1033,
     "name": "IDS_CARDMENU_REGULATION_NORMAL",
     "icon": "RegulationLogoStandard",
     "enable_room": "1"
   },
   "1032": {
     "id": "1032",
-    "regulation_id": 1037,
+    "regulation_id": 1033,
     "name": "IDS_CARDMENU_REGULATION_NORMAL",
     "icon": "RegulationLogoStandard",
     "enable_room": "1"
   },
   "1033": {
     "id": "1033",
-    "regulation_id": 1037,
-    "name": "IDS_CARDMENU_REGULATION_NORMAL",
-    "icon": "RegulationLogoStandard",
-    "enable_room": "1"
-  },
-  "1034": {
-    "id": "1034",
-    "regulation_id": 1037,
-    "name": "IDS_CARDMENU_REGULATION_NORMAL",
-    "icon": "RegulationLogoStandard",
-    "enable_room": "1"
-  },
-  "1035": {
-    "id": "1035",
-    "regulation_id": 1037,
-    "name": "IDS_CARDMENU_REGULATION_NORMAL",
-    "icon": "RegulationLogoStandard",
-    "enable_room": "1"
-  },
-  "1036": {
-    "id": "1036",
-    "regulation_id": 1037,
+    "regulation_id": 1033,
     "name": "IDS_CARDMENU_REGULATION_NORMAL",
     "icon": "RegulationLogoStandard",
     "enable_room": "1"
@@ -587,1012 +536,1837 @@
     "icon": "RegulationLogoStandard",
     "enable_room": "1"
   },
+  "1038": {
+    "id": "1038",
+    "regulation_id": 1038,
+    "name": "IDS_CARDMENU_REGULATION_NORMAL",
+    "icon": "RegulationLogoStandard",
+    "enable_room": "1"
+  },
   "2001": {
     "id": "2001",
-    "regulation_id": 2037,
+    "regulation_id": 2033,
     "name": "IDS_REGULATION_FUSION",
     "icon": "RegulationLogoFusion",
     "enable_room": "0"
   },
   "2002": {
     "id": "2002",
-    "regulation_id": 2037,
+    "regulation_id": 2033,
     "name": "IDS_REGULATION_FUSION",
     "icon": "RegulationLogoFusion",
     "enable_room": "0"
   },
   "2003": {
     "id": "2003",
-    "regulation_id": 2037,
+    "regulation_id": 2033,
     "name": "IDS_REGULATION_FUSION",
     "icon": "RegulationLogoFusion",
     "enable_room": "0"
   },
   "2004": {
     "id": "2004",
-    "regulation_id": 2037,
+    "regulation_id": 2033,
     "name": "IDS_REGULATION_FUSION",
     "icon": "RegulationLogoFusion",
     "enable_room": "0"
   },
   "2005": {
     "id": "2005",
-    "regulation_id": 2037,
+    "regulation_id": 2033,
     "name": "IDS_REGULATION_FUSION",
     "icon": "RegulationLogoFusion",
     "enable_room": "0"
   },
   "2006": {
     "id": "2006",
-    "regulation_id": 2037,
+    "regulation_id": 2033,
     "name": "IDS_REGULATION_FUSION",
     "icon": "RegulationLogoFusion",
     "enable_room": "0"
   },
   "2007": {
     "id": "2007",
-    "regulation_id": 2037,
+    "regulation_id": 2033,
     "name": "IDS_REGULATION_FUSION",
     "icon": "RegulationLogoFusion",
     "enable_room": "0"
   },
   "2008": {
     "id": "2008",
-    "regulation_id": 2037,
+    "regulation_id": 2033,
     "name": "IDS_REGULATION_FUSION",
     "icon": "RegulationLogoFusion",
     "enable_room": "0"
   },
   "2009": {
     "id": "2009",
-    "regulation_id": 2037,
+    "regulation_id": 2033,
     "name": "IDS_REGULATION_FUSION",
     "icon": "RegulationLogoFusion",
     "enable_room": "0"
   },
   "2010": {
     "id": "2010",
-    "regulation_id": 2037,
+    "regulation_id": 2033,
     "name": "IDS_REGULATION_FUSION",
     "icon": "RegulationLogoFusion",
     "enable_room": "0"
   },
   "2011": {
     "id": "2011",
-    "regulation_id": 2037,
+    "regulation_id": 2033,
     "name": "IDS_REGULATION_FUSION",
     "icon": "RegulationLogoFusion",
     "enable_room": "0"
   },
   "2012": {
     "id": "2012",
-    "regulation_id": 2037,
+    "regulation_id": 2033,
     "name": "IDS_REGULATION_FUSION",
     "icon": "RegulationLogoFusion",
     "enable_room": "0"
   },
   "2013": {
     "id": "2013",
-    "regulation_id": 2037,
+    "regulation_id": 2033,
     "name": "IDS_REGULATION_FUSION",
     "icon": "RegulationLogoFusion",
     "enable_room": "0"
   },
   "2014": {
     "id": "2014",
-    "regulation_id": 2037,
+    "regulation_id": 2033,
     "name": "IDS_REGULATION_FUSION",
     "icon": "RegulationLogoFusion",
     "enable_room": "0"
   },
   "2015": {
     "id": "2015",
-    "regulation_id": 2037,
+    "regulation_id": 2033,
     "name": "IDS_REGULATION_FUSION",
     "icon": "RegulationLogoFusion",
     "enable_room": "0"
   },
   "2016": {
     "id": "2016",
-    "regulation_id": 2037,
+    "regulation_id": 2033,
     "name": "IDS_REGULATION_FUSION",
     "icon": "RegulationLogoFusion",
     "enable_room": "0"
   },
   "2017": {
     "id": "2017",
-    "regulation_id": 2037,
+    "regulation_id": 2033,
     "name": "IDS_REGULATION_FUSION",
     "icon": "RegulationLogoFusion",
     "enable_room": "0"
   },
   "2018": {
     "id": "2018",
-    "regulation_id": 2037,
+    "regulation_id": 2033,
     "name": "IDS_REGULATION_FUSION",
     "icon": "RegulationLogoFusion",
     "enable_room": "0"
   },
   "2019": {
     "id": "2019",
-    "regulation_id": 2037,
+    "regulation_id": 2033,
     "name": "IDS_REGULATION_FUSION",
     "icon": "RegulationLogoFusion",
     "enable_room": "0"
   },
   "2020": {
     "id": "2020",
-    "regulation_id": 2037,
+    "regulation_id": 2033,
     "name": "IDS_REGULATION_FUSION",
     "icon": "RegulationLogoFusion",
     "enable_room": "0"
   },
   "2021": {
     "id": "2021",
-    "regulation_id": 2037,
+    "regulation_id": 2033,
     "name": "IDS_REGULATION_FUSION",
     "icon": "RegulationLogoFusion",
     "enable_room": "0"
   },
   "2022": {
     "id": "2022",
-    "regulation_id": 2037,
+    "regulation_id": 2033,
     "name": "IDS_REGULATION_FUSION",
     "icon": "RegulationLogoFusion",
     "enable_room": "0"
   },
   "2023": {
     "id": "2023",
-    "regulation_id": 2037,
+    "regulation_id": 2033,
     "name": "IDS_REGULATION_FUSION",
     "icon": "RegulationLogoFusion",
     "enable_room": "0"
   },
   "2024": {
     "id": "2024",
-    "regulation_id": 2037,
+    "regulation_id": 2033,
     "name": "IDS_REGULATION_FUSION",
     "icon": "RegulationLogoFusion",
     "enable_room": "0"
   },
   "2025": {
     "id": "2025",
-    "regulation_id": 2037,
+    "regulation_id": 2033,
     "name": "IDS_REGULATION_FUSION",
     "icon": "RegulationLogoFusion",
     "enable_room": "0"
   },
   "2026": {
     "id": "2026",
-    "regulation_id": 2037,
+    "regulation_id": 2033,
     "name": "IDS_REGULATION_FUSION",
     "icon": "RegulationLogoFusion",
     "enable_room": "1"
   },
   "2027": {
     "id": "2027",
-    "regulation_id": 2037,
+    "regulation_id": 2033,
     "name": "IDS_REGULATION_FUSION",
     "icon": "RegulationLogoFusion",
     "enable_room": "1"
   },
   "2028": {
     "id": "2028",
-    "regulation_id": 2037,
+    "regulation_id": 2033,
     "name": "IDS_REGULATION_FUSION",
     "icon": "RegulationLogoFusion",
     "enable_room": "1"
   },
   "2029": {
     "id": "2029",
-    "regulation_id": 2037,
+    "regulation_id": 2033,
     "name": "IDS_REGULATION_FUSION",
     "icon": "RegulationLogoFusion",
     "enable_room": "1"
   },
   "2030": {
     "id": "2030",
-    "regulation_id": 2037,
+    "regulation_id": 2033,
     "name": "IDS_REGULATION_FUSION",
     "icon": "RegulationLogoFusion",
     "enable_room": "1"
   },
   "2031": {
     "id": "2031",
-    "regulation_id": 2037,
+    "regulation_id": 2033,
     "name": "IDS_REGULATION_FUSION",
     "icon": "RegulationLogoFusion",
     "enable_room": "1"
   },
   "2033": {
     "id": "2033",
-    "regulation_id": 2037,
-    "name": "IDS_REGULATION_FUSION",
-    "icon": "RegulationLogoFusion",
-    "enable_room": "1"
-  },
-  "2034": {
-    "id": "2034",
-    "regulation_id": 2037,
-    "name": "IDS_REGULATION_FUSION",
-    "icon": "RegulationLogoFusion",
-    "enable_room": "1"
-  },
-  "2035": {
-    "id": "2035",
-    "regulation_id": 2037,
-    "name": "IDS_REGULATION_FUSION",
-    "icon": "RegulationLogoFusion",
-    "enable_room": "1"
-  },
-  "2036": {
-    "id": "2036",
-    "regulation_id": 2037,
-    "name": "IDS_REGULATION_FUSION",
-    "icon": "RegulationLogoFusion",
-    "enable_room": "1"
-  },
-  "2037": {
-    "id": "2037",
-    "regulation_id": 2037,
+    "regulation_id": 2033,
     "name": "IDS_REGULATION_FUSION",
     "icon": "RegulationLogoFusion",
     "enable_room": "1"
   },
   "3001": {
     "id": "3001",
-    "regulation_id": 3037,
+    "regulation_id": 3033,
     "name": "IDS_REGULATION_SYNCHRO",
     "icon": "RegulationLogoSynchro",
     "enable_room": "0"
   },
   "3002": {
     "id": "3002",
-    "regulation_id": 3037,
+    "regulation_id": 3033,
     "name": "IDS_REGULATION_SYNCHRO",
     "icon": "RegulationLogoSynchro",
     "enable_room": "0"
   },
   "3003": {
     "id": "3003",
-    "regulation_id": 3037,
+    "regulation_id": 3033,
     "name": "IDS_REGULATION_SYNCHRO",
     "icon": "RegulationLogoSynchro",
     "enable_room": "0"
   },
   "3004": {
     "id": "3004",
-    "regulation_id": 3037,
+    "regulation_id": 3033,
     "name": "IDS_REGULATION_SYNCHRO",
     "icon": "RegulationLogoSynchro",
     "enable_room": "0"
   },
   "3005": {
     "id": "3005",
-    "regulation_id": 3037,
+    "regulation_id": 3033,
     "name": "IDS_REGULATION_SYNCHRO",
     "icon": "RegulationLogoSynchro",
     "enable_room": "0"
   },
   "3006": {
     "id": "3006",
-    "regulation_id": 3037,
+    "regulation_id": 3033,
     "name": "IDS_REGULATION_SYNCHRO",
     "icon": "RegulationLogoSynchro",
     "enable_room": "0"
   },
   "3007": {
     "id": "3007",
-    "regulation_id": 3037,
+    "regulation_id": 3033,
     "name": "IDS_REGULATION_SYNCHRO",
     "icon": "RegulationLogoSynchro",
     "enable_room": "0"
   },
   "3008": {
     "id": "3008",
-    "regulation_id": 3037,
+    "regulation_id": 3033,
     "name": "IDS_REGULATION_SYNCHRO",
     "icon": "RegulationLogoSynchro",
     "enable_room": "0"
   },
   "3009": {
     "id": "3009",
-    "regulation_id": 3037,
+    "regulation_id": 3033,
     "name": "IDS_REGULATION_SYNCHRO",
     "icon": "RegulationLogoSynchro",
     "enable_room": "0"
   },
   "3010": {
     "id": "3010",
-    "regulation_id": 3037,
+    "regulation_id": 3033,
     "name": "IDS_REGULATION_SYNCHRO",
     "icon": "RegulationLogoSynchro",
     "enable_room": "0"
   },
   "3011": {
     "id": "3011",
-    "regulation_id": 3037,
+    "regulation_id": 3033,
     "name": "IDS_REGULATION_SYNCHRO",
     "icon": "RegulationLogoSynchro",
     "enable_room": "0"
   },
   "3012": {
     "id": "3012",
-    "regulation_id": 3037,
+    "regulation_id": 3033,
     "name": "IDS_REGULATION_SYNCHRO",
     "icon": "RegulationLogoSynchro",
     "enable_room": "0"
   },
   "3013": {
     "id": "3013",
-    "regulation_id": 3037,
+    "regulation_id": 3033,
     "name": "IDS_REGULATION_SYNCHRO",
     "icon": "RegulationLogoSynchro",
     "enable_room": "0"
   },
   "3014": {
     "id": "3014",
-    "regulation_id": 3037,
+    "regulation_id": 3033,
     "name": "IDS_REGULATION_SYNCHRO",
     "icon": "RegulationLogoSynchro",
     "enable_room": "0"
   },
   "3015": {
     "id": "3015",
-    "regulation_id": 3037,
+    "regulation_id": 3033,
     "name": "IDS_REGULATION_SYNCHRO",
     "icon": "RegulationLogoSynchro",
     "enable_room": "0"
   },
   "3016": {
     "id": "3016",
-    "regulation_id": 3037,
+    "regulation_id": 3033,
     "name": "IDS_REGULATION_SYNCHRO",
     "icon": "RegulationLogoSynchro",
     "enable_room": "0"
   },
   "3017": {
     "id": "3017",
-    "regulation_id": 3037,
+    "regulation_id": 3033,
     "name": "IDS_REGULATION_SYNCHRO",
     "icon": "RegulationLogoSynchro",
     "enable_room": "0"
   },
   "3018": {
     "id": "3018",
-    "regulation_id": 3037,
+    "regulation_id": 3033,
     "name": "IDS_REGULATION_SYNCHRO",
     "icon": "RegulationLogoSynchro",
     "enable_room": "0"
   },
   "3019": {
     "id": "3019",
-    "regulation_id": 3037,
+    "regulation_id": 3033,
     "name": "IDS_REGULATION_SYNCHRO",
     "icon": "RegulationLogoSynchro",
     "enable_room": "0"
   },
   "3020": {
     "id": "3020",
-    "regulation_id": 3037,
+    "regulation_id": 3033,
     "name": "IDS_REGULATION_SYNCHRO",
     "icon": "RegulationLogoSynchro",
     "enable_room": "0"
   },
   "3021": {
     "id": "3021",
-    "regulation_id": 3037,
+    "regulation_id": 3033,
     "name": "IDS_REGULATION_SYNCHRO",
     "icon": "RegulationLogoSynchro",
     "enable_room": "0"
   },
   "3022": {
     "id": "3022",
-    "regulation_id": 3037,
+    "regulation_id": 3033,
     "name": "IDS_REGULATION_SYNCHRO",
     "icon": "RegulationLogoSynchro",
     "enable_room": "0"
   },
   "3023": {
     "id": "3023",
-    "regulation_id": 3037,
+    "regulation_id": 3033,
     "name": "IDS_REGULATION_SYNCHRO",
     "icon": "RegulationLogoSynchro",
     "enable_room": "0"
   },
   "3024": {
     "id": "3024",
-    "regulation_id": 3037,
+    "regulation_id": 3033,
     "name": "IDS_REGULATION_SYNCHRO",
     "icon": "RegulationLogoSynchro",
     "enable_room": "0"
   },
   "3025": {
     "id": "3025",
-    "regulation_id": 3037,
+    "regulation_id": 3033,
     "name": "IDS_REGULATION_SYNCHRO",
     "icon": "RegulationLogoSynchro",
     "enable_room": "0"
   },
   "3026": {
     "id": "3026",
-    "regulation_id": 3037,
+    "regulation_id": 3033,
     "name": "IDS_REGULATION_SYNCHRO",
     "icon": "RegulationLogoSynchro",
     "enable_room": "1"
   },
   "3027": {
     "id": "3027",
-    "regulation_id": 3037,
+    "regulation_id": 3033,
     "name": "IDS_REGULATION_SYNCHRO",
     "icon": "RegulationLogoSynchro",
     "enable_room": "1"
   },
   "3028": {
     "id": "3028",
-    "regulation_id": 3037,
+    "regulation_id": 3033,
     "name": "IDS_REGULATION_SYNCHRO",
     "icon": "RegulationLogoSynchro",
     "enable_room": "1"
   },
   "3029": {
     "id": "3029",
-    "regulation_id": 3037,
+    "regulation_id": 3033,
     "name": "IDS_REGULATION_SYNCHRO",
     "icon": "RegulationLogoSynchro",
     "enable_room": "1"
   },
   "3030": {
     "id": "3030",
-    "regulation_id": 3037,
+    "regulation_id": 3033,
     "name": "IDS_REGULATION_SYNCHRO",
     "icon": "RegulationLogoSynchro",
     "enable_room": "1"
   },
   "3031": {
     "id": "3031",
-    "regulation_id": 3037,
+    "regulation_id": 3033,
     "name": "IDS_REGULATION_SYNCHRO",
     "icon": "RegulationLogoSynchro",
     "enable_room": "1"
   },
   "3033": {
     "id": "3033",
-    "regulation_id": 3037,
-    "name": "IDS_REGULATION_SYNCHRO",
-    "icon": "RegulationLogoSynchro",
-    "enable_room": "1"
-  },
-  "3034": {
-    "id": "3034",
-    "regulation_id": 3037,
-    "name": "IDS_REGULATION_SYNCHRO",
-    "icon": "RegulationLogoSynchro",
-    "enable_room": "1"
-  },
-  "3035": {
-    "id": "3035",
-    "regulation_id": 3037,
-    "name": "IDS_REGULATION_SYNCHRO",
-    "icon": "RegulationLogoSynchro",
-    "enable_room": "1"
-  },
-  "3036": {
-    "id": "3036",
-    "regulation_id": 3037,
-    "name": "IDS_REGULATION_SYNCHRO",
-    "icon": "RegulationLogoSynchro",
-    "enable_room": "1"
-  },
-  "3037": {
-    "id": "3037",
-    "regulation_id": 3037,
+    "regulation_id": 3033,
     "name": "IDS_REGULATION_SYNCHRO",
     "icon": "RegulationLogoSynchro",
     "enable_room": "1"
   },
   "4001": {
     "id": "4001",
-    "regulation_id": 4037,
+    "regulation_id": 4033,
     "name": "IDS_REGULATION_XYZ",
     "icon": "RegulationLogoXyz",
     "enable_room": "0"
   },
   "4002": {
     "id": "4002",
-    "regulation_id": 4037,
+    "regulation_id": 4033,
     "name": "IDS_REGULATION_XYZ",
     "icon": "RegulationLogoXyz",
     "enable_room": "0"
   },
   "4003": {
     "id": "4003",
-    "regulation_id": 4037,
+    "regulation_id": 4033,
     "name": "IDS_REGULATION_XYZ",
     "icon": "RegulationLogoXyz",
     "enable_room": "0"
   },
   "4004": {
     "id": "4004",
-    "regulation_id": 4037,
+    "regulation_id": 4033,
     "name": "IDS_REGULATION_XYZ",
     "icon": "RegulationLogoXyz",
     "enable_room": "0"
   },
   "4005": {
     "id": "4005",
-    "regulation_id": 4037,
+    "regulation_id": 4033,
     "name": "IDS_REGULATION_XYZ",
     "icon": "RegulationLogoXyz",
     "enable_room": "0"
   },
   "4006": {
     "id": "4006",
-    "regulation_id": 4037,
+    "regulation_id": 4033,
     "name": "IDS_REGULATION_XYZ",
     "icon": "RegulationLogoXyz",
     "enable_room": "0"
   },
   "4007": {
     "id": "4007",
-    "regulation_id": 4037,
+    "regulation_id": 4033,
     "name": "IDS_REGULATION_XYZ",
     "icon": "RegulationLogoXyz",
     "enable_room": "0"
   },
   "4008": {
     "id": "4008",
-    "regulation_id": 4037,
+    "regulation_id": 4033,
     "name": "IDS_REGULATION_XYZ",
     "icon": "RegulationLogoXyz",
     "enable_room": "0"
   },
   "4009": {
     "id": "4009",
-    "regulation_id": 4037,
+    "regulation_id": 4033,
     "name": "IDS_REGULATION_XYZ",
     "icon": "RegulationLogoXyz",
     "enable_room": "0"
   },
   "4010": {
     "id": "4010",
-    "regulation_id": 4037,
+    "regulation_id": 4033,
     "name": "IDS_REGULATION_XYZ",
     "icon": "RegulationLogoXyz",
     "enable_room": "0"
   },
   "4011": {
     "id": "4011",
-    "regulation_id": 4037,
+    "regulation_id": 4033,
     "name": "IDS_REGULATION_XYZ",
     "icon": "RegulationLogoXyz",
     "enable_room": "0"
   },
   "4012": {
     "id": "4012",
-    "regulation_id": 4037,
+    "regulation_id": 4033,
     "name": "IDS_REGULATION_XYZ",
     "icon": "RegulationLogoXyz",
     "enable_room": "0"
   },
   "4013": {
     "id": "4013",
-    "regulation_id": 4037,
+    "regulation_id": 4033,
     "name": "IDS_REGULATION_XYZ",
     "icon": "RegulationLogoXyz",
     "enable_room": "0"
   },
   "4014": {
     "id": "4014",
-    "regulation_id": 4037,
+    "regulation_id": 4033,
     "name": "IDS_REGULATION_XYZ",
     "icon": "RegulationLogoXyz",
     "enable_room": "0"
   },
   "4015": {
     "id": "4015",
-    "regulation_id": 4037,
+    "regulation_id": 4033,
     "name": "IDS_REGULATION_XYZ",
     "icon": "RegulationLogoXyz",
     "enable_room": "0"
   },
   "4016": {
     "id": "4016",
-    "regulation_id": 4037,
+    "regulation_id": 4033,
     "name": "IDS_REGULATION_XYZ",
     "icon": "RegulationLogoXyz",
     "enable_room": "0"
   },
   "4017": {
     "id": "4017",
-    "regulation_id": 4037,
+    "regulation_id": 4033,
     "name": "IDS_REGULATION_XYZ",
     "icon": "RegulationLogoXyz",
     "enable_room": "0"
   },
   "4018": {
     "id": "4018",
-    "regulation_id": 4037,
+    "regulation_id": 4033,
     "name": "IDS_REGULATION_XYZ",
     "icon": "RegulationLogoXyz",
     "enable_room": "0"
   },
   "4019": {
     "id": "4019",
-    "regulation_id": 4037,
+    "regulation_id": 4033,
     "name": "IDS_REGULATION_XYZ",
     "icon": "RegulationLogoXyz",
     "enable_room": "0"
   },
   "4020": {
     "id": "4020",
-    "regulation_id": 4037,
+    "regulation_id": 4033,
     "name": "IDS_REGULATION_XYZ",
     "icon": "RegulationLogoXyz",
     "enable_room": "0"
   },
   "4021": {
     "id": "4021",
-    "regulation_id": 4037,
+    "regulation_id": 4033,
     "name": "IDS_REGULATION_XYZ",
     "icon": "RegulationLogoXyz",
     "enable_room": "0"
   },
   "4022": {
     "id": "4022",
-    "regulation_id": 4037,
+    "regulation_id": 4033,
     "name": "IDS_REGULATION_XYZ",
     "icon": "RegulationLogoXyz",
     "enable_room": "0"
   },
   "4023": {
     "id": "4023",
-    "regulation_id": 4037,
+    "regulation_id": 4033,
     "name": "IDS_REGULATION_XYZ",
     "icon": "RegulationLogoXyz",
     "enable_room": "0"
   },
   "4024": {
     "id": "4024",
-    "regulation_id": 4037,
+    "regulation_id": 4033,
     "name": "IDS_REGULATION_XYZ",
     "icon": "RegulationLogoXyz",
     "enable_room": "0"
   },
   "4025": {
     "id": "4025",
-    "regulation_id": 4037,
+    "regulation_id": 4033,
     "name": "IDS_REGULATION_XYZ",
     "icon": "RegulationLogoXyz",
     "enable_room": "0"
   },
   "4026": {
     "id": "4026",
-    "regulation_id": 4037,
+    "regulation_id": 4033,
     "name": "IDS_REGULATION_XYZ",
     "icon": "RegulationLogoXyz",
     "enable_room": "1"
   },
   "4027": {
     "id": "4027",
-    "regulation_id": 4037,
+    "regulation_id": 4033,
     "name": "IDS_REGULATION_XYZ",
     "icon": "RegulationLogoXyz",
     "enable_room": "1"
   },
   "4028": {
     "id": "4028",
-    "regulation_id": 4037,
+    "regulation_id": 4033,
     "name": "IDS_REGULATION_XYZ",
     "icon": "RegulationLogoXyz",
     "enable_room": "1"
   },
   "4029": {
     "id": "4029",
-    "regulation_id": 4037,
+    "regulation_id": 4033,
     "name": "IDS_REGULATION_XYZ",
     "icon": "RegulationLogoXyz",
     "enable_room": "1"
   },
   "4030": {
     "id": "4030",
-    "regulation_id": 4037,
+    "regulation_id": 4033,
     "name": "IDS_REGULATION_XYZ",
     "icon": "RegulationLogoXyz",
     "enable_room": "1"
   },
   "4031": {
     "id": "4031",
-    "regulation_id": 4037,
+    "regulation_id": 4033,
     "name": "IDS_REGULATION_XYZ",
     "icon": "RegulationLogoXyz",
     "enable_room": "1"
   },
   "4033": {
     "id": "4033",
-    "regulation_id": 4037,
-    "name": "IDS_REGULATION_XYZ",
-    "icon": "RegulationLogoXyz",
-    "enable_room": "1"
-  },
-  "4034": {
-    "id": "4034",
-    "regulation_id": 4037,
-    "name": "IDS_REGULATION_XYZ",
-    "icon": "RegulationLogoXyz",
-    "enable_room": "1"
-  },
-  "4035": {
-    "id": "4035",
-    "regulation_id": 4037,
-    "name": "IDS_REGULATION_XYZ",
-    "icon": "RegulationLogoXyz",
-    "enable_room": "1"
-  },
-  "4036": {
-    "id": "4036",
-    "regulation_id": 4037,
-    "name": "IDS_REGULATION_XYZ",
-    "icon": "RegulationLogoXyz",
-    "enable_room": "1"
-  },
-  "4037": {
-    "id": "4037",
-    "regulation_id": 4037,
+    "regulation_id": 4033,
     "name": "IDS_REGULATION_XYZ",
     "icon": "RegulationLogoXyz",
     "enable_room": "1"
   },
   "5001": {
     "id": "5001",
-    "regulation_id": 5037,
+    "regulation_id": 5033,
     "name": "IDS_REGULATION_LINK",
     "icon": "RegulationLogoLink",
     "enable_room": "0"
   },
   "5002": {
     "id": "5002",
-    "regulation_id": 5037,
+    "regulation_id": 5033,
     "name": "IDS_REGULATION_LINK",
     "icon": "RegulationLogoLink",
     "enable_room": "0"
   },
   "5003": {
     "id": "5003",
-    "regulation_id": 5037,
+    "regulation_id": 5033,
     "name": "IDS_REGULATION_LINK",
     "icon": "RegulationLogoLink",
     "enable_room": "0"
   },
   "5004": {
     "id": "5004",
-    "regulation_id": 5037,
+    "regulation_id": 5033,
     "name": "IDS_REGULATION_LINK",
     "icon": "RegulationLogoLink",
     "enable_room": "0"
   },
   "5005": {
     "id": "5005",
-    "regulation_id": 5037,
+    "regulation_id": 5033,
     "name": "IDS_REGULATION_LINK",
     "icon": "RegulationLogoLink",
     "enable_room": "0"
   },
   "5006": {
     "id": "5006",
-    "regulation_id": 5037,
+    "regulation_id": 5033,
     "name": "IDS_REGULATION_LINK",
     "icon": "RegulationLogoLink",
     "enable_room": "0"
   },
   "5007": {
     "id": "5007",
-    "regulation_id": 5037,
+    "regulation_id": 5033,
     "name": "IDS_REGULATION_LINK",
     "icon": "RegulationLogoLink",
     "enable_room": "0"
   },
   "5008": {
     "id": "5008",
-    "regulation_id": 5037,
+    "regulation_id": 5033,
     "name": "IDS_REGULATION_LINK",
     "icon": "RegulationLogoLink",
     "enable_room": "0"
   },
   "5009": {
     "id": "5009",
-    "regulation_id": 5037,
+    "regulation_id": 5033,
     "name": "IDS_REGULATION_LINK",
     "icon": "RegulationLogoLink",
     "enable_room": "0"
   },
   "5010": {
     "id": "5010",
-    "regulation_id": 5037,
+    "regulation_id": 5033,
     "name": "IDS_REGULATION_LINK",
     "icon": "RegulationLogoLink",
     "enable_room": "0"
   },
   "5011": {
     "id": "5011",
-    "regulation_id": 5037,
+    "regulation_id": 5033,
     "name": "IDS_REGULATION_LINK",
     "icon": "RegulationLogoLink",
     "enable_room": "0"
   },
   "5012": {
     "id": "5012",
-    "regulation_id": 5037,
+    "regulation_id": 5033,
     "name": "IDS_REGULATION_LINK",
     "icon": "RegulationLogoLink",
     "enable_room": "0"
   },
   "5013": {
     "id": "5013",
-    "regulation_id": 5037,
+    "regulation_id": 5033,
     "name": "IDS_REGULATION_LINK",
     "icon": "RegulationLogoLink",
     "enable_room": "0"
   },
   "5014": {
     "id": "5014",
-    "regulation_id": 5037,
+    "regulation_id": 5033,
     "name": "IDS_REGULATION_LINK",
     "icon": "RegulationLogoLink",
     "enable_room": "0"
   },
   "5015": {
     "id": "5015",
-    "regulation_id": 5037,
+    "regulation_id": 5033,
     "name": "IDS_REGULATION_LINK",
     "icon": "RegulationLogoLink",
     "enable_room": "0"
   },
   "5016": {
     "id": "5016",
-    "regulation_id": 5037,
+    "regulation_id": 5033,
     "name": "IDS_REGULATION_LINK",
     "icon": "RegulationLogoLink",
     "enable_room": "0"
   },
   "5017": {
     "id": "5017",
-    "regulation_id": 5037,
+    "regulation_id": 5033,
     "name": "IDS_REGULATION_LINK",
     "icon": "RegulationLogoLink",
     "enable_room": "0"
   },
   "5018": {
     "id": "5018",
-    "regulation_id": 5037,
+    "regulation_id": 5033,
     "name": "IDS_REGULATION_LINK",
     "icon": "RegulationLogoLink",
     "enable_room": "0"
   },
   "5019": {
     "id": "5019",
-    "regulation_id": 5037,
+    "regulation_id": 5033,
     "name": "IDS_REGULATION_LINK",
     "icon": "RegulationLogoLink",
     "enable_room": "0"
   },
   "5020": {
     "id": "5020",
-    "regulation_id": 5037,
+    "regulation_id": 5033,
     "name": "IDS_REGULATION_LINK",
     "icon": "RegulationLogoLink",
     "enable_room": "0"
   },
   "5021": {
     "id": "5021",
-    "regulation_id": 5037,
+    "regulation_id": 5033,
     "name": "IDS_REGULATION_LINK",
     "icon": "RegulationLogoLink",
     "enable_room": "0"
   },
   "5022": {
     "id": "5022",
-    "regulation_id": 5037,
+    "regulation_id": 5033,
     "name": "IDS_REGULATION_LINK",
     "icon": "RegulationLogoLink",
     "enable_room": "0"
   },
   "5023": {
     "id": "5023",
-    "regulation_id": 5037,
+    "regulation_id": 5033,
     "name": "IDS_REGULATION_LINK",
     "icon": "RegulationLogoLink",
     "enable_room": "0"
   },
   "5024": {
     "id": "5024",
-    "regulation_id": 5037,
+    "regulation_id": 5033,
     "name": "IDS_REGULATION_LINK",
     "icon": "RegulationLogoLink",
     "enable_room": "0"
   },
   "5025": {
     "id": "5025",
-    "regulation_id": 5037,
+    "regulation_id": 5033,
     "name": "IDS_REGULATION_LINK",
     "icon": "RegulationLogoLink",
     "enable_room": "0"
   },
   "5026": {
     "id": "5026",
-    "regulation_id": 5037,
+    "regulation_id": 5033,
     "name": "IDS_REGULATION_LINK",
     "icon": "RegulationLogoLink",
     "enable_room": "1"
   },
   "5027": {
     "id": "5027",
-    "regulation_id": 5037,
+    "regulation_id": 5033,
     "name": "IDS_REGULATION_LINK",
     "icon": "RegulationLogoLink",
     "enable_room": "1"
   },
   "5028": {
     "id": "5028",
-    "regulation_id": 5037,
+    "regulation_id": 5033,
     "name": "IDS_REGULATION_LINK",
     "icon": "RegulationLogoLink",
     "enable_room": "1"
   },
   "5029": {
     "id": "5029",
-    "regulation_id": 5037,
+    "regulation_id": 5033,
     "name": "IDS_REGULATION_LINK",
     "icon": "RegulationLogoLink",
     "enable_room": "1"
   },
   "5030": {
     "id": "5030",
-    "regulation_id": 5037,
+    "regulation_id": 5033,
     "name": "IDS_REGULATION_LINK",
     "icon": "RegulationLogoLink",
     "enable_room": "1"
   },
   "5031": {
     "id": "5031",
-    "regulation_id": 5037,
+    "regulation_id": 5033,
     "name": "IDS_REGULATION_LINK",
     "icon": "RegulationLogoLink",
     "enable_room": "1"
   },
   "5033": {
     "id": "5033",
-    "regulation_id": 5037,
+    "regulation_id": 5033,
     "name": "IDS_REGULATION_LINK",
     "icon": "RegulationLogoLink",
     "enable_room": "1"
   },
-  "5034": {
-    "id": "5034",
-    "regulation_id": 5037,
-    "name": "IDS_REGULATION_LINK",
-    "icon": "RegulationLogoLink",
-    "enable_room": "1"
+  "9907": {
+    "id": "9907",
+    "regulation_id": 9907,
+    "name": "OCG_1999_07",
+    "icon": "RegulationLogoStandard"
   },
-  "5035": {
-    "id": "5035",
-    "regulation_id": 5037,
-    "name": "IDS_REGULATION_LINK",
-    "icon": "RegulationLogoLink",
-    "enable_room": "1"
+  "10002": {
+    "id": "10002",
+    "regulation_id": 10002,
+    "name": "OCG_2000_02",
+    "icon": "RegulationLogoStandard"
   },
-  "5036": {
-    "id": "5036",
-    "regulation_id": 5037,
-    "name": "IDS_REGULATION_LINK",
-    "icon": "RegulationLogoLink",
-    "enable_room": "1"
+  "10005": {
+    "id": "10005",
+    "regulation_id": 10005,
+    "name": "OCG_2000_05",
+    "icon": "RegulationLogoStandard"
   },
-  "5037": {
-    "id": "5037",
-    "regulation_id": 5037,
-    "name": "IDS_REGULATION_LINK",
-    "icon": "RegulationLogoLink",
-    "enable_room": "1"
+  "10007": {
+    "id": "10007",
+    "regulation_id": 10007,
+    "name": "OCG_2000_07",
+    "icon": "RegulationLogoStandard"
+  },
+  "10008": {
+    "id": "10008",
+    "regulation_id": 10008,
+    "name": "OCG_2000_08",
+    "icon": "RegulationLogoStandard"
+  },
+  "10011": {
+    "id": "10011",
+    "regulation_id": 10011,
+    "name": "OCG_2000_11",
+    "icon": "RegulationLogoStandard"
+  },
+  "10101": {
+    "id": "10101",
+    "regulation_id": 10101,
+    "name": "OCG_2001_01",
+    "icon": "RegulationLogoStandard"
+  },
+  "10105": {
+    "id": "10105",
+    "regulation_id": 10105,
+    "name": "OCG_2001_05",
+    "icon": "RegulationLogoStandard"
+  },
+  "10201": {
+    "id": "10201",
+    "regulation_id": 10201,
+    "name": "OCG_2002_01",
+    "icon": "RegulationLogoStandard"
+  },
+  "10205": {
+    "id": "10205",
+    "regulation_id": 10205,
+    "name": "OCG_2002_05",
+    "icon": "RegulationLogoStandard"
+  },
+  "10301": {
+    "id": "10301",
+    "regulation_id": 10301,
+    "name": "OCG_2003_01",
+    "icon": "RegulationLogoStandard"
+  },
+  "10304": {
+    "id": "10304",
+    "regulation_id": 10304,
+    "name": "OCG_2003_04",
+    "icon": "RegulationLogoStandard"
+  },
+  "10307": {
+    "id": "10307",
+    "regulation_id": 10307,
+    "name": "OCG_2003_07",
+    "icon": "RegulationLogoStandard"
+  },
+  "10310": {
+    "id": "10310",
+    "regulation_id": 10310,
+    "name": "OCG_2003_10",
+    "icon": "RegulationLogoStandard"
+  },
+  "10403": {
+    "id": "10403",
+    "regulation_id": 10403,
+    "name": "OCG_2004_03",
+    "icon": "RegulationLogoStandard"
+  },
+  "10409": {
+    "id": "10409",
+    "regulation_id": 10409,
+    "name": "OCG_2004_09",
+    "icon": "RegulationLogoStandard"
+  },
+  "10503": {
+    "id": "10503",
+    "regulation_id": 10503,
+    "name": "OCG_2005_03",
+    "icon": "RegulationLogoStandard"
+  },
+  "10509": {
+    "id": "10509",
+    "regulation_id": 10509,
+    "name": "OCG_2005_09",
+    "icon": "RegulationLogoStandard"
+  },
+  "10603": {
+    "id": "10603",
+    "regulation_id": 10603,
+    "name": "OCG_2006_03",
+    "icon": "RegulationLogoStandard"
+  },
+  "10609": {
+    "id": "10609",
+    "regulation_id": 10609,
+    "name": "OCG_2006_09",
+    "icon": "RegulationLogoStandard"
+  },
+  "10703": {
+    "id": "10703",
+    "regulation_id": 10703,
+    "name": "OCG_2007_03",
+    "icon": "RegulationLogoStandard"
+  },
+  "10709": {
+    "id": "10709",
+    "regulation_id": 10709,
+    "name": "OCG_2007_09",
+    "icon": "RegulationLogoStandard"
+  },
+  "10803": {
+    "id": "10803",
+    "regulation_id": 10803,
+    "name": "OCG_2008_03",
+    "icon": "RegulationLogoStandard"
+  },
+  "10809": {
+    "id": "10809",
+    "regulation_id": 10809,
+    "name": "OCG_2008_09",
+    "icon": "RegulationLogoStandard"
+  },
+  "10903": {
+    "id": "10903",
+    "regulation_id": 10903,
+    "name": "OCG_2009_03",
+    "icon": "RegulationLogoStandard"
+  },
+  "10909": {
+    "id": "10909",
+    "regulation_id": 10909,
+    "name": "OCG_2009_09",
+    "icon": "RegulationLogoStandard"
+  },
+  "11003": {
+    "id": "11003",
+    "regulation_id": 11003,
+    "name": "OCG_2010_03",
+    "icon": "RegulationLogoStandard"
+  },
+  "11009": {
+    "id": "11009",
+    "regulation_id": 11009,
+    "name": "OCG_2010_09",
+    "icon": "RegulationLogoStandard"
+  },
+  "11103": {
+    "id": "11103",
+    "regulation_id": 11103,
+    "name": "OCG_2011_03",
+    "icon": "RegulationLogoStandard"
+  },
+  "11109": {
+    "id": "11109",
+    "regulation_id": 11109,
+    "name": "OCG_2011_09",
+    "icon": "RegulationLogoStandard"
+  },
+  "11209": {
+    "id": "11209",
+    "regulation_id": 11209,
+    "name": "OCG_2012_09",
+    "icon": "RegulationLogoStandard"
+  },
+  "11303": {
+    "id": "11303",
+    "regulation_id": 11303,
+    "name": "OCG_2013_03",
+    "icon": "RegulationLogoStandard"
+  },
+  "11311": {
+    "id": "11311",
+    "regulation_id": 11311,
+    "name": "OCG_2013_11",
+    "icon": "RegulationLogoStandard"
+  },
+  "11404": {
+    "id": "11404",
+    "regulation_id": 11404,
+    "name": "OCG_2014_04",
+    "icon": "RegulationLogoStandard"
+  },
+  "11407": {
+    "id": "11407",
+    "regulation_id": 11407,
+    "name": "OCG_2014_07",
+    "icon": "RegulationLogoStandard"
+  },
+  "11410": {
+    "id": "11410",
+    "regulation_id": 11410,
+    "name": "OCG_2014_10",
+    "icon": "RegulationLogoStandard"
+  },
+  "11501": {
+    "id": "11501",
+    "regulation_id": 11501,
+    "name": "OCG_2015_01",
+    "icon": "RegulationLogoStandard"
+  },
+  "11504": {
+    "id": "11504",
+    "regulation_id": 11504,
+    "name": "OCG_2015_04",
+    "icon": "RegulationLogoStandard"
+  },
+  "11510": {
+    "id": "11510",
+    "regulation_id": 11510,
+    "name": "OCG_2015_10",
+    "icon": "RegulationLogoStandard"
+  },
+  "11601": {
+    "id": "11601",
+    "regulation_id": 11601,
+    "name": "OCG_2016_01",
+    "icon": "RegulationLogoStandard"
+  },
+  "11604": {
+    "id": "11604",
+    "regulation_id": 11604,
+    "name": "OCG_2016_04",
+    "icon": "RegulationLogoStandard"
+  },
+  "11607": {
+    "id": "11607",
+    "regulation_id": 11607,
+    "name": "OCG_2016_07",
+    "icon": "RegulationLogoStandard"
+  },
+  "11610": {
+    "id": "11610",
+    "regulation_id": 11610,
+    "name": "OCG_2016_10",
+    "icon": "RegulationLogoStandard"
+  },
+  "11701": {
+    "id": "11701",
+    "regulation_id": 11701,
+    "name": "OCG_2017_01",
+    "icon": "RegulationLogoStandard"
+  },
+  "11704": {
+    "id": "11704",
+    "regulation_id": 11704,
+    "name": "OCG_2017_04",
+    "icon": "RegulationLogoStandard"
+  },
+  "11707": {
+    "id": "11707",
+    "regulation_id": 11707,
+    "name": "OCG_2017_07",
+    "icon": "RegulationLogoStandard"
+  },
+  "11710": {
+    "id": "11710",
+    "regulation_id": 11710,
+    "name": "OCG_2017_10",
+    "icon": "RegulationLogoStandard"
+  },
+  "11801": {
+    "id": "11801",
+    "regulation_id": 11801,
+    "name": "OCG_2018_01",
+    "icon": "RegulationLogoStandard"
+  },
+  "11804": {
+    "id": "11804",
+    "regulation_id": 11804,
+    "name": "OCG_2018_04",
+    "icon": "RegulationLogoStandard"
+  },
+  "11807": {
+    "id": "11807",
+    "regulation_id": 11807,
+    "name": "OCG_2018_07",
+    "icon": "RegulationLogoStandard"
+  },
+  "11810": {
+    "id": "11810",
+    "regulation_id": 11810,
+    "name": "OCG_2018_10",
+    "icon": "RegulationLogoStandard"
+  },
+  "11901": {
+    "id": "11901",
+    "regulation_id": 11901,
+    "name": "OCG_2019_01",
+    "icon": "RegulationLogoStandard"
+  },
+  "11904": {
+    "id": "11904",
+    "regulation_id": 11904,
+    "name": "OCG_2019_04",
+    "icon": "RegulationLogoStandard"
+  },
+  "11907": {
+    "id": "11907",
+    "regulation_id": 11907,
+    "name": "OCG_2019_07",
+    "icon": "RegulationLogoStandard"
+  },
+  "11910": {
+    "id": "11910",
+    "regulation_id": 11910,
+    "name": "OCG_2019_10",
+    "icon": "RegulationLogoStandard"
+  },
+  "12001": {
+    "id": "12001",
+    "regulation_id": 12001,
+    "name": "OCG_2020_01",
+    "icon": "RegulationLogoStandard"
+  },
+  "12004": {
+    "id": "12004",
+    "regulation_id": 12004,
+    "name": "OCG_2020_04",
+    "icon": "RegulationLogoStandard"
+  },
+  "12007": {
+    "id": "12007",
+    "regulation_id": 12007,
+    "name": "OCG_2020_07",
+    "icon": "RegulationLogoStandard"
+  },
+  "12010": {
+    "id": "12010",
+    "regulation_id": 12010,
+    "name": "OCG_2020_10",
+    "icon": "RegulationLogoStandard"
+  },
+  "12101": {
+    "id": "12101",
+    "regulation_id": 12101,
+    "name": "OCG_2021_01",
+    "icon": "RegulationLogoStandard"
+  },
+  "12104": {
+    "id": "12104",
+    "regulation_id": 12104,
+    "name": "OCG_2021_04",
+    "icon": "RegulationLogoStandard"
+  },
+  "12107": {
+    "id": "12107",
+    "regulation_id": 12107,
+    "name": "OCG_2021_07",
+    "icon": "RegulationLogoStandard"
+  },
+  "12110": {
+    "id": "12110",
+    "regulation_id": 12110,
+    "name": "OCG_2021_10",
+    "icon": "RegulationLogoStandard"
+  },
+  "12201": {
+    "id": "12201",
+    "regulation_id": 12201,
+    "name": "OCG_2022_01",
+    "icon": "RegulationLogoStandard"
+  },
+  "12204": {
+    "id": "12204",
+    "regulation_id": 12204,
+    "name": "OCG_2022_04",
+    "icon": "RegulationLogoStandard"
+  },
+  "12207": {
+    "id": "12207",
+    "regulation_id": 12207,
+    "name": "OCG_2022_07",
+    "icon": "RegulationLogoStandard"
+  },
+  "12210": {
+    "id": "12210",
+    "regulation_id": 12210,
+    "name": "OCG_2022_10",
+    "icon": "RegulationLogoStandard"
+  },
+  "12301": {
+    "id": "12301",
+    "regulation_id": 12301,
+    "name": "OCG_2023_01",
+    "icon": "RegulationLogoStandard"
+  },
+  "12304": {
+    "id": "12304",
+    "regulation_id": 12304,
+    "name": "OCG_2023_04",
+    "icon": "RegulationLogoStandard"
+  },
+  "12307": {
+    "id": "12307",
+    "regulation_id": 12307,
+    "name": "OCG_2023_07",
+    "icon": "RegulationLogoStandard"
+  },
+  "12310": {
+    "id": "12310",
+    "regulation_id": 12310,
+    "name": "OCG_2023_10",
+    "icon": "RegulationLogoStandard"
+  },
+  "12401": {
+    "id": "12401",
+    "regulation_id": 12401,
+    "name": "OCG_2024_01",
+    "icon": "RegulationLogoStandard"
+  },
+  "13001": {
+    "id": "13001",
+    "regulation_id": 13001,
+    "name": "TCG 01_LOB 2002-05 Yugi Kaiba Format",
+    "icon": "RegulationLogo01"
+  },
+  "13002": {
+    "id": "13002",
+    "regulation_id": 13002,
+    "name": "TCG 02_MRD 2002-07 Critter Format",
+    "icon": "RegulationLogo02"
+  },
+  "13003": {
+    "id": "13003",
+    "regulation_id": 13003,
+    "name": "TCG 03_SRL 2002-10 Treasure Format",
+    "icon": "RegulationLogo03"
+  },
+  "13004": {
+    "id": "13004",
+    "regulation_id": 13004,
+    "name": "TCG 04_PSV 2002-12 Imperial Format",
+    "icon": "RegulationLogo04"
+  },
+  "13005": {
+    "id": "13005",
+    "regulation_id": 13005,
+    "name": "TCG 05_LON 2003-04 Android Format",
+    "icon": "RegulationLogo05"
+  },
+  "13006": {
+    "id": "13006",
+    "regulation_id": 13006,
+    "name": "TCG 05_LON 2003-05 Joey Pegasus Format",
+    "icon": "RegulationLogo05"
+  },
+  "13007": {
+    "id": "13007",
+    "regulation_id": 13007,
+    "name": "TCG 06_LOD 2003-07 Fiber Format",
+    "icon": "RegulationLogo06"
+  },
+  "13008": {
+    "id": "13008",
+    "regulation_id": 13008,
+    "name": "TCG 07_PGD 2003-08 Yata Format",
+    "icon": "RegulationLogo07"
+  },
+  "13009": {
+    "id": "13009",
+    "regulation_id": 13009,
+    "name": "TCG 08_MFC 2003-11 Scientist Format",
+    "icon": "RegulationLogo08"
+  },
+  "13010": {
+    "id": "13010",
+    "regulation_id": 13010,
+    "name": "TCG 09_DCR 2004-02 Vampire Format",
+    "icon": "RegulationLogo09"
+  },
+  "13011": {
+    "id": "13011",
+    "regulation_id": 13011,
+    "name": "TCG 10_IOC 2004-04 Chaos Format",
+    "icon": "RegulationLogo10"
+  },
+  "13012": {
+    "id": "13012",
+    "regulation_id": 13012,
+    "name": "TCG 11_AST 2004-08",
+    "icon": "RegulationLogo11"
+  },
+  "13013": {
+    "id": "13013",
+    "regulation_id": 13013,
+    "name": "TCG 11_AST 2004-10 Warrior Format",
+    "icon": "RegulationLogo11"
+  },
+  "13014": {
+    "id": "13014",
+    "regulation_id": 13014,
+    "name": "TCG 12_SOD 2005-04 Goat/Cyber Format",
+    "icon": "RegulationLogo12"
+  },
+  "13015": {
+    "id": "13015",
+    "regulation_id": 13015,
+    "name": "TCG 13_RDS 2005-04 Goat/Cyber Format",
+    "icon": "RegulationLogo13"
+  },
+  "13016": {
+    "id": "13016",
+    "regulation_id": 13016,
+    "name": "TCG 14_FET 2005-04 Goat/Cyber Format",
+    "icon": "RegulationLogo14"
+  },
+  "13017": {
+    "id": "13017",
+    "regulation_id": 13017,
+    "name": "TCG 15_TLM 2005-10 Reaper Format",
+    "icon": "RegulationLogo15"
+  },
+  "13018": {
+    "id": "13018",
+    "regulation_id": 13018,
+    "name": "TCG 16_CRV 2005-10 Reaper Format",
+    "icon": "RegulationLogo16"
+  },
+  "13019": {
+    "id": "13019",
+    "regulation_id": 13019,
+    "name": "TCG 17_EEN 2006-04 Chaos Return Format",
+    "icon": "RegulationLogo17"
+  },
+  "13020": {
+    "id": "13020",
+    "regulation_id": 13020,
+    "name": "TCG 18_SOI 2006_04 Chaos Return Format",
+    "icon": "RegulationLogo18"
+  },
+  "13021": {
+    "id": "13021",
+    "regulation_id": 13021,
+    "name": "TCG 19_EOJ 2006-09 Stein Format",
+    "icon": "RegulationLogo19"
+  },
+  "13022": {
+    "id": "13022",
+    "regulation_id": 13022,
+    "name": "TCG 20_POTD 2006-09 Stein Format",
+    "icon": "RegulationLogo20"
+  },
+  "13023": {
+    "id": "13023",
+    "regulation_id": 13023,
+    "name": "TCG 21_CDIP 2007-03 Chimeratech/Airblade Format",
+    "icon": "RegulationLogo21"
+  },
+  "13024": {
+    "id": "13024",
+    "regulation_id": 13024,
+    "name": "TCG 22_STON 2007-06 Trooper Format",
+    "icon": "RegulationLogo22"
+  },
+  "13025": {
+    "id": "13025",
+    "regulation_id": 13025,
+    "name": "TCG 23_FOTB 2007-06 Trooper Format",
+    "icon": "RegulationLogo23"
+  },
+  "13026": {
+    "id": "13026",
+    "regulation_id": 13026,
+    "name": "TCG 24_TAEV 2007-09 Zombie/Perfect Circle/Phantom Format",
+    "icon": "RegulationLogo24"
+  },
+  "13027": {
+    "id": "13027",
+    "regulation_id": 13027,
+    "name": "TCG 25_GLAS 2008-03 DAD Return Format",
+    "icon": "RegulationLogo25"
+  },
+  "13028": {
+    "id": "13028",
+    "regulation_id": 13028,
+    "name": "TCG 26_PTDN 2008_03 DAD Return Format",
+    "icon": "RegulationLogo26"
+  },
+  "13029": {
+    "id": "13029",
+    "regulation_id": 13029,
+    "name": "TCG 27_LODT 2008-09 TeleDAD Format",
+    "icon": "RegulationLogo27"
+  },
+  "13030": {
+    "id": "13030",
+    "regulation_id": 13030,
+    "name": "TCG 28_TDGS 2009-03 Cat Format",
+    "icon": "RegulationLogo28"
+  },
+  "13031": {
+    "id": "13031",
+    "regulation_id": 13031,
+    "name": "TCG 29_CSOC 2009-03 Cat Format",
+    "icon": "RegulationLogo29"
+  },
+  "13032": {
+    "id": "13032",
+    "regulation_id": 13032,
+    "name": "TCG 30_CRMS 2009-03 Cat Format",
+    "icon": "RegulationLogo30"
+  },
+  "13033": {
+    "id": "13033",
+    "regulation_id": 13033,
+    "name": "TCG 31_RGBT 2009_09 Lightsworn Format",
+    "icon": "RegulationLogo31"
+  },
+  "13034": {
+    "id": "13034",
+    "regulation_id": 13034,
+    "name": "TCG 32_ANPR 2010_03 Edison/Frog Format",
+    "icon": "RegulationLogo32"
+  },
+  "13035": {
+    "id": "13035",
+    "regulation_id": 13035,
+    "name": "TCG 33_SOVR 2010-03 Edison/Frog Format",
+    "icon": "RegulationLogo33"
+  },
+  "13036": {
+    "id": "13036",
+    "regulation_id": 13036,
+    "name": "TCG 34_ABPF 2010-03 Edison/Frog Format",
+    "icon": "RegulationLogo34"
+  },
+  "13037": {
+    "id": "13037",
+    "regulation_id": 13037,
+    "name": "TCG 35_TSHD 2010-09 X-Saber/Starstrike/Six Samurai Format",
+    "icon": "RegulationLogo35"
+  },
+  "13038": {
+    "id": "13038",
+    "regulation_id": 13038,
+    "name": "TCG 36_DREV 2010-09 X-Saber/Starstrike/Six Samurai Format",
+    "icon": "RegulationLogo36"
+  },
+  "13039": {
+    "id": "13039",
+    "regulation_id": 13039,
+    "name": "TCG 37_STBL 2011-03 Trishula/Librarian Format",
+    "icon": "RegulationLogo37"
+  },
+  "13040": {
+    "id": "13040",
+    "regulation_id": 13040,
+    "name": "TCG 38_STOR 2011-03 Trishula/Librarian Format",
+    "icon": "RegulationLogo38"
+  },
+  "13041": {
+    "id": "13041",
+    "regulation_id": 13041,
+    "name": "TCG 39_EXVC 2011-09 Tengu Plant/Underworld/Shockwave Format",
+    "icon": "RegulationLogo39"
+  },
+  "13042": {
+    "id": "13042",
+    "regulation_id": 13042,
+    "name": "TCG 40_GENF 2011-09 Tengu Plant/Underworld/Shockwave Format",
+    "icon": "RegulationLogo40"
+  },
+  "13043": {
+    "id": "13043",
+    "regulation_id": 13043,
+    "name": "TCG 41_PHSW 2012-03 Dino Rabbit/Long Beach Format",
+    "icon": "RegulationLogo41"
+  },
+  "13044": {
+    "id": "13044",
+    "regulation_id": 13044,
+    "name": "TCG 42_ORCS 2012-03 Dino Rabbit/Long Beach Format",
+    "icon": "RegulationLogo42"
+  },
+  "13045": {
+    "id": "13045",
+    "regulation_id": 13045,
+    "name": "TCG 43_GAOV 2012-09 Wind-Up/Miami Format",
+    "icon": "RegulationLogo43"
+  },
+  "13046": {
+    "id": "13046",
+    "regulation_id": 13046,
+    "name": "TCG 44_REDU 2012-09 Wind-Up/Miami Format",
+    "icon": "RegulationLogo44"
+  },
+  "13047": {
+    "id": "13047",
+    "regulation_id": 13047,
+    "name": "TCG 45_ABYR 2013-03 Meadowlands/Baby Ruler Format",
+    "icon": "RegulationLogo45"
+  },
+  "13048": {
+    "id": "13048",
+    "regulation_id": 13048,
+    "name": "TCG 46_CBLZ 2013-03 Meadowlands/Baby Ruler Format",
+    "icon": "RegulationLogo46"
+  },
+  "13049": {
+    "id": "13049",
+    "regulation_id": 13049,
+    "name": "TCG 47_LTGY 2013-09 Ravine Ruler Format",
+    "icon": "RegulationLogo47"
+  },
+  "13050": {
+    "id": "13050",
+    "regulation_id": 13050,
+    "name": "TCG 48_JOTL 2013-09 Ravine Ruler Format",
+    "icon": "RegulationLogo48"
+  },
+  "13051": {
+    "id": "13051",
+    "regulation_id": 13051,
+    "name": "TCG 49_SHSP 2014-01 Fire-Water Format",
+    "icon": "RegulationLogo49"
+  },
+  "13052": {
+    "id": "13052",
+    "regulation_id": 13052,
+    "name": "TCG 50_LVAL 2014-04 HAT/Vegas Format",
+    "icon": "RegulationLogo50"
+  },
+  "13053": {
+    "id": "13053",
+    "regulation_id": 13053,
+    "name": "TCG 51_PRIO 2014-07 Shaddoll Format",
+    "icon": "RegulationLogo51"
+  },
+  "13054": {
+    "id": "13054",
+    "regulation_id": 13054,
+    "name": "TCG 52_DUEA 2014-10 Burning Abyss Format",
+    "icon": "RegulationLogo52"
+  },
+  "13055": {
+    "id": "13055",
+    "regulation_id": 13055,
+    "name": "TCG 53_NECH 2015_01 Charleston Format",
+    "icon": "RegulationLogo53"
+  },
+  "13056": {
+    "id": "13056",
+    "regulation_id": 13056,
+    "name": "TCG 54_SECE 2025-04 Nekroz Format",
+    "icon": "RegulationLogo54"
+  },
+  "13057": {
+    "id": "13057",
+    "regulation_id": 13057,
+    "name": "TCG 55_CROS 2015-07 Clown Format",
+    "icon": "RegulationLogo55"
+  },
+  "13058": {
+    "id": "13058",
+    "regulation_id": 13058,
+    "name": "TCG 56_CORE 2015-11 PePe Format",
+    "icon": "RegulationLogo56"
+  },
+  "13059": {
+    "id": "13059",
+    "regulation_id": 13059,
+    "name": "TCG 57_DOCS 2016-04 DracoPal/Monarch Format",
+    "icon": "RegulationLogo57"
+  },
+  "13060": {
+    "id": "13060",
+    "regulation_id": 13060,
+    "name": "TCG 58_BOSH 2016-04 DracoPal/Monarch Format",
+    "icon": "RegulationLogo58"
+  },
+  "13061": {
+    "id": "13061",
+    "regulation_id": 13061,
+    "name": "TCG 59_SHVI 2016-08 ABC Format",
+    "icon": "RegulationLogo59"
+  },
+  "13062": {
+    "id": "13062",
+    "regulation_id": 13062,
+    "name": "TCG 60_TDIL 2017-03 Grass Zoo Format",
+    "icon": "RegulationLogo60"
+  },
+  "13063": {
+    "id": "13063",
+    "regulation_id": 13063,
+    "name": "TCG 61_INOV 2017-03 Grass Zoo Format",
+    "icon": "RegulationLogo61"
+  },
+  "13064": {
+    "id": "13064",
+    "regulation_id": 13064,
+    "name": "TCG 62_RATE 2017-03 Grass Zoo Format",
+    "icon": "RegulationLogo62"
+  },
+  "13065": {
+    "id": "13065",
+    "regulation_id": 13065,
+    "name": "TCG 63_MACR 2027_06 Draco Zoo/Link Zoo Format",
+    "icon": "RegulationLogo63"
+  },
+  "13066": {
+    "id": "13066",
+    "regulation_id": 13066,
+    "name": "TCG 64_COTD 2017-09 Draco Zoo/Link Zoo Format",
+    "icon": "RegulationLogo64"
+  },
+  "13067": {
+    "id": "13067",
+    "regulation_id": 13067,
+    "name": "TCG 65_CIBR 2017-11 SPYRAL/Magician Format",
+    "icon": "RegulationLogo65"
+  },
+  "13068": {
+    "id": "13068",
+    "regulation_id": 13068,
+    "name": "TCG 65_CIBR 2018-02 SPYRAL/Magician Format",
+    "icon": "RegulationLogo65"
+  },
+  "13069": {
+    "id": "13069",
+    "regulation_id": 13069,
+    "name": "TCG 66_EXFO 2018-05 Secaucus Format",
+    "icon": "RegulationLogo66"
+  },
+  "13070": {
+    "id": "13070",
+    "regulation_id": 13070,
+    "name": "TCG 67_FLOD 2018-09 Danger Format",
+    "icon": "RegulationLogo67"
+  },
+  "13071": {
+    "id": "13071",
+    "regulation_id": 13071,
+    "name": "TCG 68_CYHO 2018-09 Danger Format",
+    "icon": "RegulationLogo68"
+  },
+  "13072": {
+    "id": "13072",
+    "regulation_id": 13072,
+    "name": "TCG 69_SOFU 2019-01 Striker Format",
+    "icon": "RegulationLogo69"
+  },
+  "13073": {
+    "id": "13073",
+    "regulation_id": 13073,
+    "name": "TCG 70_SAST 2019-04 Thunder Dragon Format",
+    "icon": "RegulationLogo70"
+  },
+  "13074": {
+    "id": "13074",
+    "regulation_id": 13074,
+    "name": "TCG 71_DANE 2019-07 Lunalight Format",
+    "icon": "RegulationLogo71"
+  },
+  "13075": {
+    "id": "13075",
+    "regulation_id": 13075,
+    "name": "TCG 72_RIRA 2019-10 Orcust Format",
+    "icon": "RegulationLogo72"
+  },
+  "13076": {
+    "id": "13076",
+    "regulation_id": 13076,
+    "name": "TCG 73_CHIM 2020-01 Rokket Format",
+    "icon": "RegulationLogo73"
+  },
+  "13077": {
+    "id": "13077",
+    "regulation_id": 13077,
+    "name": "TCG 74_IGAS 2020-04 Rokket Format",
+    "icon": "RegulationLogo74"
+  },
+  "13078": {
+    "id": "13078",
+    "regulation_id": 13078,
+    "name": "TCG 75_ETCO 2020-06 Adamancipator Format",
+    "icon": "RegulationLogo75"
+  },
+  "13079": {
+    "id": "13079",
+    "regulation_id": 13079,
+    "name": "TCG 76_ROTD 2020-09 Infernoble Format",
+    "icon": "RegulationLogo76"
+  },
+  "13080": {
+    "id": "13080",
+    "regulation_id": 13080,
+    "name": "TCG 77_PHRA 2020-12 Virtual World Format",
+    "icon": "RegulationLogo77"
+  },
+  "13081": {
+    "id": "13081",
+    "regulation_id": 13081,
+    "name": "TCG 78_BLVO 2021-03 Dragon Link Format",
+    "icon": "RegulationLogo78"
+  },
+  "13082": {
+    "id": "13082",
+    "regulation_id": 13082,
+    "name": "TCG 79_LIOV 2021-07 Tri Zoo Format",
+    "icon": "RegulationLogo79"
+  },
+  "14000": {
+    "id": "14000",
+    "regulation_id": 14000,
+    "name": "TCG 75+_Master Duel v1.60",
+    "icon": "RegulationLogo75x"
   }
 }
