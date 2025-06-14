@@ -154,7 +154,8 @@ namespace YgoMaster
                                 }
                                 string descStr = Utils.FixIdString(string.Join("\n", desc));
                                 data["descShortTextId"] = descStr;
-                                data["descFullTextId"] = descStr;
+                                //data["descFullTextId"] = descStr;
+								data["descFullTextId"] = updateShopText(shopItem.DescFullText);
                             }
                             else
                             {

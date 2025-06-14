@@ -27,7 +27,7 @@
     "DuelClientShowRemainingCardsInDeck": false,
     "DuelClientMillenniumEye": false,
     "DuelClientDisableCameraShake": false,
-    "DuelClientDisableCutinAnimations": false,
+    "DuelClientDisableCutinAnimations": true,
     "DuelClientDisableCutinAnimationsForCardsWithCustomImages": true,
     "DuelClientSpectatorRapidTimeMultiplayer": 10,// Time multiplier applied when spectating duels "From now" as opposed to "From the Beginning" (used until the first time LIVE is displayed)
     "DuelClientTimeMultiplier": 10,// Time multiplier applied during duels (a value of 0 means no change)

@@ -1,5 +1,12 @@
 {"Master":{"Solo":{
 	"gate":{
+		//tutorial
+		"1":{"priority":1,"parent_gate":0,"unlock_id":0,"view_gate": 0,"clear_chapter":10003,"category":2},
+		"22":{"priority":4,"parent_gate":31,"unlock_id":0,"view_gate":0,"clear_chapter":220150,"category":2},
+		"30":{"priority":5,"parent_gate":31,"unlock_id":0,"view_gate":0,"clear_chapter":300247,"category":2,},
+		"31":{"priority":3,"parent_gate":0,"unlock_id":0,"view_gate":0,"clear_chapter":300247,"category":2,},
+		"48":{"priority":2,"parent_gate":0,"unlock_id":0,"view_gate":0,"clear_chapter":480391,"category":2,},
+		//tcg
 		"51":{"priority":51,"parent_gate":0,"view_gate":0,"unlock_id":0,"clear_chapter":510082,"category":1},
 		"52":{"priority":52,"parent_gate":0,"view_gate":51,"unlock_id":0,"clear_chapter":520076,"category":1},
 		"53":{"priority":53,"parent_gate":0,"view_gate":52,"unlock_id":0,"clear_chapter":530070,"category":1},
@@ -9,6 +16,46 @@
 		"60":{"priority":60,"parent_gate":0,"view_gate":56,"unlock_id":0,"clear_chapter":600226,"category":2}
 	},
 	"chapter":{
+			"1":
+				{"10001":{"parent_chapter":0,"difficulty":1,"mydeck_set_id":0,"set_id":1,"unlock_id":0,"begin_sn":"","npc_id":1000,"anime":0},
+				"10002":{"parent_chapter":10001,"difficulty":1,"mydeck_set_id":0,"set_id":1,"unlock_id":0,"begin_sn":"","npc_id":1001,"anime":0},
+				"10003":{"parent_chapter":10002,"difficulty":1,"mydeck_set_id":0,"set_id":1,"unlock_id":0,"begin_sn":"","npc_id":1074,"anime":0}
+				},
+			"22":
+				{"220140":{"parent_chapter":220146,"difficulty":1,"mydeck_set_id":0,"set_id":1,"unlock_id":0,"begin_sn":"","npc_id":3001,"anime":0},
+				"220141":{"parent_chapter":220140,"difficulty":1,"mydeck_set_id":0,"set_id":1,"unlock_id":0,"begin_sn":"","npc_id":3002,"anime":0},
+				"220142":{"parent_chapter":220141,"difficulty":1,"mydeck_set_id":0,"set_id":1,"unlock_id":0,"begin_sn":"","npc_id":3003,"anime":0},
+				"220143":{"parent_chapter":220142,"difficulty":1,"mydeck_set_id":0,"set_id":1,"unlock_id":0,"begin_sn":"","npc_id":3004,"anime":0},
+				"220144":{"parent_chapter":0,"difficulty":1,"mydeck_set_id":1,"set_id":0,"unlock_id":0,"begin_sn":"","npc_id":3005,"anime":0},
+				"220145":{"parent_chapter":220144,"difficulty":1,"mydeck_set_id":1,"set_id":0,"unlock_id":0,"begin_sn":"","npc_id":3006,"anime":0},
+				"220146":{"parent_chapter":220145,"difficulty":2,"mydeck_set_id":1,"set_id":0,"unlock_id":0,"begin_sn":"","npc_id":3007,"anime":0},
+				"220147":{"parent_chapter":220146,"difficulty":2,"mydeck_set_id":1,"set_id":0,"unlock_id":0,"begin_sn":"","npc_id":3008,"anime":0},
+				"220148":{"parent_chapter":220147,"difficulty":2,"mydeck_set_id":1,"set_id":0,"unlock_id":0,"begin_sn":"","npc_id":3009,"anime":0},
+				"220149":{"parent_chapter":220148,"difficulty":2,"mydeck_set_id":1,"set_id":0,"unlock_id":0,"begin_sn":"","npc_id":3010,"anime":0},
+				"220150":{"parent_chapter":220149,"difficulty":0,"mydeck_set_id":0,"set_id":1,"unlock_id":0,"begin_sn":"","npc_id":0,"anime":0}
+				},
+			"30":{
+				"300241":{"parent_chapter":0,"difficulty":2,"mydeck_set_id":0,"set_id":1,"unlock_id":0,"begin_sn":"","npc_id":3011,"anime":0},
+				"300242":{"parent_chapter":300241,"difficulty":2,"mydeck_set_id":0,"set_id":1,"unlock_id":0,"begin_sn":"","npc_id":3013,"anime":0},
+				"300243":{"parent_chapter":300242,"difficulty":2,"mydeck_set_id":0,"set_id":1,"unlock_id":0,"begin_sn":"","npc_id":3014,"anime":0},
+				"300244":{"parent_chapter":300243,"difficulty":2,"mydeck_set_id":0,"set_id":1,"unlock_id":0,"begin_sn":"","npc_id":3016,"anime":0},
+				"300245":{"parent_chapter":300244,"difficulty":2,"mydeck_set_id":0,"set_id":1,"unlock_id":0,"begin_sn":"","npc_id":3017,"anime":0},
+				"300246":{"parent_chapter":300241,"difficulty":2,"mydeck_set_id":0,"set_id":1,"unlock_id":0,"begin_sn":"","npc_id":3012,"anime":0},
+				"300247":{"parent_chapter":300249,"difficulty":0,"mydeck_set_id":0,"set_id":1,"unlock_id":0,"begin_sn":"","npc_id":0,"anime":0},
+				"300248":{"parent_chapter":300243,"difficulty":2,"mydeck_set_id":0,"set_id":1,"unlock_id":0,"begin_sn":"","npc_id":3015,"anime":0},
+				"300249":{"parent_chapter":300245,"difficulty":2,"mydeck_set_id":0,"set_id":1,"unlock_id":0,"begin_sn":"","npc_id":3018,"anime":0},
+				"300250":{"parent_chapter":300249,"difficulty":2,"mydeck_set_id":0,"set_id":1,"unlock_id":0,"begin_sn":"","npc_id":3019,"anime":0},
+				"300251":{"parent_chapter":300250,"difficulty":2,"mydeck_set_id":0,"set_id":1,"unlock_id":0,"begin_sn":"","npc_id":3020,"anime":0},
+				"300254":{"parent_chapter":300251,"difficulty":2,"mydeck_set_id":0,"set_id":1,"unlock_id":0,"begin_sn":"","npc_id":3021,"anime":0}
+				},
+			"48":{
+				"480386":{"parent_chapter":0,"difficulty":1,"mydeck_set_id":0,"set_id":1,"unlock_id":0,"begin_sn":"","npc_id":3022,"anime":0},
+				"480387":{"parent_chapter":480386,"difficulty":1,"mydeck_set_id":0,"set_id":1,"unlock_id":0,"begin_sn":"","npc_id":3023,"anime":0},
+				"480388":{"parent_chapter":480387,"difficulty":1,"mydeck_set_id":0,"set_id":1,"unlock_id":0,"begin_sn":"","npc_id":3024,"anime":0},
+				"480389":{"parent_chapter":480388,"difficulty":1,"mydeck_set_id":0,"set_id":1,"unlock_id":0,"begin_sn":"","npc_id":3025,"anime":0},
+				"480390":{"parent_chapter":480389,"difficulty":1,"mydeck_set_id":1,"set_id":0,"unlock_id":0,"begin_sn":"","npc_id":3026,"anime":0},
+				"480391":{"parent_chapter":480390,"difficulty":0,"mydeck_set_id":0,"set_id":1,"unlock_id":0,"begin_sn":"","npc_id":0,"anime":0}
+				},
 			"51":
 				{"510001":{"set_id":0,"mydeck_set_id":1,"parent_chapter":0,"unlock_id":0,"begin_sn":"","npc_id":1,"p1_img":"player","p2_img":"01","unlock_secret":[]},
 				"510002":{"set_id":0,"mydeck_set_id":1,"parent_chapter":510001,"unlock_id":0,"begin_sn":"","npc_id":1,"p1_img":"player","p2_img":"01","unlock_secret":[9002]},
@@ -704,7 +751,7 @@
 		},
 		"unlock":{},
 		"unlock_item":{},
-		"reward":{"1":{"1":{"1":100}},"2":{"1":{"1":2000}},"3":{"1":{"1":1000}}}
+		"reward":{"1":{"1":{"1":100}},"2":{"1":{"1":2000}},"3":{"1":{"1":1000}},"110":{"1":{"1":500}}},
 		}
 	}
 }
