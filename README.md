@@ -1,3 +1,31 @@
+Mod for YGOMaster
+Master Duel - TCG Solo Campaign.
+
+Motivation:
+I started to play the TCG in its early days, spent most of my childhood with it, but also stopped even before synchro summons. When I recently started to play the video games, I had questions:
+How did the gameplay evolve into this?
+When were all the mechanisms and archetypes introduced?
+How did it feel, when those things first happened: Why were some cards banned, when did some become obsolete?
+
+So, I wanted to re-create an experience, as if child-me would naturally face the changing meta through the years.
+
+Game Features:
+- progressive campaign, where the levels are determined by the introduced core sets of the TCG
+- campaign is divided in 6 parts by era: DM, GX, 5D, Zexal, Arc-V, VRAINS
+- 75 progression levels in total from Legend of Blue Eyes up to Eternity Code
+- each level is represented by 6 different opponents to battle against: 75*6 = 450 campaign duels
+- each level has a matching ban list of that time, so you can build your deck accordingly
+- the chapter description will tell you, which banlist you should apply
+- cards not available at that time are automatically excluded by the ban list
+- additional sets, structure decks etc, that were available inbetween the core sets can be unlocked as duel rewards
+- that makes around 300 packs available in the shop, each with custom pack art
+additional post game:
+- extensive post game campaign, that brings 228 decks into modern meta
+
+Installation:
+-unzip in your "Yu-Gi-Oh! Master Duel" folder and run "YgoMasterClient.exe"
+
+
 # YgoMaster
 
 Offline Yu-Gi-Oh! Master Duel (PC)
