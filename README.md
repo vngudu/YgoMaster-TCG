@@ -1,5 +1,5 @@
 Mod for YGOMaster
-Master Duel - TCG Solo Campaign.
+- Master Duel - TCG Solo Campaign.
 
 Motivation:
 I started to play the TCG in its early days, spent most of my childhood with it, but also stopped even before synchro summons. When I recently started to play the video games, I had questions:
@@ -19,11 +19,17 @@ Game Features:
 - cards not available at that time are automatically excluded by the ban list
 - additional sets, structure decks etc, that were available inbetween the core sets can be unlocked as duel rewards
 - that makes around 300 packs available in the shop, each with custom pack art
-additional post game:
-- extensive post game campaign, that brings 228 decks into modern meta
+- additional post game: extensive post game campaign, that brings 228 decks into modern meta
 
 Installation:
--unzip in your "Yu-Gi-Oh! Master Duel" folder and run "YgoMasterClient.exe"
+- unzip in your "Yu-Gi-Oh! Master Duel" folder and run "YgoMasterClient.exe"
+- needs to look like this or similar "C:\Program Files (x86)\Steam\steamapps\common\Yu-Gi-Oh!  Master Duel\YgoMaster_1.60 _TCG_20250614\YgoMasterClient.exe"
+
+![image](https://github.com/user-attachments/assets/a4714a24-af25-4f38-be21-9f951a8e8127)
+
+![1](https://github.com/user-attachments/assets/549a16f0-6708-4250-b5e6-32dd42659315)
+![2](https://github.com/user-attachments/assets/cbc5b7c6-191e-4aef-946e-3491e3ee6673)
+![3](https://github.com/user-attachments/assets/a97af667-b98d-4e98-be20-dff6d363cbe6)
 
 
 # YgoMaster
