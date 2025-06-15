@@ -22,15 +22,15 @@
     "DeckEditorShowStats": false,
     "DeckEditorDisableSorting": false,// NOTE: Only use for testing specific card draws. This isn't implemented properly and breaks normal deck editor functionality
     "DuelStarterShowFirstPlayer": true,
-    "DuelStarterLiveChapterId": 51001,
+    "DuelStarterLiveChapterId": 10002,
     "DuelStarterShowAllBgms": false,
     "DuelClientShowRemainingCardsInDeck": false,
     "DuelClientMillenniumEye": false,
     "DuelClientDisableCameraShake": false,
-    "DuelClientDisableCutinAnimations": true,
+    "DuelClientDisableCutinAnimations": false,
     "DuelClientDisableCutinAnimationsForCardsWithCustomImages": true,
     "DuelClientSpectatorRapidTimeMultiplayer": 10,// Time multiplier applied when spectating duels "From now" as opposed to "From the Beginning" (used until the first time LIVE is displayed)
-    "DuelClientTimeMultiplier": 10,// Time multiplier applied during duels (a value of 0 means no change)
+    "DuelClientTimeMultiplier": 0,// Time multiplier applied during duels (a value of 0 means no change)
     "ReplayControlsXOffset": 0,// If you're forcing the replay controls to always be visible you will want to offset the UI element as otherwise it will overlap with other UI elements (a value of 100 works well as of v2.2.1)
     "ReplayControlsAlwaysEnabled": false,
     "ReplayControlsTimeMultiplier": 0,// Time multiplier applied when pressing fast forward on the replay controls (a value of 0 means no change)

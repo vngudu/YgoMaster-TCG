@@ -320,7 +320,7 @@ namespace YgomGame.Duel
 
     unsafe static class DuelHUD_PrepareToDuelProcess
     {
-        delegate int Del_MoveNext(IntPtr thisPtr);
+        delegate csbool Del_MoveNext(IntPtr thisPtr);
         static Hook<Del_MoveNext> hookMoveNext;
 
         public static bool IsMoveNext;
@@ -339,11 +339,11 @@ namespace YgomGame.Duel
             }
         }
 
-        static int MoveNext(IntPtr thisPtr)
+        static csbool MoveNext(IntPtr thisPtr)
         {
             //Console.WriteLine("State: " + *(int*)(thisPtr + 0x10));
             IsMoveNext = true;
-            int result = hookMoveNext.Original(thisPtr);
+            csbool result = hookMoveNext.Original(thisPtr);
             IsMoveNext = false;
             return result;
         }
@@ -351,7 +351,7 @@ namespace YgomGame.Duel
 
     unsafe static class Util
     {
-        delegate bool Del_CheckDuelMode();
+        delegate csbool Del_CheckDuelMode();
 
         static Hook<Del_CheckDuelMode> hookIsReplay;
         static Hook<Del_CheckDuelMode> hookIsOnlineMode;
@@ -366,7 +366,7 @@ namespace YgomGame.Duel
             hookIsAudience = new Hook<Del_CheckDuelMode>(IsAudience, classInfo.GetMethod("IsAudience"));
         }
 
-        static bool IsReplay()
+        static csbool IsReplay()
         {
             if (ClientSettings.ReplayControlsAlwaysEnabled && DuelHUD_PrepareToDuelProcess.IsMoveNext)
             {
@@ -379,7 +379,7 @@ namespace YgomGame.Duel
             return hookIsReplay.Original();
         }
 
-        static bool IsOnlineMode()
+        static csbool IsOnlineMode()
         {
             if (DuelDll.IsInsideDuelTimerPrepareToDuel && DuelDll.IsTimerEnabled)
             {
@@ -388,7 +388,7 @@ namespace YgomGame.Duel
             return hookIsOnlineMode.Original();
         }
 
-        static bool IsAudience()
+        static csbool IsAudience()
         {
             if (DuelDll.IsInsideDuelTimerPrepareToDuel && DuelDll.IsTimerEnabled)
             {
@@ -494,9 +494,9 @@ namespace YgomGame.Duel
 
     unsafe static class EngineApiUtil
     {
-        delegate bool Del_IsCardKnown(IntPtr thisPtr, int player, int position, int index, bool face);
+        delegate csbool Del_IsCardKnown(IntPtr thisPtr, int player, int position, int index, bool face);
         static Hook<Del_IsCardKnown> hookIsCardKnown;
-        delegate bool Del_IsInsight(IntPtr thisPtr, int player, int position, int index);
+        delegate csbool Del_IsInsight(IntPtr thisPtr, int player, int position, int index);
         static Hook<Del_IsInsight> hookIsInsight;
 
         static EngineApiUtil()
@@ -507,7 +507,7 @@ namespace YgomGame.Duel
             hookIsInsight = new Hook<Del_IsInsight>(IsInsight, classInfo.GetMethod("IsInsight"));
         }
 
-        static bool IsCardKnown(IntPtr thisPtr, int player, int position, int index, bool face)
+        static csbool IsCardKnown(IntPtr thisPtr, int player, int position, int index, bool face)
         {
             if (GenericCardListController.IsUpdatingCustomCardList || ClientSettings.DuelClientMillenniumEye)
             {
@@ -516,7 +516,7 @@ namespace YgomGame.Duel
             return hookIsCardKnown.Original(thisPtr, player, position, index, face);
         }
 
-        static bool IsInsight(IntPtr thisPtr, int player, int position, int index)
+        static csbool IsInsight(IntPtr thisPtr, int player, int position, int index)
         {
             if (GenericCardListController.IsUpdatingCustomCardList || ClientSettings.DuelClientMillenniumEye)
             {
@@ -640,7 +640,7 @@ namespace YgomGame.Duel
 
     unsafe static class CardIndividualSetting
     {
-        delegate bool Del_IsMonsterCutin(int cardID);
+        delegate csbool Del_IsMonsterCutin(int cardID);
         static Hook<Del_IsMonsterCutin> hookIsMonsterCutin;
 
         static HashSet<int> cardsWithCustomImages;
@@ -652,7 +652,7 @@ namespace YgomGame.Duel
             hookIsMonsterCutin = new Hook<Del_IsMonsterCutin>(IsMonsterCutin, classInfo.GetMethod("IsMonsterCutin"));
         }
 
-        static bool IsMonsterCutin(int cardID)
+        static csbool IsMonsterCutin(int cardID)
         {
             if (ClientSettings.DuelClientDisableCutinAnimations ||
                 (ClientSettings.DuelClientDisableCutinAnimationsForCardsWithCustomImages && IsCustomImage(cardID)))
