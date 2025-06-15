@@ -41,7 +41,7 @@
     "SoloRewardsInDuelResultAreRare": false,
     "CardCraftableAll": false,
     "DisableNoDismantle": false,
-    "DisableBanList": false,
+    "DisableBanList": true,
     "ProgressiveCardList": true,
     "ProgressiveCardRarities": true,
     "FriendSearchLimit": 100,
