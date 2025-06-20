@@ -92,7 +92,7 @@
     "TradeAllowOtherPlayerToRemoveYourCards": true,
     "TradeEnterRoomRequestDelayInSeconds": 1.5,
     "EmoteMaxLength": 1000,
-    "DefaultGems": 1000,
+    "DefaultGems": 2000,
     "DefaultCraftPoints": {
         "3":0,// Normal
         "4":0,// Rare
@@ -225,8 +225,8 @@
             },
             {
                 "type": "Gem",
-                "min": 150,
-                "max": 250,
+                "min": 200,
+                "max": 400,
                 "rate": 100
             },
             {
@@ -270,8 +270,8 @@
         "lose": [
             {
                 "type": "Gem",
-                "min": 50,
-                "max": 150,
+                "min": 100,
+                "max": 300,
                 "rate": 100
             },
             {
@@ -314,8 +314,8 @@
             },
             {
                 "type": "Gem",
-                "min": 150,
-                "max": 250,
+                "min": 200,
+                "max": 400,
                 "rate": 100
             },
             {
@@ -359,8 +359,8 @@
         "lose": [
             {
                 "type": "Gem",
-                "min": 50,
-                "max": 150,
+                "min": 100,
+                "max": 300,
                 "rate": 100
             },
             {

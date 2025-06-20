@@ -1,3867 +1,3867 @@
-[IDS_SOLO.GATE051]
+[IDS_SOLO.GATE2001]
 Yu-Gi-Oh! TCG DM Era
-[IDS_SOLO.GATE052]
+[IDS_SOLO.GATE2002]
 Yu-Gi-Oh! TCG GX Era
-[IDS_SOLO.GATE053]
+[IDS_SOLO.GATE2003]
 Yu-Gi-Oh! TCG 5D Era
-[IDS_SOLO.GATE054]
+[IDS_SOLO.GATE2004]
 Yu-Gi-Oh! TCG Zexal Era
-[IDS_SOLO.GATE055]
+[IDS_SOLO.GATE2005]
 Yu-Gi-Oh! TCG Arc-V Era
-[IDS_SOLO.GATE056]
+[IDS_SOLO.GATE2006]
 Yu-Gi-Oh! TCG VRAINS Era
-[IDS_SOLO.GATE060]
+[IDS_SOLO.GATE2011]
 Yu-Gi-Oh! TCG Modern Challenger
-[IDS_SOLO.GATE051_EXPLANATION]]
+[IDS_SOLO.GATE2001_EXPLANATION]]
 Progressive TCG campaign from Legend of Blue Eyes White Dragon (01) up to Flaming Eternity (14).
-[IDS_SOLO.GATE052_EXPLANATION]]
+[IDS_SOLO.GATE2002_EXPLANATION]]
 Progressive TCG campaign from The Lost Millennium (15) up to Light of Destruction (27).
-[IDS_SOLO.GATE053_EXPLANATION]]
+[IDS_SOLO.GATE2003_EXPLANATION]]
 Progressive TCG campaign from The Duelist Genesis (28) up to Extreme Victory (39).
-[IDS_SOLO.GATE054_EXPLANATION]]
+[IDS_SOLO.GATE2004_EXPLANATION]]
 Progressive TCG campaign from Generation Force (40) up to Primal Origin (51).
-[IDS_SOLO.GATE055_EXPLANATION]]
+[IDS_SOLO.GATE2005_EXPLANATION]]
 Progressive TCG campaign from Duelist Alliance (52) up to Maximum Crisis (63).
-[IDS_SOLO.GATE056_EXPLANATION]]
+[IDS_SOLO.GATE2006_EXPLANATION]]
 Progressive TCG campaign from Code of the Duelist (64) up to Eternity Code (75).
-[IDS_SOLO.GATE060_EXPLANATION]]
+[IDS_SOLO.GATE2011_EXPLANATION]]
 Challenge your enemies and their modernized decks again (06/2025).
-[IDS_SOLO.CHAPTER510001_EXPLANATION]
+[IDS_SOLO.CHAPTER20010001_EXPLANATION]
 Progression Level: 01
 Core Set: Legend of Blue Eyes White Dragon
 Ban List: 2002-05 Yugi Kaiba Format
 Opponent: Great White
 Unlocks: 
-[IDS_SOLO.CHAPTER510002_EXPLANATION]
+[IDS_SOLO.CHAPTER20010002_EXPLANATION]
 Progression Level: 01
 Core Set: Legend of Blue Eyes White Dragon
 Ban List: 2002-05 Yugi Kaiba Format
 Opponent: Giant Soldier of Stone
 Unlocks: 01-Game: Dark Duel Stories
-[IDS_SOLO.CHAPTER510003_EXPLANATION]
+[IDS_SOLO.CHAPTER20010003_EXPLANATION]
 Progression Level: 01
 Core Set: Legend of Blue Eyes White Dragon
 Ban List: 2002-05 Yugi Kaiba Format
 Opponent: Curse of Dragon
 Unlocks: 
-[IDS_SOLO.CHAPTER510004_EXPLANATION]
+[IDS_SOLO.CHAPTER20010004_EXPLANATION]
 Progression Level: 01
 Core Set: Legend of Blue Eyes White Dragon
 Ban List: 2002-05 Yugi Kaiba Format
 Opponent: Exodia
 Unlocks: 02-Core: Metal Raiders
-[IDS_SOLO.CHAPTER510005_EXPLANATION]
+[IDS_SOLO.CHAPTER20010005_EXPLANATION]
 Progression Level: 01
 Core Set: Legend of Blue Eyes White Dragon
 Ban List: 2002-05 Yugi Kaiba Format
 Opponent: Dark Magician
 Unlocks: 01-Starter Deck: Yugi
-[IDS_SOLO.CHAPTER510006_EXPLANATION]
+[IDS_SOLO.CHAPTER20010006_EXPLANATION]
 Progression Level: 01
 Core Set: Legend of Blue Eyes White Dragon
 Ban List: 2002-05 Yugi Kaiba Format
 Opponent: Lord of D.
 Unlocks: 01-Starter Deck: Kaiba
-[IDS_SOLO.CHAPTER510007_EXPLANATION]
+[IDS_SOLO.CHAPTER20010007_EXPLANATION]
 Progression Level: 02
 Core Set: Metal Raiders
 Ban List: 2002-07 Critter Format 
 Opponent: Harpie Lady Sisters
 Unlocks: 
-[IDS_SOLO.CHAPTER510008_EXPLANATION]
+[IDS_SOLO.CHAPTER20010008_EXPLANATION]
 Progression Level: 02
 Core Set: Metal Raiders
 Ban List: 2002-07 Critter Format 
 Opponent: White Magical Hat
 Unlocks: 
-[IDS_SOLO.CHAPTER510009_EXPLANATION]
+[IDS_SOLO.CHAPTER20010009_EXPLANATION]
 Progression Level: 02
 Core Set: Metal Raiders
 Ban List: 2002-07 Critter Format 
 Opponent: Cannon Soldier
 Unlocks: 
-[IDS_SOLO.CHAPTER510010_EXPLANATION]
+[IDS_SOLO.CHAPTER20010010_EXPLANATION]
 Progression Level: 02
 Core Set: Metal Raiders
 Ban List: 2002-07 Critter Format 
 Opponent: Muka Muka
 Unlocks: 03-Core: Spell Ruler
-[IDS_SOLO.CHAPTER510011_EXPLANATION]
+[IDS_SOLO.CHAPTER20010011_EXPLANATION]
 Progression Level: 02
 Core Set: Metal Raiders
 Ban List: 2002-07 Critter Format 
 Opponent: Shadow Ghoul
 Unlocks: 
-[IDS_SOLO.CHAPTER510012_EXPLANATION]
+[IDS_SOLO.CHAPTER20010012_EXPLANATION]
 Progression Level: 02
 Core Set: Metal Raiders
 Ban List: 2002-07 Critter Format 
 Opponent: Labyrinth Tank
 Unlocks: 02-TP: Tournament Pack 1
-[IDS_SOLO.CHAPTER510013_EXPLANATION]
+[IDS_SOLO.CHAPTER20010013_EXPLANATION]
 Progression Level: 03
 Core Set: Spell Ruler
 Ban List: 2002-10 Treasure Format 
 Opponent: Dream Clown
 Unlocks: 
-[IDS_SOLO.CHAPTER510014_EXPLANATION]
+[IDS_SOLO.CHAPTER20010014_EXPLANATION]
 Progression Level: 03
 Core Set: Spell Ruler
 Ban List: 2002-10 Treasure Format 
 Opponent: Giant Germ
 Unlocks: 
-[IDS_SOLO.CHAPTER510015_EXPLANATION]
+[IDS_SOLO.CHAPTER20010015_EXPLANATION]
 Progression Level: 03
 Core Set: Spell Ruler
 Ban List: 2002-10 Treasure Format 
 Opponent: Maha Vailo
 Unlocks: 
-[IDS_SOLO.CHAPTER510016_EXPLANATION]
+[IDS_SOLO.CHAPTER20010016_EXPLANATION]
 Progression Level: 03
 Core Set: Spell Ruler
 Ban List: 2002-10 Treasure Format 
 Opponent: Relinquished
 Unlocks: 04-Core: Pharaoh's Servant
-[IDS_SOLO.CHAPTER510017_EXPLANATION]
+[IDS_SOLO.CHAPTER20010017_EXPLANATION]
 Progression Level: 03
 Core Set: Spell Ruler
 Ban List: 2002-10 Treasure Format 
 Opponent: Morphing Jar
 Unlocks: 03-TP: Tournament Pack 2
-[IDS_SOLO.CHAPTER510018_EXPLANATION]
+[IDS_SOLO.CHAPTER20010018_EXPLANATION]
 Progression Level: 03
 Core Set: Spell Ruler
 Ban List: 2002-10 Treasure Format 
 Opponent: Toon Summoned Skull
 Unlocks: 03-Game: Eternal Duelist Soul
-[IDS_SOLO.CHAPTER510019_EXPLANATION]
+[IDS_SOLO.CHAPTER20010019_EXPLANATION]
 Progression Level: 04
 Core Set: Pharaoh's Servant
 Ban List: 2002-12 Imperial Format 
 Opponent: The Legendary Fisherman
 Unlocks: 
-[IDS_SOLO.CHAPTER510020_EXPLANATION]
+[IDS_SOLO.CHAPTER20010020_EXPLANATION]
 Progression Level: 04
 Core Set: Pharaoh's Servant
 Ban List: 2002-12 Imperial Format 
 Opponent: Jinzo
 Unlocks: 04-Game: Forbidden Memories
-[IDS_SOLO.CHAPTER510021_EXPLANATION]
+[IDS_SOLO.CHAPTER20010021_EXPLANATION]
 Progression Level: 04
 Core Set: Pharaoh's Servant
 Ban List: 2002-12 Imperial Format 
 Opponent: Parasite Paracide
 Unlocks: 
-[IDS_SOLO.CHAPTER510022_EXPLANATION]
+[IDS_SOLO.CHAPTER20010022_EXPLANATION]
 Progression Level: 04
 Core Set: Pharaoh's Servant
 Ban List: 2002-12 Imperial Format 
 Opponent: Magician of Faith
 Unlocks: 05-Core: Labyrinth of Nightmare
-[IDS_SOLO.CHAPTER510023_EXPLANATION]
+[IDS_SOLO.CHAPTER20010023_EXPLANATION]
 Progression Level: 04
 Core Set: Pharaoh's Servant
 Ban List: 2002-12 Imperial Format 
 Opponent: Thousand Eyes Restrict
 Unlocks: 04-Game: Duelists of the Roses
-[IDS_SOLO.CHAPTER510024_EXPLANATION]
+[IDS_SOLO.CHAPTER20010024_EXPLANATION]
 Progression Level: 04
 Core Set: Pharaoh's Servant
 Ban List: 2002-12 Imperial Format 
 Opponent: Goblin Attack Force
 Unlocks: 04-Promo: McDonald's Promotional
-[IDS_SOLO.CHAPTER510025_EXPLANATION]
+[IDS_SOLO.CHAPTER20010025_EXPLANATION]
 Progression Level: 05
 Core Set: Labyrinth of Nightmare
 Ban List: 2003-05 Joey Pegasus Format
 Opponent: Destiny Board
 Unlocks: 
-[IDS_SOLO.CHAPTER510026_EXPLANATION]
+[IDS_SOLO.CHAPTER20010026_EXPLANATION]
 Progression Level: 05
 Core Set: Labyrinth of Nightmare
 Ban List: 2003-05 Joey Pegasus Format
 Opponent: Valkyrion the Magna Warrior
 Unlocks: 05-Game: Stairway to the Destined Duel
-[IDS_SOLO.CHAPTER510027_EXPLANATION]
+[IDS_SOLO.CHAPTER20010027_EXPLANATION]
 Progression Level: 05
 Core Set: Labyrinth of Nightmare
 Ban List: 2003-05 Joey Pegasus Format
 Opponent: Needle Worm
 Unlocks: 05-TP: Tournament Pack 3
-[IDS_SOLO.CHAPTER510028_EXPLANATION]
+[IDS_SOLO.CHAPTER20010028_EXPLANATION]
 Progression Level: 05
 Core Set: Labyrinth of Nightmare
 Ban List: 2003-05 Joey Pegasus Format
 Opponent: The Last Warrior from Another Planet
 Unlocks: 06-Core: Legacy of Darkness
-[IDS_SOLO.CHAPTER510029_EXPLANATION]
+[IDS_SOLO.CHAPTER20010029_EXPLANATION]
 Progression Level: 05
 Core Set: Labyrinth of Nightmare
 Ban List: 2003-05 Joey Pegasus Format
 Opponent: Scapegoat
 Unlocks: 05-Starter Deck: Joey
-[IDS_SOLO.CHAPTER510030_EXPLANATION]
+[IDS_SOLO.CHAPTER20010030_EXPLANATION]
 Progression Level: 05
 Core Set: Labyrinth of Nightmare
 Ban List: 2003-05 Joey Pegasus Format
 Opponent: Dark Necrofear
 Unlocks: 05-Starter Deck: Pegasus
-[IDS_SOLO.CHAPTER510031_EXPLANATION]
+[IDS_SOLO.CHAPTER20010031_EXPLANATION]
 Progression Level: 06
 Core Set: Legacy of Darkness
 Ban List: 2003-07 Fiber Format 
 Opponent: Hino-Kagu-Tsuchi
 Unlocks: 
-[IDS_SOLO.CHAPTER510032_EXPLANATION]
+[IDS_SOLO.CHAPTER20010032_EXPLANATION]
 Progression Level: 06
 Core Set: Legacy of Darkness
 Ban List: 2003-07 Fiber Format 
 Opponent: Spear Dragon
 Unlocks: 
-[IDS_SOLO.CHAPTER510033_EXPLANATION]
+[IDS_SOLO.CHAPTER20010033_EXPLANATION]
 Progression Level: 06
 Core Set: Legacy of Darkness
 Ban List: 2003-07 Fiber Format 
 Opponent: Dark Ruler Ha Des
 Unlocks: 
-[IDS_SOLO.CHAPTER510034_EXPLANATION]
+[IDS_SOLO.CHAPTER20010034_EXPLANATION]
 Progression Level: 06
 Core Set: Legacy of Darkness
 Ban List: 2003-07 Fiber Format 
 Opponent: Gearfried
 Unlocks: 07-Core: Pharaonic Guardian
-[IDS_SOLO.CHAPTER510035_EXPLANATION]
+[IDS_SOLO.CHAPTER20010035_EXPLANATION]
 Progression Level: 06
 Core Set: Legacy of Darkness
 Ban List: 2003-07 Fiber Format 
 Opponent: Marauding Captain
 Unlocks: 
-[IDS_SOLO.CHAPTER510036_EXPLANATION]
+[IDS_SOLO.CHAPTER20010036_EXPLANATION]
 Progression Level: 06
 Core Set: Legacy of Darkness
 Ban List: 2003-07 Fiber Format 
 Opponent: Thunder Nyan Nyan
 Unlocks: 
-[IDS_SOLO.CHAPTER510037_EXPLANATION]
+[IDS_SOLO.CHAPTER20010037_EXPLANATION]
 Progression Level: 07
 Core Set: Pharaonic Guardian
 Ban List: 2003-08 Yata Format 
 Opponent: Des Lacooda
 Unlocks: 
-[IDS_SOLO.CHAPTER510038_EXPLANATION]
+[IDS_SOLO.CHAPTER20010038_EXPLANATION]
 Progression Level: 07
 Core Set: Pharaonic Guardian
 Ban List: 2003-08 Yata Format 
 Opponent: Don Zaloog
 Unlocks: 
-[IDS_SOLO.CHAPTER510039_EXPLANATION]
+[IDS_SOLO.CHAPTER20010039_EXPLANATION]
 Progression Level: 07
 Core Set: Pharaonic Guardian
 Ban List: 2003-08 Yata Format 
 Opponent: Maiden of the Aqua
 Unlocks: 
-[IDS_SOLO.CHAPTER510040_EXPLANATION]
+[IDS_SOLO.CHAPTER20010040_EXPLANATION]
 Progression Level: 07
 Core Set: Pharaonic Guardian
 Ban List: 2003-08 Yata Format 
 Opponent: Gravekeeper’s Spy
 Unlocks: 08-Core: Magician's Force
-[IDS_SOLO.CHAPTER510041_EXPLANATION]
+[IDS_SOLO.CHAPTER20010041_EXPLANATION]
 Progression Level: 07
 Core Set: Pharaonic Guardian
 Ban List: 2003-08 Yata Format 
 Opponent: Lava Golem
 Unlocks: 
-[IDS_SOLO.CHAPTER510042_EXPLANATION]
+[IDS_SOLO.CHAPTER20010042_EXPLANATION]
 Progression Level: 07
 Core Set: Pharaonic Guardian
 Ban List: 2003-08 Yata Format 
 Opponent: Metamorphosis
 Unlocks: 07-TP: Tournament Pack 4
-[IDS_SOLO.CHAPTER510043_EXPLANATION]
+[IDS_SOLO.CHAPTER20010043_EXPLANATION]
 Progression Level: 08
 Core Set: Magician's Force
 Ban List: 2003-11 Scientist Format 
 Opponent: X-Head Cannon
 Unlocks: 
-[IDS_SOLO.CHAPTER510044_EXPLANATION]
+[IDS_SOLO.CHAPTER20010044_EXPLANATION]
 Progression Level: 08
 Core Set: Magician's Force
 Ban List: 2003-11 Scientist Format 
 Opponent: Paladin of White Dragon
 Unlocks: 
-[IDS_SOLO.CHAPTER510045_EXPLANATION]
+[IDS_SOLO.CHAPTER20010045_EXPLANATION]
 Progression Level: 08
 Core Set: Magician's Force
 Ban List: 2003-11 Scientist Format 
 Opponent: Breaker the Magical Warrior
 Unlocks: 08-Game: The Sacred Cards
-[IDS_SOLO.CHAPTER510046_EXPLANATION]
+[IDS_SOLO.CHAPTER20010046_EXPLANATION]
 Progression Level: 08
 Core Set: Magician's Force
 Ban List: 2003-11 Scientist Format 
 Opponent: Dark Blade
 Unlocks: 09-Core: Dark Crisis
-[IDS_SOLO.CHAPTER510047_EXPLANATION]
+[IDS_SOLO.CHAPTER20010047_EXPLANATION]
 Progression Level: 08
 Core Set: Magician's Force
 Ban List: 2003-11 Scientist Format 
 Opponent: Amazoness Paladin
 Unlocks: 08-Game: The Falsebound Kingdom
-[IDS_SOLO.CHAPTER510048_EXPLANATION]
+[IDS_SOLO.CHAPTER20010048_EXPLANATION]
 Progression Level: 08
 Core Set: Magician's Force
 Ban List: 2003-11 Scientist Format 
 Opponent: Skilled Dark Magician
 Unlocks: 08-Game: Power of Chaos: Yugi the Destiny
-[IDS_SOLO.CHAPTER510049_EXPLANATION]
+[IDS_SOLO.CHAPTER20010049_EXPLANATION]
 Progression Level: 09
 Core Set: Dark Crisis
 Ban List: 2004-02 Vampire Format 
 Opponent: Iron Blacksmith Kotetsu
 Unlocks: 
-[IDS_SOLO.CHAPTER510050_EXPLANATION]
+[IDS_SOLO.CHAPTER20010050_EXPLANATION]
 Progression Level: 09
 Core Set: Dark Crisis
 Ban List: 2004-02 Vampire Format 
 Opponent: Great Maju Garzett
 Unlocks: 
-[IDS_SOLO.CHAPTER510051_EXPLANATION]
+[IDS_SOLO.CHAPTER20010051_EXPLANATION]
 Progression Level: 09
 Core Set: Dark Crisis
 Ban List: 2004-02 Vampire Format 
 Opponent: Terrorking Archfiend
 Unlocks: 
-[IDS_SOLO.CHAPTER510052_EXPLANATION]
+[IDS_SOLO.CHAPTER20010052_EXPLANATION]
 Progression Level: 09
 Core Set: Dark Crisis
 Ban List: 2004-02 Vampire Format 
 Opponent: Vampire Lord
 Unlocks: 10-Core: Invasion of Chaos
-[IDS_SOLO.CHAPTER510053_EXPLANATION]
+[IDS_SOLO.CHAPTER20010053_EXPLANATION]
 Progression Level: 09
 Core Set: Dark Crisis
 Ban List: 2004-02 Vampire Format 
 Opponent: Gyaku-Gire Panda
 Unlocks: 
-[IDS_SOLO.CHAPTER510054_EXPLANATION]
+[IDS_SOLO.CHAPTER20010054_EXPLANATION]
 Progression Level: 09
 Core Set: Dark Crisis
 Ban List: 2004-02 Vampire Format 
 Opponent: Exodia Necross
 Unlocks: 09-Game: World Championship Tournament 2004
-[IDS_SOLO.CHAPTER510055_EXPLANATION]
+[IDS_SOLO.CHAPTER20010055_EXPLANATION]
 Progression Level: 10
 Core Set: Invasion of Chaos
 Ban List: 2004-04 Chaos Format 
 Opponent: Berserk Gorilla
 Unlocks: 
-[IDS_SOLO.CHAPTER510056_EXPLANATION]
+[IDS_SOLO.CHAPTER20010056_EXPLANATION]
 Progression Level: 10
 Core Set: Invasion of Chaos
 Ban List: 2004-04 Chaos Format 
 Opponent: Levua-Dragon – Daedalus
 Unlocks: 10-Game: Power of Chaos: Kaiba the Revenge
-[IDS_SOLO.CHAPTER510057_EXPLANATION]
+[IDS_SOLO.CHAPTER20010057_EXPLANATION]
 Progression Level: 10
 Core Set: Invasion of Chaos
 Ban List: 2004-04 Chaos Format 
 Opponent: Cyber Jar
 Unlocks: 10-Game: The Dawn of Destiny
-[IDS_SOLO.CHAPTER510058_EXPLANATION]
+[IDS_SOLO.CHAPTER20010058_EXPLANATION]
 Progression Level: 10
 Core Set: Invasion of Chaos
 Ban List: 2004-04 Chaos Format 
 Opponent: Chaos Emperor Dragon
 Unlocks: 11-Core: Ancient Sanctuary
-[IDS_SOLO.CHAPTER510059_EXPLANATION]
+[IDS_SOLO.CHAPTER20010059_EXPLANATION]
 Progression Level: 10
 Core Set: Invasion of Chaos
 Ban List: 2004-04 Chaos Format 
 Opponent: Arsenal Bug
 Unlocks: 10-Starter Deck: Kaiba Evolution
-[IDS_SOLO.CHAPTER510060_EXPLANATION]
+[IDS_SOLO.CHAPTER20010060_EXPLANATION]
 Progression Level: 10
 Core Set: Invasion of Chaos
 Ban List: 2004-04 Chaos Format 
 Opponent: Des Koala
 Unlocks: 10-Starter Deck: Yugi Evolution
-[IDS_SOLO.CHAPTER510061_EXPLANATION]
+[IDS_SOLO.CHAPTER20010061_EXPLANATION]
 Progression Level: 11
 Core Set: Ancient Sanctuary
 Ban List: 2004-10 Warrior Format 
 Opponent: Spirit of the Pharaoh
 Unlocks: 11-Hobby League: 1
-[IDS_SOLO.CHAPTER510062_EXPLANATION]
+[IDS_SOLO.CHAPTER20010062_EXPLANATION]
 Progression Level: 11
 Core Set: Ancient Sanctuary
 Ban List: 2004-10 Warrior Format 
 Opponent: Goblin King
 Unlocks: 11-Game: Reshef of Destruction
-[IDS_SOLO.CHAPTER510063_EXPLANATION]
+[IDS_SOLO.CHAPTER20010063_EXPLANATION]
 Progression Level: 11
 Core Set: Ancient Sanctuary
 Ban List: 2004-10 Warrior Format 
 Opponent: Archlord Zerato
 Unlocks: 11-Game: Power of Chaos: Joey the Passion
-[IDS_SOLO.CHAPTER510064_EXPLANATION]
+[IDS_SOLO.CHAPTER20010064_EXPLANATION]
 Progression Level: 11
 Core Set: Ancient Sanctuary
 Ban List: 2004-10 Warrior Format 
 Opponent: Dark Paladin
 Unlocks: 12-Core: Soul of the Duelist
-[IDS_SOLO.CHAPTER510065_EXPLANATION]
+[IDS_SOLO.CHAPTER20010065_EXPLANATION]
 Progression Level: 11
 Core Set: Ancient Sanctuary
 Ban List: 2004-10 Warrior Format 
 Opponent: Sacred Crane
 Unlocks: 11-Promo: Movie Pack
-[IDS_SOLO.CHAPTER510066_EXPLANATION]
+[IDS_SOLO.CHAPTER20010066_EXPLANATION]
 Progression Level: 11
 Core Set: Ancient Sanctuary
 Ban List: 2004-10 Warrior Format 
 Opponent: Theinen the Great Sphinx
 Unlocks: 11-Bonus: Exclusive Pack
-[IDS_SOLO.CHAPTER510067_EXPLANATION]
+[IDS_SOLO.CHAPTER20010067_EXPLANATION]
 Progression Level: 12
 Core Set: Soul of the Duelist
 Ban List: 2005-04 Goat Format 
 Opponent: Gate Guardian
 Unlocks: 
-[IDS_SOLO.CHAPTER510068_EXPLANATION]
+[IDS_SOLO.CHAPTER20010068_EXPLANATION]
 Progression Level: 12
 Core Set: Soul of the Duelist
 Ban List: 2005-04 Goat Format 
 Opponent: Lady Ninja Yae
 Unlocks: 12-Game: Destiny Board Traveler
-[IDS_SOLO.CHAPTER510069_EXPLANATION]
+[IDS_SOLO.CHAPTER20010069_EXPLANATION]
 Progression Level: 12
 Core Set: Soul of the Duelist
 Ban List: 2005-04 Goat Format 
 Opponent: Koitsu
 Unlocks: 12-TP: Tournament Pack 5
-[IDS_SOLO.CHAPTER510070_EXPLANATION]
+[IDS_SOLO.CHAPTER20010070_EXPLANATION]
 Progression Level: 12
 Core Set: Soul of the Duelist
 Ban List: 2005-04 Goat Format 
 Opponent: Black Luster Soldier
 Unlocks: 13-Core: Rise of Destiny
-[IDS_SOLO.CHAPTER510071_EXPLANATION]
+[IDS_SOLO.CHAPTER20010071_EXPLANATION]
 Progression Level: 12
 Core Set: Soul of the Duelist
 Ban List: 2005-04 Goat Format 
 Opponent: Heart of the Underdog
 Unlocks: 
-[IDS_SOLO.CHAPTER510072_EXPLANATION]
+[IDS_SOLO.CHAPTER20010072_EXPLANATION]
 Progression Level: 12
 Core Set: Soul of the Duelist
 Ban List: 2005-04 Goat Format 
 Opponent: Revival Jam
 Unlocks: 12-Reprint: Dark Beginning 1
-[IDS_SOLO.CHAPTER510073_EXPLANATION]
+[IDS_SOLO.CHAPTER20010073_EXPLANATION]
 Progression Level: 13
 Core Set: Rise of Destiny
 Ban List: 2005-04 Goat Format 
 Opponent: Mokey Mokey
 Unlocks: 
-[IDS_SOLO.CHAPTER510074_EXPLANATION]
+[IDS_SOLO.CHAPTER20010074_EXPLANATION]
 Progression Level: 13
 Core Set: Rise of Destiny
 Ban List: 2005-04 Goat Format 
 Opponent: Thestalos the Firestorm Monarch
 Unlocks: 13-Game: World Championship Tournament 2005
-[IDS_SOLO.CHAPTER510075_EXPLANATION]
+[IDS_SOLO.CHAPTER20010075_EXPLANATION]
 Progression Level: 13
 Core Set: Rise of Destiny
 Ban List: 2005-04 Goat Format 
 Opponent: Fairy King Truesdale
 Unlocks: 13-Structure Deck: Zombie Madness
-[IDS_SOLO.CHAPTER510076_EXPLANATION]
+[IDS_SOLO.CHAPTER20010076_EXPLANATION]
 Progression Level: 13
 Core Set: Rise of Destiny
 Ban List: 2005-04 Goat Format 
 Opponent: The Creator
 Unlocks: 14-Core: Flaming Eternity
-[IDS_SOLO.CHAPTER510077_EXPLANATION]
+[IDS_SOLO.CHAPTER20010077_EXPLANATION]
 Progression Level: 13
 Core Set: Rise of Destiny
 Ban List: 2005-04 Goat Format 
 Opponent: Horus the Black Flame Dragon
 Unlocks: 13-Game: Capsule Monster Coliseum
-[IDS_SOLO.CHAPTER510078_EXPLANATION]
+[IDS_SOLO.CHAPTER20010078_EXPLANATION]
 Progression Level: 13
 Core Set: Rise of Destiny
 Ban List: 2005-04 Goat Format 
 Opponent: Strike Ninja
 Unlocks: 13-Structure Deck: Dragon's Roar
-[IDS_SOLO.CHAPTER510079_EXPLANATION]
+[IDS_SOLO.CHAPTER20010079_EXPLANATION]
 Progression Level: 14
 Core Set: Flaming Eternity
 Ban List: 2005-04 Goat Format 
 Opponent: Ojama King
 Unlocks: 
-[IDS_SOLO.CHAPTER510080_EXPLANATION]
+[IDS_SOLO.CHAPTER20010080_EXPLANATION]
 Progression Level: 14
 Core Set: Flaming Eternity
 Ban List: 2005-04 Goat Format 
 Opponent: Magical Marionette
 Unlocks: 
-[IDS_SOLO.CHAPTER510081_EXPLANATION]
+[IDS_SOLO.CHAPTER20010081_EXPLANATION]
 Progression Level: 14
 Core Set: Flaming Eternity
 Ban List: 2005-04 Goat Format 
 Opponent: Gigantes
 Unlocks: 14-Reprint: Dark Revelation Volume 1
-[IDS_SOLO.CHAPTER510082_EXPLANATION]
+[IDS_SOLO.CHAPTER20010082_EXPLANATION]
 Progression Level: 14
 Core Set: Flaming Eternity
 Ban List: 2005-04 Goat Format 
 Opponent: Sacred Phoenix of Nephthys
 Unlocks: 15-Core: The Lost Millennium
-[IDS_SOLO.CHAPTER510083_EXPLANATION]
+[IDS_SOLO.CHAPTER20010083_EXPLANATION]
 Progression Level: 14
 Core Set: Flaming Eternity
 Ban List: 2005-04 Goat Format 
 Opponent: Red-Eyes Darkness Dragon
 Unlocks: 14-Structure Deck: Blaze of Destruction
-[IDS_SOLO.CHAPTER510084_EXPLANATION]
+[IDS_SOLO.CHAPTER20010084_EXPLANATION]
 Progression Level: 14
 Core Set: Flaming Eternity
 Ban List: 2005-04 Goat Format 
 Opponent: Armed Samurai – Ben Kei
 Unlocks: 14-Structure Deck: Fury from the Deep
-[IDS_SOLO.CHAPTER520001_EXPLANATION]
+[IDS_SOLO.CHAPTER20020001_EXPLANATION]
 Progression Level: 15
 Core Set: The Lost Millennium
 Ban List: 2005-10 Reaper Format 
 Opponent: Elemental HERO Flame Wingman
 Unlocks: 
-[IDS_SOLO.CHAPTER520002_EXPLANATION]
+[IDS_SOLO.CHAPTER20020002_EXPLANATION]
 Progression Level: 15
 Core Set: The Lost Millennium
 Ban List: 2005-10 Reaper Format 
 Opponent: Winged Kuriboh
 Unlocks: 
-[IDS_SOLO.CHAPTER520003_EXPLANATION]
+[IDS_SOLO.CHAPTER20020003_EXPLANATION]
 Progression Level: 15
 Core Set: The Lost Millennium
 Ban List: 2005-10 Reaper Format 
 Opponent: Nmaster Monkl
 Unlocks: 
-[IDS_SOLO.CHAPTER520004_EXPLANATION]
+[IDS_SOLO.CHAPTER20020004_EXPLANATION]
 Progression Level: 15
 Core Set: The Lost Millennium
 Ban List: 2005-10 Reaper Format 
 Opponent: Ancient Gear Golem
 Unlocks: 16-Core: Cybernetic Revolution
-[IDS_SOLO.CHAPTER520005_EXPLANATION]
+[IDS_SOLO.CHAPTER20020005_EXPLANATION]
 Progression Level: 15
 Core Set: The Lost Millennium
 Ban List: 2005-10 Reaper Format 
 Opponent: Ultimate Insect
 Unlocks: 15-Reprint: Dark Beginning 2
-[IDS_SOLO.CHAPTER520006_EXPLANATION]
+[IDS_SOLO.CHAPTER20020006_EXPLANATION]
 Progression Level: 15
 Core Set: The Lost Millennium
 Ban List: 2005-10 Reaper Format 
 Opponent: Elemental Mistress Doriado
 Unlocks: 15-TP: Tournament Pack 6
-[IDS_SOLO.CHAPTER520007_EXPLANATION]
+[IDS_SOLO.CHAPTER20020007_EXPLANATION]
 Progression Level: 16
 Core Set: Cybernetic Revolution
 Ban List: 2005-10 Reaper Format 
 Opponent: Black Tyranno
 Unlocks: 
-[IDS_SOLO.CHAPTER520008_EXPLANATION]
+[IDS_SOLO.CHAPTER20020008_EXPLANATION]
 Progression Level: 16
 Core Set: Cybernetic Revolution
 Ban List: 2005-10 Reaper Format 
 Opponent: Dice Jar
 Unlocks: 16-TP: Tournament Pack 7
-[IDS_SOLO.CHAPTER520009_EXPLANATION]
+[IDS_SOLO.CHAPTER20020009_EXPLANATION]
 Progression Level: 16
 Core Set: Cybernetic Revolution
 Ban List: 2005-10 Reaper Format 
 Opponent: Spiritual Wind Art – Miyabi
 Unlocks: 16-Game: Nightmare Troubadour
-[IDS_SOLO.CHAPTER520010_EXPLANATION]
+[IDS_SOLO.CHAPTER20020010_EXPLANATION]
 Progression Level: 16
 Core Set: Cybernetic Revolution
 Ban List: 2005-10 Reaper Format 
 Opponent: Cyber Dragon
 Unlocks: 17-Core: Elemental Energy
-[IDS_SOLO.CHAPTER520011_EXPLANATION]
+[IDS_SOLO.CHAPTER20020011_EXPLANATION]
 Progression Level: 16
 Core Set: Cybernetic Revolution
 Ban List: 2005-10 Reaper Format 
 Opponent: Silent Magician
 Unlocks: 16-Structure Deck: Warrior's Triumph
-[IDS_SOLO.CHAPTER520012_EXPLANATION]
+[IDS_SOLO.CHAPTER20020012_EXPLANATION]
 Progression Level: 16
 Core Set: Cybernetic Revolution
 Ban List: 2005-10 Reaper Format 
 Opponent: Gilford the Legend
 Unlocks: 16-Reprint: Dark Revelation Volume 2
-[IDS_SOLO.CHAPTER520013_EXPLANATION]
+[IDS_SOLO.CHAPTER20020013_EXPLANATION]
 Progression Level: 17
 Core Set: Elemental Energy
 Ban List: 2006_04 Chaos Return Format
 Opponent: B.E.S. Big Core
 Unlocks: 
-[IDS_SOLO.CHAPTER520014_EXPLANATION]
+[IDS_SOLO.CHAPTER20020014_EXPLANATION]
 Progression Level: 17
 Core Set: Elemental Energy
 Ban List: 2006_04 Chaos Return Format
 Opponent: Mobius the Frost Monarch
 Unlocks: 17-Game: GX Duel Academy
-[IDS_SOLO.CHAPTER520015_EXPLANATION]
+[IDS_SOLO.CHAPTER20020015_EXPLANATION]
 Progression Level: 17
 Core Set: Elemental Energy
 Ban List: 2006_04 Chaos Return Format
 Opponent: Dark Eradicator Warlock
 Unlocks: 17-Structure Deck: Spellcaster's Judgement
-[IDS_SOLO.CHAPTER520016_EXPLANATION]
+[IDS_SOLO.CHAPTER20020016_EXPLANATION]
 Progression Level: 17
 Core Set: Elemental Energy
 Ban List: 2006_04 Chaos Return Format
 Opponent: Goldd, Wu-Lord of Dark World
 Unlocks: 18-Core: Shadow of Infinity
-[IDS_SOLO.CHAPTER520017_EXPLANATION]
+[IDS_SOLO.CHAPTER20020017_EXPLANATION]
 Progression Level: 17
 Core Set: Elemental Energy
 Ban List: 2006_04 Chaos Return Format
 Opponent: VWXYZ
 Unlocks: 17-Duelist Pack: Chazz Princeton
-[IDS_SOLO.CHAPTER520018_EXPLANATION]
+[IDS_SOLO.CHAPTER20020018_EXPLANATION]
 Progression Level: 17
 Core Set: Elemental Energy
 Ban List: 2006_04 Chaos Return Format
 Opponent: Armed Dragon LV10
 Unlocks: 17-Duelist Pack: Jaden Yuki
-[IDS_SOLO.CHAPTER520019_EXPLANATION]
+[IDS_SOLO.CHAPTER20020019_EXPLANATION]
 Progression Level: 18
 Core Set: Shadow of Infinity
 Ban List: 2006_04 Chaos Return Format
 Opponent: White Magician Pikeru
 Unlocks: 18-Shonen Jump 2006
-[IDS_SOLO.CHAPTER520020_EXPLANATION]
+[IDS_SOLO.CHAPTER20020020_EXPLANATION]
 Progression Level: 18
 Core Set: Shadow of Infinity
 Ban List: 2006_04 Chaos Return Format
 Opponent: Parasitic Ticky
 Unlocks: 18-Duelist Pack: Special
-[IDS_SOLO.CHAPTER520021_EXPLANATION]
+[IDS_SOLO.CHAPTER20020021_EXPLANATION]
 Progression Level: 18
 Core Set: Shadow of Infinity
 Ban List: 2006_04 Chaos Return Format
 Opponent: Ancient Gear
 Unlocks: 18-TP: Tournament Pack 8
-[IDS_SOLO.CHAPTER520022_EXPLANATION]
+[IDS_SOLO.CHAPTER20020022_EXPLANATION]
 Progression Level: 18
 Core Set: Shadow of Infinity
 Ban List: 2006_04 Chaos Return Format
 Opponent: Uria, Lord of Searing Flames
 Unlocks: 19-Core: Enemy of Justice
-[IDS_SOLO.CHAPTER520023_EXPLANATION]
+[IDS_SOLO.CHAPTER20020023_EXPLANATION]
 Progression Level: 18
 Core Set: Shadow of Infinity
 Ban List: 2006_04 Chaos Return Format
 Opponent: Demise, King of Armageddon
 Unlocks: 18-Starter Deck: 2006, 18-Game: World Championship Tournament 2006
-[IDS_SOLO.CHAPTER520024_EXPLANATION]
+[IDS_SOLO.CHAPTER20020024_EXPLANATION]
 Progression Level: 18
 Core Set: Shadow of Infinity
 Ban List: 2006_04 Chaos Return Format
 Opponent: Exodd, Master of the Guard
 Unlocks: 18-Structure Deck: Invincible Fortress
-[IDS_SOLO.CHAPTER520025_EXPLANATION]
+[IDS_SOLO.CHAPTER20020025_EXPLANATION]
 Progression Level: 19
 Core Set: Enemy of Justice
 Ban List: 2006-09 Stein Format 
 Opponent: Batteryman C
 Unlocks: 
-[IDS_SOLO.CHAPTER520026_EXPLANATION]
+[IDS_SOLO.CHAPTER20020026_EXPLANATION]
 Progression Level: 19
 Core Set: Enemy of Justice
 Ban List: 2006-09 Stein Format 
 Opponent: Harpie’s Pet Dragon
 Unlocks: 
-[IDS_SOLO.CHAPTER520027_EXPLANATION]
+[IDS_SOLO.CHAPTER20020027_EXPLANATION]
 Progression Level: 19
 Core Set: Enemy of Justice
 Ban List: 2006-09 Stein Format 
 Opponent: Majestic Mech – Goryu
 Unlocks: 
-[IDS_SOLO.CHAPTER520028_EXPLANATION]
+[IDS_SOLO.CHAPTER20020028_EXPLANATION]
 Progression Level: 19
 Core Set: Enemy of Justice
 Ban List: 2006-09 Stein Format 
 Opponent: Elemental HERO Tempest
 Unlocks: 20-Core: Power of the Duelist
-[IDS_SOLO.CHAPTER520029_EXPLANATION]
+[IDS_SOLO.CHAPTER20020029_EXPLANATION]
 Progression Level: 19
 Core Set: Enemy of Justice
 Ban List: 2006-09 Stein Format 
 Opponent: Golden Homunculus
 Unlocks: 
-[IDS_SOLO.CHAPTER520030_EXPLANATION]
+[IDS_SOLO.CHAPTER20020030_EXPLANATION]
 Progression Level: 19
 Core Set: Enemy of Justice
 Ban List: 2006-09 Stein Format 
 Opponent: Bountiful Artemis
 Unlocks: 19-Structure Deck: Lord of the Storm
-[IDS_SOLO.CHAPTER520031_EXPLANATION]
+[IDS_SOLO.CHAPTER20020031_EXPLANATION]
 Progression Level: 20
 Core Set: Power of the Duelist
 Ban List: 2006-09 Stein Format 
 Opponent: Elemental HERO Neos
 Unlocks: 
-[IDS_SOLO.CHAPTER520032_EXPLANATION]
+[IDS_SOLO.CHAPTER20020032_EXPLANATION]
 Progression Level: 20
 Core Set: Power of the Duelist
 Ban List: 2006-09 Stein Format 
 Opponent: Satellite Cannon
 Unlocks: 
-[IDS_SOLO.CHAPTER520033_EXPLANATION]
+[IDS_SOLO.CHAPTER20020033_EXPLANATION]
 Progression Level: 20
 Core Set: Power of the Duelist
 Ban List: 2006-09 Stein Format 
 Opponent: Cosmic Horror Gangi’el
 Unlocks: 
-[IDS_SOLO.CHAPTER520034_EXPLANATION]
+[IDS_SOLO.CHAPTER20020034_EXPLANATION]
 Progression Level: 20
 Core Set: Power of the Duelist
 Ban List: 2006-09 Stein Format 
 Opponent: Destiny HERO Dogma
 Unlocks: 21-Core: Cyberdark Impact
-[IDS_SOLO.CHAPTER520035_EXPLANATION]
+[IDS_SOLO.CHAPTER20020035_EXPLANATION]
 Progression Level: 20
 Core Set: Power of the Duelist
 Ban List: 2006-09 Stein Format 
 Opponent: Super Vehicroid Jumbo Drill
 Unlocks: 20-TP: Champion Pack: Game One
-[IDS_SOLO.CHAPTER520036_EXPLANATION]
+[IDS_SOLO.CHAPTER20020036_EXPLANATION]
 Progression Level: 20
 Core Set: Power of the Duelist
 Ban List: 2006-09 Stein Format 
 Opponent: Super Conductor Tyranno
 Unlocks: 20-Structure Deck: Dinosaur's Rage
-[IDS_SOLO.CHAPTER520037_EXPLANATION]
+[IDS_SOLO.CHAPTER20020037_EXPLANATION]
 Progression Level: 21
 Core Set: Cyberdark Impact
 Ban List: 2007-03 Chimeratech Format 
 Opponent: Poison of the Old Man
 Unlocks: 21-Reprint: Dark Revelation Volume 3
-[IDS_SOLO.CHAPTER520038_EXPLANATION]
+[IDS_SOLO.CHAPTER20020038_EXPLANATION]
 Progression Level: 21
 Core Set: Cyberdark Impact
 Ban List: 2007-03 Chimeratech Format 
 Opponent: Allure Queen LV7
 Unlocks: 21-Duelist Pack: Aster Phoenix, 21-Game: Tag Force
-[IDS_SOLO.CHAPTER520039_EXPLANATION]
+[IDS_SOLO.CHAPTER20020039_EXPLANATION]
 Progression Level: 21
 Core Set: Cyberdark Impact
 Ban List: 2007-03 Chimeratech Format 
 Opponent: Dark Lucius LV8
 Unlocks: 21-Duelist Pack: Jaden Yuki 2, 21-Game: Spirit Caller
-[IDS_SOLO.CHAPTER520040_EXPLANATION]
+[IDS_SOLO.CHAPTER20020040_EXPLANATION]
 Progression Level: 21
 Core Set: Cyberdark Impact
 Ban List: 2007-03 Chimeratech Format 
 Opponent: Cyberdark Dragon
 Unlocks: 22-Core: Strike of Neos
-[IDS_SOLO.CHAPTER520041_EXPLANATION]
+[IDS_SOLO.CHAPTER20020041_EXPLANATION]
 Progression Level: 21
 Core Set: Cyberdark Impact
 Ban List: 2007-03 Chimeratech Format 
 Opponent: Phantom Beast Thunder-Pegasus
 Unlocks: 21-TP: Champion Pack: Game Two, 21-Promo: McDonald's Promotional 2
-[IDS_SOLO.CHAPTER520042_EXPLANATION]
+[IDS_SOLO.CHAPTER20020042_EXPLANATION]
 Progression Level: 21
 Core Set: Cyberdark Impact
 Ban List: 2007-03 Chimeratech Format 
 Opponent: Green Gadget
 Unlocks: 21-Structure Deck: Machine Re-Volt
-[IDS_SOLO.CHAPTER520043_EXPLANATION]
+[IDS_SOLO.CHAPTER20020043_EXPLANATION]
 Progression Level: 22
 Core Set: Cyberdark Impact
 Ban List: 2007-06 Trooper Format 
 Opponent: Spell Striker
 Unlocks: 
-[IDS_SOLO.CHAPTER520044_EXPLANATION]
+[IDS_SOLO.CHAPTER20020044_EXPLANATION]
 Progression Level: 22
 Core Set: Strike of Neos
 Ban List: 2007-06 Trooper Format 
 Opponent: Cu Chulainn the Awakened
 Unlocks: 22-Game: World Championship 2007
-[IDS_SOLO.CHAPTER520045_EXPLANATION]
+[IDS_SOLO.CHAPTER20020045_EXPLANATION]
 Progression Level: 22
 Core Set: Strike of Neos
 Ban List: 2007-06 Trooper Format 
 Opponent: Lycanthrope
 Unlocks: 
-[IDS_SOLO.CHAPTER520046_EXPLANATION]
+[IDS_SOLO.CHAPTER20020046_EXPLANATION]
 Progression Level: 22
 Core Set: Strike of Neos
 Ban List: 2007-06 Trooper Format 
 Opponent: Reign-Beaux, Overlord of Dark World
 Unlocks: 23-Core: Force of the Breaker
-[IDS_SOLO.CHAPTER520047_EXPLANATION]
+[IDS_SOLO.CHAPTER20020047_EXPLANATION]
 Progression Level: 22
 Core Set: Strike of Neos
 Ban List: 2007-06 Trooper Format 
 Opponent: Legendary Flame Lord
 Unlocks: 22-TP: Champion Pack: Game Three
-[IDS_SOLO.CHAPTER520048_EXPLANATION]
+[IDS_SOLO.CHAPTER20020048_EXPLANATION]
 Progression Level: 22
 Core Set: Strike of Neos
 Ban List: 2007-06 Trooper Format 
 Opponent: Neo-Parshath, the Sky Paladin
 Unlocks: 22-Duelist Pack: Zane Truesdale
-[IDS_SOLO.CHAPTER520049_EXPLANATION]
+[IDS_SOLO.CHAPTER20020049_EXPLANATION]
 Progression Level: 23
 Core Set: Force of the Breaker
 Ban List: 2007-06 Trooper Format 
 Opponent: Volcanic Hammerer
 Unlocks: 
-[IDS_SOLO.CHAPTER520050_EXPLANATION]
+[IDS_SOLO.CHAPTER20020050_EXPLANATION]
 Progression Level: 23
 Core Set: Force of the Breaker
 Ban List: 2007-06 Trooper Format 
 Opponent: Marshmallon
 Unlocks: 
-[IDS_SOLO.CHAPTER520051_EXPLANATION]
+[IDS_SOLO.CHAPTER20020051_EXPLANATION]
 Progression Level: 23
 Core Set: Force of the Breaker
 Ban List: 2007-06 Trooper Format 
 Opponent: Alien Grey
 Unlocks: 23-Starter Deck: Syrus Truesdale
-[IDS_SOLO.CHAPTER520052_EXPLANATION]
+[IDS_SOLO.CHAPTER20020052_EXPLANATION]
 Progression Level: 23
 Core Set: Force of the Breaker
 Ban List: 2007-06 Trooper Format 
 Opponent: Great Shogun Shien
 Unlocks: 24-Core: Tactical Evolution
-[IDS_SOLO.CHAPTER520053_EXPLANATION]
+[IDS_SOLO.CHAPTER20020053_EXPLANATION]
 Progression Level: 23
 Core Set: Force of the Breaker
 Ban List: 2007-06 Trooper Format 
 Opponent: Abyss Soldier
 Unlocks: 23-Bonus: Premium Pack
-[IDS_SOLO.CHAPTER520054_EXPLANATION]
+[IDS_SOLO.CHAPTER20020054_EXPLANATION]
 Progression Level: 23
 Core Set: Force of the Breaker
 Ban List: 2007-06 Trooper Format 
 Opponent: Gravekeeper’s Commandant
 Unlocks: 23-Starter Deck: Jaden Yuki
-[IDS_SOLO.CHAPTER520055_EXPLANATION]
+[IDS_SOLO.CHAPTER20020055_EXPLANATION]
 Progression Level: 24
 Core Set: Tactical Evolution
 Ban List: 2007-09 Zombie Format 
 Opponent: Rainbow Dragon
 Unlocks: 
-[IDS_SOLO.CHAPTER520056_EXPLANATION]
+[IDS_SOLO.CHAPTER20020056_EXPLANATION]
 Progression Level: 24
 Core Set: Tactical Evolution
 Ban List: 2007-09 Zombie Format 
 Opponent: Huge Revolution
 Unlocks: 24-Game: Tag Force 2
-[IDS_SOLO.CHAPTER520057_EXPLANATION]
+[IDS_SOLO.CHAPTER20020057_EXPLANATION]
 Progression Level: 24
 Core Set: Tactical Evolution
 Ban List: 2007-09 Zombie Format 
 Opponent: Bad Reaction to Simochi
 Unlocks: 24-TP: Champion Pack: Game Four
-[IDS_SOLO.CHAPTER520058_EXPLANATION]
+[IDS_SOLO.CHAPTER20020058_EXPLANATION]
 Progression Level: 24
 Core Set: Tactical Evolution
 Ban List: 2007-09 Zombie Format 
 Opponent: Neo Space Pathfinder
 Unlocks: 25-Core: Gladiator's Assault
-[IDS_SOLO.CHAPTER520059_EXPLANATION]
+[IDS_SOLO.CHAPTER20020059_EXPLANATION]
 Progression Level: 24
 Core Set: Tactical Evolution
 Ban List: 2007-09 Zombie Format 
 Opponent: Venom Serpent
 Unlocks: 24-Structure Deck: Rise of the Dragon Lords
-[IDS_SOLO.CHAPTER520060_EXPLANATION]
+[IDS_SOLO.CHAPTER20020060_EXPLANATION]
 Progression Level: 24
 Core Set: Tactical Evolution
 Ban List: 2007-09 Zombie Format 
 Opponent: Vampire Genesis
 Unlocks: 24-Reprint: Dark Revelation Volume 4
-[IDS_SOLO.CHAPTER520061_EXPLANATION]
+[IDS_SOLO.CHAPTER20020061_EXPLANATION]
 Progression Level: 25
 Core Set: Tactical Evolution
 Ban List: 2008_03 DAD Return Format
 Opponent: Evil HERO Lightning Golem
 Unlocks: 25-Game: Card Almanac
-[IDS_SOLO.CHAPTER520062_EXPLANATION]
+[IDS_SOLO.CHAPTER20020062_EXPLANATION]
 Progression Level: 25
 Core Set: Gladiator's Assault
 Ban List: 2008_03 DAD Return Format
 Opponent: Witch Doctor of Sparta
 Unlocks: 25-Game: Tag Force Evolution, 25-Game: World Championship 2008
-[IDS_SOLO.CHAPTER520063_EXPLANATION]
+[IDS_SOLO.CHAPTER20020063_EXPLANATION]
 Progression Level: 25
 Core Set: Gladiator's Assault
 Ban List: 2008_03 DAD Return Format
 Opponent: Gambler of Legend
 Unlocks: 25-TP: Champion Pack: Game Five
-[IDS_SOLO.CHAPTER520064_EXPLANATION]
+[IDS_SOLO.CHAPTER20020064_EXPLANATION]
 Progression Level: 25
 Core Set: Gladiator's Assault
 Ban List: 2008_03 DAD Return Format
 Opponent: Gladiator Beast Heraklinos
 Unlocks: 26-Core: Phantom Darkness
-[IDS_SOLO.CHAPTER520065_EXPLANATION]
+[IDS_SOLO.CHAPTER20020065_EXPLANATION]
 Progression Level: 25
 Core Set: Gladiator's Assault
 Ban List: 2008_03 DAD Return Format
 Opponent: Amazoness Archer
 Unlocks: 25-Duelist Pack: Jaden Yuki 3
-[IDS_SOLO.CHAPTER520066_EXPLANATION]
+[IDS_SOLO.CHAPTER20020066_EXPLANATION]
 Progression Level: 25
 Core Set: Gladiator's Assault
 Ban List: 2008_03 DAD Return Format
 Opponent: Cloudian – Eye of the Typhoon
 Unlocks: 25-Duelist Pack: Jesse Anderson
-[IDS_SOLO.CHAPTER520067_EXPLANATION]
+[IDS_SOLO.CHAPTER20020067_EXPLANATION]
 Progression Level: 26
 Core Set: Phantom Darkness
 Ban List: 2008_03 DAD Return Format
 Opponent: Yubel – Terror Incarnate
 Unlocks: 
-[IDS_SOLO.CHAPTER520068_EXPLANATION]
+[IDS_SOLO.CHAPTER20020068_EXPLANATION]
 Progression Level: 26
 Core Set: Phantom Darkness
 Ban List: 2008_03 DAD Return Format
 Opponent: The Immortal Bushi
 Unlocks: 
-[IDS_SOLO.CHAPTER520069_EXPLANATION]
+[IDS_SOLO.CHAPTER20020069_EXPLANATION]
 Progression Level: 26
 Core Set: Phantom Darkness
 Ban List: 2008_03 DAD Return Format
 Opponent: Return Zombie
 Unlocks: 
-[IDS_SOLO.CHAPTER520070_EXPLANATION]
+[IDS_SOLO.CHAPTER20020070_EXPLANATION]
 Progression Level: 26
 Core Set: Phantom Darkness
 Ban List: 2008_03 DAD Return Format
 Opponent: Rainbow Neos
 Unlocks: 27-Core: Light of Destruction
-[IDS_SOLO.CHAPTER520071_EXPLANATION]
+[IDS_SOLO.CHAPTER20020071_EXPLANATION]
 Progression Level: 26
 Core Set: Phantom Darkness
 Ban List: 2008_03 DAD Return Format
 Opponent: Superalloy Beast Raptinus
 Unlocks: 26-Structure Deck: The Dark Emperor
-[IDS_SOLO.CHAPTER520072_EXPLANATION]
+[IDS_SOLO.CHAPTER20020072_EXPLANATION]
 Progression Level: 26
 Core Set: Phantom Darkness
 Ban List: 2008_03 DAD Return Format
 Opponent: Doom Dozer
 Unlocks: 26-TP: Champion Pack: Game Six
-[IDS_SOLO.CHAPTER520073_EXPLANATION]
+[IDS_SOLO.CHAPTER20020073_EXPLANATION]
 Progression Level: 27
 Core Set: Light of Destruction
 Ban List: 2008-09 TeleDAD Format 
 Opponent: Substitoad
 Unlocks: 
-[IDS_SOLO.CHAPTER520074_EXPLANATION]
+[IDS_SOLO.CHAPTER20020074_EXPLANATION]
 Progression Level: 27
 Core Set: Light of Destruction
 Ban List: 2008-09 TeleDAD Format 
 Opponent: Arcana Force XXI – The World
 Unlocks: 27-Starter Deck: Yu-Gi-Oh! 5D's
-[IDS_SOLO.CHAPTER520075_EXPLANATION]
+[IDS_SOLO.CHAPTER20020075_EXPLANATION]
 Progression Level: 27
 Core Set: Light of Destruction
 Ban List: 2008-09 TeleDAD Format 
 Opponent: Batteryman Micro-Cell
 Unlocks: 27-TP: Champion Pack: Game Seven
-[IDS_SOLO.CHAPTER520076_EXPLANATION]
+[IDS_SOLO.CHAPTER20020076_EXPLANATION]
 Progression Level: 27
 Core Set: Light of Destruction
 Ban List: 2008-09 TeleDAD Format 
 Opponent: Junk Warrior
 Unlocks: 28-Core: The Duelist Genesis
-[IDS_SOLO.CHAPTER520077_EXPLANATION]
+[IDS_SOLO.CHAPTER20020077_EXPLANATION]
 Progression Level: 27
 Core Set: Light of Destruction
 Ban List: 2008-09 TeleDAD Format 
 Opponent: Ultimate Ancient Gear Golem
 Unlocks: 27-Reprint: Retro Pack
-[IDS_SOLO.CHAPTER520078_EXPLANATION]
+[IDS_SOLO.CHAPTER20020078_EXPLANATION]
 Progression Level: 27
 Core Set: Light of Destruction
 Ban List: 2008-09 TeleDAD Format 
 Opponent: Judgement Dragon
 Unlocks: 27-Bonus: Premium Pack 2
-[IDS_SOLO.CHAPTER530001_EXPLANATION]
+[IDS_SOLO.CHAPTER20030001_EXPLANATION]
 Progression Level: 28
 Core Set: The Duelist Genesis
 Ban List: 2009-03 Cat Format 
 Opponent: Thought Ruler Archfiend
 Unlocks: 
-[IDS_SOLO.CHAPTER530002_EXPLANATION]
+[IDS_SOLO.CHAPTER20030002_EXPLANATION]
 Progression Level: 28
 Core Set: The Duelist Genesis
 Ban List: 2009-03 Cat Format 
 Opponent: Multiple Piece Golem
 Unlocks: 
-[IDS_SOLO.CHAPTER530003_EXPLANATION]
+[IDS_SOLO.CHAPTER20030003_EXPLANATION]
 Progression Level: 28
 Core Set: The Duelist Genesis
 Ban List: 2009-03 Cat Format 
 Opponent: Izanagi
 Unlocks: 
-[IDS_SOLO.CHAPTER530004_EXPLANATION]
+[IDS_SOLO.CHAPTER20030004_EXPLANATION]
 Progression Level: 28
 Core Set: The Duelist Genesis
 Ban List: 2009-03 Cat Format 
 Opponent: Montage Dragon
 Unlocks: 29-Core: Crossroads of Chaos
-[IDS_SOLO.CHAPTER530005_EXPLANATION]
+[IDS_SOLO.CHAPTER20030005_EXPLANATION]
 Progression Level: 28
 Core Set: The Duelist Genesis
 Ban List: 2009-03 Cat Format 
 Opponent: Ice Master
 Unlocks: 
-[IDS_SOLO.CHAPTER530006_EXPLANATION]
+[IDS_SOLO.CHAPTER20030006_EXPLANATION]
 Progression Level: 28
 Core Set: The Duelist Genesis
 Ban List: 2009-03 Cat Format 
 Opponent: Red-Eyes Zombie Dragon
 Unlocks: 28-Structure Deck: Zombie World
-[IDS_SOLO.CHAPTER530007_EXPLANATION]
+[IDS_SOLO.CHAPTER20030007_EXPLANATION]
 Progression Level: 29
 Core Set: Crossroads of Chaos
 Ban List: 2009-03 Cat Format 
 Opponent: Iron Chain Repairman
 Unlocks: 
-[IDS_SOLO.CHAPTER530008_EXPLANATION]
+[IDS_SOLO.CHAPTER20030008_EXPLANATION]
 Progression Level: 29
 Core Set: Crossroads of Chaos
 Ban List: 2009-03 Cat Format 
 Opponent: Victory Viper XX03
 Unlocks: 29-Game: Tag Force 3
-[IDS_SOLO.CHAPTER530009_EXPLANATION]
+[IDS_SOLO.CHAPTER20030009_EXPLANATION]
 Progression Level: 29
 Core Set: Crossroads of Chaos
 Ban List: 2009-03 Cat Format 
 Opponent: Morphtronic Clocken
 Unlocks: 29-Reprint: Dark Legends
-[IDS_SOLO.CHAPTER530010_EXPLANATION]
+[IDS_SOLO.CHAPTER20030010_EXPLANATION]
 Progression Level: 29
 Core Set: Crossroads of Chaos
 Ban List: 2009-03 Cat Format 
 Opponent: Queen of Thorns
 Unlocks: 30-Core: Crimson Crisis
-[IDS_SOLO.CHAPTER530011_EXPLANATION]
+[IDS_SOLO.CHAPTER20030011_EXPLANATION]
 Progression Level: 29
 Core Set: Crossroads of Chaos
 Ban List: 2009-03 Cat Format 
 Opponent: Tempest Magician
 Unlocks: 29-TP: Champion Pack: Game Eight
-[IDS_SOLO.CHAPTER530012_EXPLANATION]
+[IDS_SOLO.CHAPTER20030012_EXPLANATION]
 Progression Level: 29
 Core Set: Crossroads of Chaos
 Ban List: 2009-03 Cat Format 
 Opponent: Skull Servant
 Unlocks: 29-Duelist Pack: Yusei
-[IDS_SOLO.CHAPTER530013_EXPLANATION]
+[IDS_SOLO.CHAPTER20030013_EXPLANATION]
 Progression Level: 30
 Core Set: Crimson Crisis
 Ban List: 2009-03 Cat Format 
 Opponent: Red Dragon Archfiend/Assault Mode
 Unlocks: 
-[IDS_SOLO.CHAPTER530014_EXPLANATION]
+[IDS_SOLO.CHAPTER20030014_EXPLANATION]
 Progression Level: 30
 Core Set: Crimson Crisis
 Ban List: 2009-03 Cat Format 
 Opponent: B.E.S. Covered Core
 Unlocks: 
-[IDS_SOLO.CHAPTER530015_EXPLANATION]
+[IDS_SOLO.CHAPTER20030015_EXPLANATION]
 Progression Level: 30
 Core Set: Crimson Crisis
 Ban List: 2009-03 Cat Format 
 Opponent: Flying Fortress SKY FIRE
 Unlocks: 
-[IDS_SOLO.CHAPTER530016_EXPLANATION]
+[IDS_SOLO.CHAPTER20030016_EXPLANATION]
 Progression Level: 30
 Core Set: Crimson Crisis
 Ban List: 2009-03 Cat Format 
 Opponent: Black Wing Armor Master
 Unlocks: 31-Core: Raging Battle
-[IDS_SOLO.CHAPTER530017_EXPLANATION]
+[IDS_SOLO.CHAPTER20030017_EXPLANATION]
 Progression Level: 30
 Core Set: Crimson Crisis
 Ban List: 2009-03 Cat Format 
 Opponent: Cosmic Fortress Gol’gar
 Unlocks: 30-Structure Deck: Spellcaster's Command
-[IDS_SOLO.CHAPTER530018_EXPLANATION]
+[IDS_SOLO.CHAPTER20030018_EXPLANATION]
 Progression Level: 30
 Core Set: Crimson Crisis
 Ban List: 2009-03 Cat Format 
 Opponent: Debris Dragon
 Unlocks: 30-Duelist Pack Tins: 2009
-[IDS_SOLO.CHAPTER530019_EXPLANATION]
+[IDS_SOLO.CHAPTER20030019_EXPLANATION]
 Progression Level: 31
 Core Set: Raging Battle
 Ban List: 2009_09 Lightsworn Format 
 Opponent: Earthbound Immortal Wiraqocha Rasca
 Unlocks: 31-Game: World Championship 2009
-[IDS_SOLO.CHAPTER530020_EXPLANATION]
+[IDS_SOLO.CHAPTER20030020_EXPLANATION]
 Progression Level: 31
 Core Set: Raging Battle
 Ban List: 2009_09 Lightsworn Format 
 Opponent: Deep Sea Diva
 Unlocks: 31-Game: Wheelie Breakers
-[IDS_SOLO.CHAPTER530021_EXPLANATION]
+[IDS_SOLO.CHAPTER20030021_EXPLANATION]
 Progression Level: 31
 Core Set: Raging Battle
 Ban List: 2009_09 Lightsworn Format 
 Opponent: Ojama Red
 Unlocks: 31-Starter Deck: 5D's 2009
-[IDS_SOLO.CHAPTER530022_EXPLANATION]
+[IDS_SOLO.CHAPTER20030022_EXPLANATION]
 Progression Level: 31
 Core Set: Raging Battle
 Ban List: 2009_09 Lightsworn Format 
 Opponent: Power Tool Dragon
 Unlocks: 32-Core: Ancient Prophecy
-[IDS_SOLO.CHAPTER530023_EXPLANATION]
+[IDS_SOLO.CHAPTER20030023_EXPLANATION]
 Progression Level: 31
 Core Set: Raging Battle
 Ban List: 2009_09 Lightsworn Format 
 Opponent: Koa’ki Meiru Valafar
 Unlocks: 31-Duelist Pack: Yugi
-[IDS_SOLO.CHAPTER530024_EXPLANATION]
+[IDS_SOLO.CHAPTER20030024_EXPLANATION]
 Progression Level: 31
 Core Set: Raging Battle
 Ban List: 2009_09 Lightsworn Format 
 Opponent: King of the Beasts
 Unlocks: 31-Reprint: Retro Pack 2
-[IDS_SOLO.CHAPTER530025_EXPLANATION]
+[IDS_SOLO.CHAPTER20030025_EXPLANATION]
 Progression Level: 32
 Core Set: Ancient Prophecy
 Ban List: 2010-03 Edison Format 
 Opponent: X-Saber Urbellum
 Unlocks: 
-[IDS_SOLO.CHAPTER530026_EXPLANATION]
+[IDS_SOLO.CHAPTER20030026_EXPLANATION]
 Progression Level: 32
 Core Set: Ancient Prophecy
 Ban List: 2010-03 Edison Format 
 Opponent: Superancient Deepsea King Coelacanth
 Unlocks: 
-[IDS_SOLO.CHAPTER530027_EXPLANATION]
+[IDS_SOLO.CHAPTER20030027_EXPLANATION]
 Progression Level: 32
 Core Set: Ancient Prophecy
 Ban List: 2010-03 Edison Format 
 Opponent: Submarine Frog
 Unlocks: 32-TP: Turbo Pack: Booster One
-[IDS_SOLO.CHAPTER530028_EXPLANATION]
+[IDS_SOLO.CHAPTER20030028_EXPLANATION]
 Progression Level: 32
 Core Set: Ancient Prophecy
 Ban List: 2010-03 Edison Format 
 Opponent: Evil HERO Dark Gaia
 Unlocks: 33-Core: Stardust Overdrive
-[IDS_SOLO.CHAPTER530029_EXPLANATION]
+[IDS_SOLO.CHAPTER20030029_EXPLANATION]
 Progression Level: 32
 Core Set: Ancient Prophecy
 Ban List: 2010-03 Edison Format 
 Opponent: Flamvell Uruquizas
 Unlocks: 32-Bonus: Hidden Arsenal
-[IDS_SOLO.CHAPTER530030_EXPLANATION]
+[IDS_SOLO.CHAPTER20030030_EXPLANATION]
 Progression Level: 32
 Core Set: Ancient Prophecy
 Ban List: 2010-03 Edison Format 
 Opponent: Phoenix Gearfried
 Unlocks: 32-Structure Deck: Warriors' Strike
-[IDS_SOLO.CHAPTER530031_EXPLANATION]
+[IDS_SOLO.CHAPTER20030031_EXPLANATION]
 Progression Level: 33
 Core Set: Stardust Overdrive
 Ban List: 2010-03 Edison Format 
 Opponent: Divine Grace – Northwemko
 Unlocks: 
-[IDS_SOLO.CHAPTER530032_EXPLANATION]
+[IDS_SOLO.CHAPTER20030032_EXPLANATION]
 Progression Level: 33
 Core Set: Stardust Overdrive
 Ban List: 2010-03 Edison Format 
 Opponent: Solitaire Magician
 Unlocks: 33-Game: Tag Force 4
-[IDS_SOLO.CHAPTER530033_EXPLANATION]
+[IDS_SOLO.CHAPTER20030033_EXPLANATION]
 Progression Level: 33
 Core Set: Stardust Overdrive
 Ban List: 2010-03 Edison Format 
 Opponent: Mother Spider
 Unlocks: 
-[IDS_SOLO.CHAPTER530034_EXPLANATION]
+[IDS_SOLO.CHAPTER20030034_EXPLANATION]
 Progression Level: 33
 Core Set: Stardust Overdrive
 Ban List: 2010-03 Edison Format 
 Opponent: Gladiator Beast Gaiodiaz
 Unlocks: 34-Core: Absolute Powerforce
-[IDS_SOLO.CHAPTER530035_EXPLANATION]
+[IDS_SOLO.CHAPTER20030035_EXPLANATION]
 Progression Level: 33
 Core Set: Stardust Overdrive
 Ban List: 2010-03 Edison Format 
 Opponent: Majestic Star Dragon
 Unlocks: 33-TP: Turbo Pack: Booster Two
-[IDS_SOLO.CHAPTER530036_EXPLANATION]
+[IDS_SOLO.CHAPTER20030036_EXPLANATION]
 Progression Level: 33
 Core Set: Stardust Overdrive
 Ban List: 2010-03 Edison Format 
 Opponent: Blackwing – Silverwind the Ascendant
 Unlocks: 33-Duelist Pack: Yusei 2
-[IDS_SOLO.CHAPTER530037_EXPLANATION]
+[IDS_SOLO.CHAPTER20030037_EXPLANATION]
 Progression Level: 34
 Core Set: Absolute Powerforce
 Ban List: 2010-03 Edison Format 
 Opponent: Machina Fortress
 Unlocks: 
-[IDS_SOLO.CHAPTER530038_EXPLANATION]
+[IDS_SOLO.CHAPTER20030038_EXPLANATION]
 Progression Level: 34
 Core Set: Absolute Powerforce
 Ban List: 2010-03 Edison Format 
 Opponent: Reptilianne Hydra
 Unlocks: 34-Structure Deck: Machina Mayhem
-[IDS_SOLO.CHAPTER530039_EXPLANATION]
+[IDS_SOLO.CHAPTER20030039_EXPLANATION]
 Progression Level: 34
 Core Set: Absolute Powerforce
 Ban List: 2010-03 Edison Format 
 Opponent: Skull Conductor
 Unlocks: 34-Game: World Championship 2010
-[IDS_SOLO.CHAPTER530040_EXPLANATION]
+[IDS_SOLO.CHAPTER20030040_EXPLANATION]
 Progression Level: 34
 Core Set: Absolute Powerforce
 Ban List: 2010-03 Edison Format 
 Opponent: Oracle of the Sun
 Unlocks: 35-Core: The Shining Darkness
-[IDS_SOLO.CHAPTER530041_EXPLANATION]
+[IDS_SOLO.CHAPTER20030041_EXPLANATION]
 Progression Level: 34
 Core Set: Absolute Powerforce
 Ban List: 2010-03 Edison Format 
 Opponent: Cyber End Dragon
 Unlocks: 34-Duelist Pack Collection Tin: 2010
-[IDS_SOLO.CHAPTER530042_EXPLANATION]
+[IDS_SOLO.CHAPTER20030042_EXPLANATION]
 Progression Level: 34
 Core Set: Absolute Powerforce
 Ban List: 2010-03 Edison Format 
 Opponent: Dark Simorgh
 Unlocks: 34-Duelist Pack: Kaiba
-[IDS_SOLO.CHAPTER530043_EXPLANATION]
+[IDS_SOLO.CHAPTER20030043_EXPLANATION]
 Progression Level: 35
 Core Set: The Shining Darkness
 Ban List: 2010-09 X-Saber Format 
 Opponent: Herald of Perfection
 Unlocks: 
-[IDS_SOLO.CHAPTER530044_EXPLANATION]
+[IDS_SOLO.CHAPTER20030044_EXPLANATION]
 Progression Level: 35
 Core Set: The Shining Darkness
 Ban List: 2010-09 X-Saber Format 
 Opponent: The Dark Creator
 Unlocks: 35-Collectible Tins: 2010
-[IDS_SOLO.CHAPTER530045_EXPLANATION]
+[IDS_SOLO.CHAPTER20030045_EXPLANATION]
 Progression Level: 35
 Core Set: The Shining Darkness
 Ban List: 2010-09 X-Saber Format 
 Opponent: Ally of Justice Catastor
 Unlocks: 35-Starter Deck: Duelist Toolbox
-[IDS_SOLO.CHAPTER530046_EXPLANATION]
+[IDS_SOLO.CHAPTER20030046_EXPLANATION]
 Progression Level: 35
 Core Set: The Shining Darkness
 Ban List: 2010-09 X-Saber Format 
 Opponent: Enishi, Shien’s Chancellor
 Unlocks: 36-Core: Duelist Revolution
-[IDS_SOLO.CHAPTER530047_EXPLANATION]
+[IDS_SOLO.CHAPTER20030047_EXPLANATION]
 Progression Level: 35
 Core Set: The Shining Darkness
 Ban List: 2010-09 X-Saber Format 
 Opponent: Infernity Doom Dragon
 Unlocks: 35-TP: Turbo Pack: Booster Three
-[IDS_SOLO.CHAPTER530048_EXPLANATION]
+[IDS_SOLO.CHAPTER20030048_EXPLANATION]
 Progression Level: 35
 Core Set: The Shining Darkness
 Ban List: 2010-09 X-Saber Format 
 Opponent: Naturia Leodrake
 Unlocks: 35-Bonus: Hidden Arsenal 2
-[IDS_SOLO.CHAPTER530049_EXPLANATION]
+[IDS_SOLO.CHAPTER20030049_EXPLANATION]
 Progression Level: 36
 Core Set: Duelist Revolution
 Ban List: 2010-09 X-Saber Format 
 Opponent: Amazoness Queen
 Unlocks: 
-[IDS_SOLO.CHAPTER530050_EXPLANATION]
+[IDS_SOLO.CHAPTER20030050_EXPLANATION]
 Progression Level: 36
 Core Set: Duelist Revolution
 Ban List: 2010-09 X-Saber Format 
 Opponent: Wattchimera
 Unlocks: 
-[IDS_SOLO.CHAPTER530051_EXPLANATION]
+[IDS_SOLO.CHAPTER20030051_EXPLANATION]
 Progression Level: 36
 Core Set: Duelist Revolution
 Ban List: 2010-09 X-Saber Format 
 Opponent: Genex Controller
 Unlocks: 
-[IDS_SOLO.CHAPTER530052_EXPLANATION]
+[IDS_SOLO.CHAPTER20030052_EXPLANATION]
 Progression Level: 36
 Core Set: Duelist Revolution
 Ban List: 2010-09 X-Saber Format 
 Opponent: Hyper Psychic Blaster
 Unlocks: 37-Core: Starstrike Blast
-[IDS_SOLO.CHAPTER530053_EXPLANATION]
+[IDS_SOLO.CHAPTER20030053_EXPLANATION]
 Progression Level: 36
 Core Set: Duelist Revolution
 Ban List: 2010-09 X-Saber Format 
 Opponent: Thunder Unicorn
 Unlocks: 36-Game: Tag Force 5
-[IDS_SOLO.CHAPTER530054_EXPLANATION]
+[IDS_SOLO.CHAPTER20030054_EXPLANATION]
 Progression Level: 36
 Core Set: Duelist Revolution
 Ban List: 2010-09 X-Saber Format 
 Opponent: Scrap Archfiend
 Unlocks: 36-Structure Deck: Marik
-[IDS_SOLO.CHAPTER530055_EXPLANATION]
+[IDS_SOLO.CHAPTER20030055_EXPLANATION]
 Progression Level: 37
 Core Set: Starstrike Blast
 Ban List: 2011-03 Trishula Format 
 Opponent: Dragunity Knight – Vajrayana
 Unlocks: 
-[IDS_SOLO.CHAPTER530056_EXPLANATION]
+[IDS_SOLO.CHAPTER20030056_EXPLANATION]
 Progression Level: 37
 Core Set: Starstrike Blast
 Ban List: 2011-03 Trishula Format 
 Opponent: Worm Queen
 Unlocks: 37-Game: Duel Transer
-[IDS_SOLO.CHAPTER530057_EXPLANATION]
+[IDS_SOLO.CHAPTER20030057_EXPLANATION]
 Progression Level: 37
 Core Set: Starstrike Blast
 Ban List: 2011-03 Trishula Format 
 Opponent: Fabled Leviathan
 Unlocks: 37-TP: Turbo Pack: Booster Four
-[IDS_SOLO.CHAPTER530058_EXPLANATION]
+[IDS_SOLO.CHAPTER20030058_EXPLANATION]
 Progression Level: 37
 Core Set: Starstrike Blast
 Ban List: 2011-03 Trishula Format 
 Opponent: Dewloren, Tiger King of the Ice Barrier
 Unlocks: 38-Core: Storm of Ragnarok
-[IDS_SOLO.CHAPTER530059_EXPLANATION]
+[IDS_SOLO.CHAPTER20030059_EXPLANATION]
 Progression Level: 37
 Core Set: Starstrike Blast
 Ban List: 2011-03 Trishula Format 
 Opponent: Karakuri Strategist mdl 248 “Nishipachi”
 Unlocks: 37-Duelist Pack: Yusei 3
-[IDS_SOLO.CHAPTER530060_EXPLANATION]
+[IDS_SOLO.CHAPTER20030060_EXPLANATION]
 Progression Level: 37
 Core Set: Starstrike Blast
 Ban List: 2011-03 Trishula Format 
 Opponent: Jurrac Giganoto
 Unlocks: 37-Bonus: Hidden Arsenal 3
-[IDS_SOLO.CHAPTER530061_EXPLANATION]
+[IDS_SOLO.CHAPTER20030061_EXPLANATION]
 Progression Level: 38
 Core Set: Storm of Ragnarok
 Ban List: 2011-03 Trishula Format 
 Opponent: Malefic Paradox Dragon
 Unlocks: 38-Promo: Bonds Beyond Time Movie Pack
-[IDS_SOLO.CHAPTER530062_EXPLANATION]
+[IDS_SOLO.CHAPTER20030062_EXPLANATION]
 Progression Level: 38
 Core Set: Storm of Ragnarok
 Ban List: 2011-03 Trishula Format 
 Opponent: Odin, Father of the Aesir
 Unlocks: 38-TP: Turbo Pack: Booster Five
-[IDS_SOLO.CHAPTER530063_EXPLANATION]
+[IDS_SOLO.CHAPTER20030063_EXPLANATION]
 Progression Level: 38
 Core Set: Storm of Ragnarok
 Ban List: 2011-03 Trishula Format 
 Opponent: Elemental HERO Voltic
 Unlocks: 38-Duelist Pack Collection Tin: 2011
-[IDS_SOLO.CHAPTER530064_EXPLANATION]
+[IDS_SOLO.CHAPTER20030064_EXPLANATION]
 Progression Level: 38
 Core Set: Storm of Ragnarok
 Ban List: 2011-03 Trishula Format 
 Opponent: Earthbound Linewalker
 Unlocks: 39-Core: Extreme Victory
-[IDS_SOLO.CHAPTER530065_EXPLANATION]
+[IDS_SOLO.CHAPTER20030065_EXPLANATION]
 Progression Level: 38
 Core Set: Storm of Ragnarok
 Ban List: 2011-03 Trishula Format 
 Opponent: Neo Flamvelll Origin
 Unlocks: 38-Structure Deck: Dragunity Legion
-[IDS_SOLO.CHAPTER530066_EXPLANATION]
+[IDS_SOLO.CHAPTER20030066_EXPLANATION]
 Progression Level: 38
 Core Set: Storm of Ragnarok
 Ban List: 2011-03 Trishula Format 
 Opponent: Naturia Exterio
 Unlocks: 38-Bonus: Hidden Arsenal 4: Trishula's Triumph
-[IDS_SOLO.CHAPTER530067_EXPLANATION]
+[IDS_SOLO.CHAPTER20030067_EXPLANATION]
 Progression Level: 39
 Core Set: Extreme Victory
 Ban List: 2011-09 Tengu Plant Format
 Opponent: Meklord Emperor Skiel
 Unlocks: 39-Game: World Championship 2011
-[IDS_SOLO.CHAPTER530068_EXPLANATION]
+[IDS_SOLO.CHAPTER20030068_EXPLANATION]
 Progression Level: 39
 Core Set: Extreme Victory
 Ban List: 2011-09 Tengu Plant Format
 Opponent: Junk Berserker
 Unlocks: 39-TP: Turbo Pack: Booster Six
-[IDS_SOLO.CHAPTER530069_EXPLANATION]
+[IDS_SOLO.CHAPTER20030069_EXPLANATION]
 Progression Level: 39
 Core Set: Extreme Victory
 Ban List: 2011-09 Tengu Plant Format
 Opponent: Jar Turtle
 Unlocks: 39-Starter Deck: Dawn of the Xyz
-[IDS_SOLO.CHAPTER530070_EXPLANATION]
+[IDS_SOLO.CHAPTER20030070_EXPLANATION]
 Progression Level: 39
 Core Set: Extreme Victory
 Ban List: 2011-09 Tengu Plant Format
 Opponent: Mad Lobster
 Unlocks: 40-Core: Generation Force
-[IDS_SOLO.CHAPTER530071_EXPLANATION]
+[IDS_SOLO.CHAPTER20030071_EXPLANATION]
 Progression Level: 39
 Core Set: Extreme Victory
 Ban List: 2011-09 Tengu Plant Format
 Opponent: T.G. Hyper Librarian
 Unlocks: 39-Duelist Pack: Crow
-[IDS_SOLO.CHAPTER530072_EXPLANATION]
+[IDS_SOLO.CHAPTER20030072_EXPLANATION]
 Progression Level: 39
 Core Set: Extreme Victory
 Ban List: 2011-09 Tengu Plant Format
 Opponent: Archlord Kristya
 Unlocks: 39-Structure Deck: Lost Sanctuary
-[IDS_SOLO.CHAPTER540001_EXPLANATION]
+[IDS_SOLO.CHAPTER20040001_EXPLANATION]
 Progression Level: 40
 Core Set: Generation Force
 Ban List: 2011-09 Tengu Plant Format
 Opponent: Wind-Up Zenmaister
 Unlocks: 
-[IDS_SOLO.CHAPTER540002_EXPLANATION]
+[IDS_SOLO.CHAPTER20040002_EXPLANATION]
 Progression Level: 40
 Core Set: Generation Force
 Ban List: 2011-09 Tengu Plant Format
 Opponent: Super Crashbug
 Unlocks: 
-[IDS_SOLO.CHAPTER540003_EXPLANATION]
+[IDS_SOLO.CHAPTER20040003_EXPLANATION]
 Progression Level: 40
 Core Set: Generation Force
 Ban List: 2011-09 Tengu Plant Format
 Opponent: Masked HERO Goka
 Unlocks: 
-[IDS_SOLO.CHAPTER540004_EXPLANATION]
+[IDS_SOLO.CHAPTER20040004_EXPLANATION]
 Progression Level: 40
 Core Set: Generation Force
 Ban List: 2011-09 Tengu Plant Format
 Opponent: Grapha, Dragon Lord of Dark World
 Unlocks: 41-Core: Photon Shockwave
-[IDS_SOLO.CHAPTER540005_EXPLANATION]
+[IDS_SOLO.CHAPTER20040005_EXPLANATION]
 Progression Level: 40
 Core Set: Generation Force
 Ban List: 2011-09 Tengu Plant Format
 Opponent: Pain Painter
 Unlocks: 40-Collectible Tins: 2011
-[IDS_SOLO.CHAPTER540006_EXPLANATION]
+[IDS_SOLO.CHAPTER20040006_EXPLANATION]
 Progression Level: 40
 Core Set: Generation Force
 Ban List: 2011-09 Tengu Plant Format
 Opponent: Spearfish Soldier
 Unlocks: 40-Structure Deck: Gates of the Underworld
-[IDS_SOLO.CHAPTER540007_EXPLANATION]
+[IDS_SOLO.CHAPTER20040007_EXPLANATION]
 Progression Level: 41
 Core Set: Photon Shockwave
 Ban List: 2012-03 Dino Rabbit Format
 Opponent: Daigusto Gulldos
 Unlocks: 
-[IDS_SOLO.CHAPTER540008_EXPLANATION]
+[IDS_SOLO.CHAPTER20040008_EXPLANATION]
 Progression Level: 41
 Core Set: Photon Shockwave
 Ban List: 2012-03 Dino Rabbit Format
 Opponent: Gishki Vanity
 Unlocks: 
-[IDS_SOLO.CHAPTER540009_EXPLANATION]
+[IDS_SOLO.CHAPTER20040009_EXPLANATION]
 Progression Level: 41
 Core Set: Photon Shockwave
 Ban List: 2012-03 Dino Rabbit Format
 Opponent: Vylon Soldier
 Unlocks: 
-[IDS_SOLO.CHAPTER540010_EXPLANATION]
+[IDS_SOLO.CHAPTER20040010_EXPLANATION]
 Progression Level: 41
 Core Set: Photon Shockwave
 Ban List: 2012-03 Dino Rabbit Format
 Opponent: Evolzar Dolkka
 Unlocks: 42-Core: Order of Chaos
-[IDS_SOLO.CHAPTER540011_EXPLANATION]
+[IDS_SOLO.CHAPTER20040011_EXPLANATION]
 Progression Level: 41
 Core Set: Photon Shockwave
 Ban List: 2012-03 Dino Rabbit Format
 Opponent: Laval the Greater
 Unlocks: 41-TP: Turbo Pack: Booster Seven
-[IDS_SOLO.CHAPTER540012_EXPLANATION]
+[IDS_SOLO.CHAPTER20040012_EXPLANATION]
 Progression Level: 41
 Core Set: Photon Shockwave
 Ban List: 2012-03 Dino Rabbit Format
 Opponent: Gem-Knight Ruby
 Unlocks: 41-Bonus: Hidden Arsenal 5: Steelswarm Invasion
-[IDS_SOLO.CHAPTER540013_EXPLANATION]
+[IDS_SOLO.CHAPTER20040013_EXPLANATION]
 Progression Level: 42
 Core Set: Order of Chaos
 Ban List: 2012-03 Dino Rabbit Format
 Opponent: Photon Crusher
 Unlocks: 
-[IDS_SOLO.CHAPTER540014_EXPLANATION]
+[IDS_SOLO.CHAPTER20040014_EXPLANATION]
 Progression Level: 42
 Core Set: Order of Chaos
 Ban List: 2012-03 Dino Rabbit Format
 Opponent: Steelswarm Roach
 Unlocks: 
-[IDS_SOLO.CHAPTER540015_EXPLANATION]
+[IDS_SOLO.CHAPTER20040015_EXPLANATION]
 Progression Level: 42
 Core Set: Order of Chaos
 Ban List: 2012-03 Dino Rabbit Format
 Opponent: Master of Oz
 Unlocks: 
-[IDS_SOLO.CHAPTER540016_EXPLANATION]
+[IDS_SOLO.CHAPTER20040016_EXPLANATION]
 Progression Level: 42
 Core Set: Order of Chaos
 Ban List: 2012-03 Dino Rabbit Format
 Opponent: Lightpulsar Dragon
 Unlocks: 43-Core: Galactic Overlord
-[IDS_SOLO.CHAPTER540017_EXPLANATION]
+[IDS_SOLO.CHAPTER20040017_EXPLANATION]
 Progression Level: 42
 Core Set: Order of Chaos
 Ban List: 2012-03 Dino Rabbit Format
 Opponent: Blade Armor Ninja
 Unlocks: 42-Starter Deck: Xyz Symphony
-[IDS_SOLO.CHAPTER540018_EXPLANATION]
+[IDS_SOLO.CHAPTER20040018_EXPLANATION]
 Progression Level: 42
 Core Set: Order of Chaos
 Ban List: 2012-03 Dino Rabbit Format
 Opponent: Tentempo the Percussion Djinn
 Unlocks: 42-Structure Deck: Dragons Collide
-[IDS_SOLO.CHAPTER540019_EXPLANATION]
+[IDS_SOLO.CHAPTER20040019_EXPLANATION]
 Progression Level: 43
 Core Set: Galactic Overlord
 Ban List: 2012-09 Wind-Up Format 
 Opponent: Hieratic Dragon King of Atum
 Unlocks: 43-TP: Turbo Pack: Booster Eight
-[IDS_SOLO.CHAPTER540020_EXPLANATION]
+[IDS_SOLO.CHAPTER20040020_EXPLANATION]
 Progression Level: 43
 Core Set: Galactic Overlord
 Ban List: 2012-09 Wind-Up Format 
 Opponent: Lightray Sorcerer
 Unlocks: 43-Structure Deck: Samurai Warlords
-[IDS_SOLO.CHAPTER540021_EXPLANATION]
+[IDS_SOLO.CHAPTER20040021_EXPLANATION]
 Progression Level: 43
 Core Set: Galactic Overlord
 Ban List: 2012-09 Wind-Up Format 
 Opponent: Watthydra
 Unlocks: 43-Collectible Tins: 2012
-[IDS_SOLO.CHAPTER540022_EXPLANATION]
+[IDS_SOLO.CHAPTER20040022_EXPLANATION]
 Progression Level: 43
 Core Set: Galactic Overlord
 Ban List: 2012-09 Wind-Up Format 
 Opponent: Inzektor Exa-Beeetle
 Unlocks: 44-Core: Return of the Duelist
-[IDS_SOLO.CHAPTER540023_EXPLANATION]
+[IDS_SOLO.CHAPTER20040023_EXPLANATION]
 Progression Level: 43
 Core Set: Galactic Overlord
 Ban List: 2012-09 Wind-Up Format 
 Opponent: Koa’ki Meiru Doom
 Unlocks: 43-Bonus: Battle Pack: Epic Dawn
-[IDS_SOLO.CHAPTER540024_EXPLANATION]
+[IDS_SOLO.CHAPTER20040024_EXPLANATION]
 Progression Level: 43
 Core Set: Galactic Overlord
 Ban List: 2012-09 Wind-Up Format 
 Opponent: Scrap Twin Dragon
 Unlocks: 43-Bonus: Hidden Arsenal 6: Omega Xyz
-[IDS_SOLO.CHAPTER540025_EXPLANATION]
+[IDS_SOLO.CHAPTER20040025_EXPLANATION]
 Progression Level: 44
 Core Set: Return of the Duelist
 Ban List: 2012-09 Wind-Up Format 
 Opponent: Gear Gigant X
 Unlocks: 
-[IDS_SOLO.CHAPTER540026_EXPLANATION]
+[IDS_SOLO.CHAPTER20040026_EXPLANATION]
 Progression Level: 44
 Core Set: Return of the Duelist
 Ban List: 2012-09 Wind-Up Format 
 Opponent: Superdimensional Robot Galaxy Destroyer
 Unlocks: 
-[IDS_SOLO.CHAPTER540027_EXPLANATION]
+[IDS_SOLO.CHAPTER20040027_EXPLANATION]
 Progression Level: 44
 Core Set: Return of the Duelist
 Ban List: 2012-09 Wind-Up Format 
 Opponent: Madolche Puddingcess
 Unlocks: 
-[IDS_SOLO.CHAPTER540028_EXPLANATION]
+[IDS_SOLO.CHAPTER20040028_EXPLANATION]
 Progression Level: 44
 Core Set: Return of the Duelist
 Ban List: 2012-09 Wind-Up Format 
 Opponent: Poseidra, the Atlantean Dragoon
 Unlocks: 45-Core: Abyss Rising
-[IDS_SOLO.CHAPTER540029_EXPLANATION]
+[IDS_SOLO.CHAPTER20040029_EXPLANATION]
 Progression Level: 44
 Core Set: Return of the Duelist
 Ban List: 2012-09 Wind-Up Format 
 Opponent: Chronomaly Crystal Chrononaut
 Unlocks: 44-Structure Deck: Realm of the Sea Emperor
-[IDS_SOLO.CHAPTER540030_EXPLANATION]
+[IDS_SOLO.CHAPTER20040030_EXPLANATION]
 Progression Level: 44
 Core Set: Return of the Duelist
 Ban List: 2012-09 Wind-Up Format 
 Opponent: Thunder King Rai-Oh
 Unlocks: 
-[IDS_SOLO.CHAPTER540031_EXPLANATION]
+[IDS_SOLO.CHAPTER20040031_EXPLANATION]
 Progression Level: 45
 Core Set: Abyss Rising
 Ban List: 2013-03 Meadowlands Format 
 Opponent: Mermail Abyssmegalo
 Unlocks: 
-[IDS_SOLO.CHAPTER540032_EXPLANATION]
+[IDS_SOLO.CHAPTER20040032_EXPLANATION]
 Progression Level: 45
 Core Set: Abyss Rising
 Ban List: 2013-03 Meadowlands Format 
 Opponent: Snowdust Giant
 Unlocks: 
-[IDS_SOLO.CHAPTER540033_EXPLANATION]
+[IDS_SOLO.CHAPTER20040033_EXPLANATION]
 Progression Level: 45
 Core Set: Abyss Rising
 Ban List: 2013-03 Meadowlands Format 
 Opponent: Heroic Champion – Excalibur
 Unlocks: 
-[IDS_SOLO.CHAPTER540034_EXPLANATION]
+[IDS_SOLO.CHAPTER20040034_EXPLANATION]
 Progression Level: 45
 Core Set: Abyss Rising
 Ban List: 2013-03 Meadowlands Format 
 Opponent: Empress of Prophecy
 Unlocks: 46-Core: Cosmo Blazer
-[IDS_SOLO.CHAPTER540035_EXPLANATION]
+[IDS_SOLO.CHAPTER20040035_EXPLANATION]
 Progression Level: 45
 Core Set: Abyss Rising
 Ban List: 2013-03 Meadowlands Format 
 Opponent: Locomotion R-Genex
 Unlocks: 45-TP: Astral Pack One
-[IDS_SOLO.CHAPTER540036_EXPLANATION]
+[IDS_SOLO.CHAPTER20040036_EXPLANATION]
 Progression Level: 45
 Core Set: Abyss Rising
 Ban List: 2013-03 Meadowlands Format 
 Opponent: Mist Valley Thunder Lord
 Unlocks: 
-[IDS_SOLO.CHAPTER540037_EXPLANATION]
+[IDS_SOLO.CHAPTER20040037_EXPLANATION]
 Progression Level: 46
 Core Set: Cosmo Blazer
 Ban List: 2013-03 Meadowlands Format 
 Opponent: Fire King Avatar Barong
 Unlocks: 
-[IDS_SOLO.CHAPTER540038_EXPLANATION]
+[IDS_SOLO.CHAPTER20040038_EXPLANATION]
 Progression Level: 46
 Core Set: Cosmo Blazer
 Ban List: 2013-03 Meadowlands Format 
 Opponent: Number 39: Utopia
 Unlocks: 46-Bonus: Star Pack 2013
-[IDS_SOLO.CHAPTER540039_EXPLANATION]
+[IDS_SOLO.CHAPTER20040039_EXPLANATION]
 Progression Level: 46
 Core Set: Cosmo Blazer
 Ban List: 2013-03 Meadowlands Format 
 Opponent: D.D. Jet Iron
 Unlocks: 46-TP: Astral Pack Two
-[IDS_SOLO.CHAPTER540040_EXPLANATION]
+[IDS_SOLO.CHAPTER20040040_EXPLANATION]
 Progression Level: 46
 Core Set: Cosmo Blazer
 Ban List: 2013-03 Meadowlands Format 
 Opponent: Evilswarm Bahamut
 Unlocks: 47-Core: Lord of the Tachyon Galaxy
-[IDS_SOLO.CHAPTER540041_EXPLANATION]
+[IDS_SOLO.CHAPTER20040041_EXPLANATION]
 Progression Level: 46
 Core Set: Cosmo Blazer
 Ban List: 2013-03 Meadowlands Format 
 Opponent: Barbaroid, the Ultimate Battle Machine
 Unlocks: 46-Bonus: Hidden Arsenal 7: Knight of Stars
-[IDS_SOLO.CHAPTER540042_EXPLANATION]
+[IDS_SOLO.CHAPTER20040042_EXPLANATION]
 Progression Level: 46
 Core Set: Cosmo Blazer
 Ban List: 2013-03 Meadowlands Format 
 Opponent: Heraldic Beast Leo
 Unlocks: 46-Structure Deck: Onslaught of the Fire Kings
-[IDS_SOLO.CHAPTER540043_EXPLANATION]
+[IDS_SOLO.CHAPTER20040043_EXPLANATION]
 Progression Level: 47
 Core Set: Lord of the Tachyon Galaxy
 Ban List: 2013-09 Ravine Ruler Format
 Opponent: Harpie Queen
 Unlocks: 
-[IDS_SOLO.CHAPTER540044_EXPLANATION]
+[IDS_SOLO.CHAPTER20040044_EXPLANATION]
 Progression Level: 47
 Core Set: Lord of the Tachyon Galaxy
 Ban List: 2013-09 Ravine Ruler Format
 Opponent: Tidal, Dragon Ruler of Waterfall
 Unlocks: 
-[IDS_SOLO.CHAPTER540045_EXPLANATION]
+[IDS_SOLO.CHAPTER20040045_EXPLANATION]
 Progression Level: 47
 Core Set: Lord of the Tachyon Galaxy
 Ban List: 2013-09 Ravine Ruler Format
 Opponent: Artorigus, King of the Noble Knights
 Unlocks: 
-[IDS_SOLO.CHAPTER540046_EXPLANATION]
+[IDS_SOLO.CHAPTER20040046_EXPLANATION]
 Progression Level: 47
 Core Set: Lord of the Tachyon Galaxy
 Ban List: 2013-09 Ravine Ruler Format
 Opponent: Constellar Pleiades
 Unlocks: 48-Core: Judgment of the Light
-[IDS_SOLO.CHAPTER540047_EXPLANATION]
+[IDS_SOLO.CHAPTER20040047_EXPLANATION]
 Progression Level: 47
 Core Set: Lord of the Tachyon Galaxy
 Ban List: 2013-09 Ravine Ruler Format
 Opponent: Brotherhood of the Fire Fist – Tiger King
 Unlocks: 47-Bonus: Number Hunters
-[IDS_SOLO.CHAPTER540048_EXPLANATION]
+[IDS_SOLO.CHAPTER20040048_EXPLANATION]
 Progression Level: 47
 Core Set: Lord of the Tachyon Galaxy
 Ban List: 2013-09 Ravine Ruler Format
 Opponent: Jurrac Meteor
 Unlocks: 47-Bonus: Battle Pack 2: War of the Giants
-[IDS_SOLO.CHAPTER540049_EXPLANATION]
+[IDS_SOLO.CHAPTER20040049_EXPLANATION]
 Progression Level: 48
 Core Set: Judgment of the Light
 Ban List: 2013-09 Ravine Ruler Format
 Opponent: Mecha Phantom Beast Dracossack
 Unlocks: 
-[IDS_SOLO.CHAPTER540050_EXPLANATION]
+[IDS_SOLO.CHAPTER20040050_EXPLANATION]
 Progression Level: 48
 Core Set: Judgment of the Light
 Ban List: 2013-09 Ravine Ruler Format
 Opponent: Gimmick Puppet Egg Head
 Unlocks: 
-[IDS_SOLO.CHAPTER540051_EXPLANATION]
+[IDS_SOLO.CHAPTER20040051_EXPLANATION]
 Progression Level: 48
 Core Set: Judgment of the Light
 Ban List: 2013-09 Ravine Ruler Format
 Opponent: Gogogo Gigant
 Unlocks: 48-TP: Astral Pack Three
-[IDS_SOLO.CHAPTER540052_EXPLANATION]
+[IDS_SOLO.CHAPTER20040052_EXPLANATION]
 Progression Level: 48
 Core Set: Judgment of the Light
 Ban List: 2013-09 Ravine Ruler Format
 Opponent: Archfiend Emperor, the First Lord of Horror
 Unlocks: 49-Core: Shadow Specters
-[IDS_SOLO.CHAPTER540053_EXPLANATION]
+[IDS_SOLO.CHAPTER20040053_EXPLANATION]
 Progression Level: 48
 Core Set: Judgment of the Light
 Ban List: 2013-09 Ravine Ruler Format
 Opponent: Maiden with Eyes of Blue
 Unlocks: 48-Structure Deck: Saga of Blue-Eyes White Dragon
-[IDS_SOLO.CHAPTER540054_EXPLANATION]
+[IDS_SOLO.CHAPTER20040054_EXPLANATION]
 Progression Level: 48
 Core Set: Judgment of the Light
 Ban List: 2013-09 Ravine Ruler Format
 Opponent: Hazy Flame Mantikor
 Unlocks: 48-Collectible Tins: 2013
-[IDS_SOLO.CHAPTER540055_EXPLANATION]
+[IDS_SOLO.CHAPTER20040055_EXPLANATION]
 Progression Level: 49
 Core Set: Shadow Specters
 Ban List: 2014-01 Fire-Water Format 
 Opponent: Battlin’ Boxer Cheat Commissioner
 Unlocks: 
-[IDS_SOLO.CHAPTER540056_EXPLANATION]
+[IDS_SOLO.CHAPTER20040056_EXPLANATION]
 Progression Level: 49
 Core Set: Shadow Specters
 Ban List: 2014-01 Fire-Water Format 
 Opponent: Ghostrick Alucard
 Unlocks: 49-Starter Deck: Kaiba Reloaded
-[IDS_SOLO.CHAPTER540057_EXPLANATION]
+[IDS_SOLO.CHAPTER20040057_EXPLANATION]
 Progression Level: 49
 Core Set: Shadow Specters
 Ban List: 2014-01 Fire-Water Format 
 Opponent: Malicevorous Knife
 Unlocks: 49-Starter Deck: Yugi Reloaded
-[IDS_SOLO.CHAPTER540058_EXPLANATION]
+[IDS_SOLO.CHAPTER20040058_EXPLANATION]
 Progression Level: 49
 Core Set: Shadow Specters
 Ban List: 2014-01 Fire-Water Format 
 Opponent: Bujintei Kagutsuchi
 Unlocks: 50-Core: Legacy of the Valiant
-[IDS_SOLO.CHAPTER540059_EXPLANATION]
+[IDS_SOLO.CHAPTER20040059_EXPLANATION]
 Progression Level: 49
 Core Set: Shadow Specters
 Ban List: 2014-01 Fire-Water Format 
 Opponent: Vampire Grace
 Unlocks: 49-Bonus: War of the Giants Reinforcements
-[IDS_SOLO.CHAPTER540060_EXPLANATION]
+[IDS_SOLO.CHAPTER20040060_EXPLANATION]
 Progression Level: 49
 Core Set: Shadow Specters
 Ban List: 2014-01 Fire-Water Format 
 Opponent: Meliae of the Trees
 Unlocks: 49-Bonus: War of the Giants: Round 2
-[IDS_SOLO.CHAPTER540061_EXPLANATION]
+[IDS_SOLO.CHAPTER20040061_EXPLANATION]
 Progression Level: 50
 Core Set: Legacy of the Valiant
 Ban List: 2014-04 HAT Format 
 Opponent: Sylvan Hermitree
 Unlocks: 
-[IDS_SOLO.CHAPTER540062_EXPLANATION]
+[IDS_SOLO.CHAPTER20040062_EXPLANATION]
 Progression Level: 50
 Core Set: Legacy of the Valiant
 Ban List: 2014-04 HAT Format 
 Opponent: Amulet Dragon
 Unlocks: 50-Bonus: Star Pack 2014
-[IDS_SOLO.CHAPTER540063_EXPLANATION]
+[IDS_SOLO.CHAPTER20040063_EXPLANATION]
 Progression Level: 50
 Core Set: Legacy of the Valiant
 Ban List: 2014-04 HAT Format 
 Opponent: Gorgonic Guardian
 Unlocks: 50-TP: Astral Pack Four
-[IDS_SOLO.CHAPTER540064_EXPLANATION]
+[IDS_SOLO.CHAPTER20040064_EXPLANATION]
 Progression Level: 50
 Core Set: Legacy of the Valiant
 Ban List: 2014-04 HAT Format 
 Opponent: Baby Raccoon Ponpoko
 Unlocks: 51-Core: Primal Origin
-[IDS_SOLO.CHAPTER540065_EXPLANATION]
+[IDS_SOLO.CHAPTER20040065_EXPLANATION]
 Progression Level: 50
 Core Set: Legacy of the Valiant
 Ban List: 2014-04 HAT Format 
 Opponent: Cyber Dragon Nova
 Unlocks: 50-Structure Deck: Cyber Dragon Revolution
-[IDS_SOLO.CHAPTER540066_EXPLANATION]
+[IDS_SOLO.CHAPTER20040066_EXPLANATION]
 Progression Level: 50
 Core Set: Legacy of the Valiant
 Ban List: 2014-04 HAT Format 
 Opponent: Paladin of Photon Dragon
 Unlocks: 50-Bonus: Dragons of Legend
-[IDS_SOLO.CHAPTER540067_EXPLANATION]
+[IDS_SOLO.CHAPTER20040067_EXPLANATION]
 Progression Level: 51
 Core Set: Primal Origin
 Ban List: 2014-07 Shaddoll Format 
 Opponent: Traptrix Atrax
 Unlocks: 
-[IDS_SOLO.CHAPTER540068_EXPLANATION]
+[IDS_SOLO.CHAPTER20040068_EXPLANATION]
 Progression Level: 51
 Core Set: Primal Origin
 Ban List: 2014-07 Shaddoll Format 
 Opponent: Starduston
 Unlocks: 51-TP: Astral Pack Five
-[IDS_SOLO.CHAPTER540069_EXPLANATION]
+[IDS_SOLO.CHAPTER20040069_EXPLANATION]
 Progression Level: 51
 Core Set: Primal Origin
 Ban List: 2014-07 Shaddoll Format 
 Opponent: Artifact Durendal
 Unlocks: 51-Bonus: Battle Pack 3: Monster League
-[IDS_SOLO.CHAPTER540070_EXPLANATION]
+[IDS_SOLO.CHAPTER20040070_EXPLANATION]
 Progression Level: 51
 Core Set: Primal Origin
 Ban List: 2014-07 Shaddoll Format 
 Opponent: Timegazer Magician
 Unlocks: 52-Core: Duelist Alliance
-[IDS_SOLO.CHAPTER540071_EXPLANATION]
+[IDS_SOLO.CHAPTER20040071_EXPLANATION]
 Progression Level: 51
 Core Set: Primal Origin
 Ban List: 2014-07 Shaddoll Format 
 Opponent: Caius the Shadow Monarch
 Unlocks: 51-Starter Deck: Space-Time Showdown
-[IDS_SOLO.CHAPTER540072_EXPLANATION]
+[IDS_SOLO.CHAPTER20040072_EXPLANATION]
 Progression Level: 51
 Core Set: Primal Origin
 Ban List: 2014-07 Shaddoll Format 
 Opponent: Michael, the Arch-Lightsworn
 Unlocks: 51-Structure Deck: Realm of Light
-[IDS_SOLO.CHAPTER550001_EXPLANATION]
+[IDS_SOLO.CHAPTER20050001_EXPLANATION]
 Progression Level: 52
 Core Set: Duelist Alliance
 Ban List: 2014-10 Burning Abyss Format
 Opponent: Performapal Hip Hippo
 Unlocks: 
-[IDS_SOLO.CHAPTER550002_EXPLANATION]
+[IDS_SOLO.CHAPTER20050002_EXPLANATION]
 Progression Level: 52
 Core Set: Duelist Alliance
 Ban List: 2014-10 Burning Abyss Format
 Opponent: Dante, Traveler of the Burning Abyss
 Unlocks: 
-[IDS_SOLO.CHAPTER550003_EXPLANATION]
+[IDS_SOLO.CHAPTER20050003_EXPLANATION]
 Progression Level: 52
 Core Set: Duelist Alliance
 Ban List: 2014-10 Burning Abyss Format
 Opponent: Baxia, Brightness of the Yang Zing
 Unlocks: 
-[IDS_SOLO.CHAPTER550004_EXPLANATION]
+[IDS_SOLO.CHAPTER20050004_EXPLANATION]
 Progression Level: 52
 Core Set: Duelist Alliance
 Ban List: 2014-10 Burning Abyss Format
 Opponent: El Shaddoll Construct
 Unlocks: 53-Core: The New Challengers
-[IDS_SOLO.CHAPTER550005_EXPLANATION]
+[IDS_SOLO.CHAPTER20050005_EXPLANATION]
 Progression Level: 52
 Core Set: Duelist Alliance
 Ban List: 2014-10 Burning Abyss Format
 Opponent: Stellarknight Delteros
 Unlocks: 
-[IDS_SOLO.CHAPTER550006_EXPLANATION]
+[IDS_SOLO.CHAPTER20050006_EXPLANATION]
 Progression Level: 52
 Core Set: Duelist Alliance
 Ban List: 2014-10 Burning Abyss Format
 Opponent: Geargiegear Gigant XG
 Unlocks: 52-Structure Deck: Geargia Rampage
-[IDS_SOLO.CHAPTER550007_EXPLANATION]
+[IDS_SOLO.CHAPTER20050007_EXPLANATION]
 Progression Level: 53
 Core Set: The New Challengers
 Ban List: 2015_01 Charleston Format 
 Opponent: Superheavy Samurai Big Benkei
 Unlocks: 
-[IDS_SOLO.CHAPTER550008_EXPLANATION]
+[IDS_SOLO.CHAPTER20050008_EXPLANATION]
 Progression Level: 53
 Core Set: The New Challengers
 Ban List: 2015_01 Charleston Format 
 Opponent: Shopina the Melodious Maestra
 Unlocks: 
-[IDS_SOLO.CHAPTER550009_EXPLANATION]
+[IDS_SOLO.CHAPTER20050009_EXPLANATION]
 Progression Level: 53
 Core Set: The New Challengers
 Ban List: 2015_01 Charleston Format 
 Opponent: Qliphort Disk
 Unlocks: 
-[IDS_SOLO.CHAPTER550010_EXPLANATION]
+[IDS_SOLO.CHAPTER20050010_EXPLANATION]
 Progression Level: 53
 Core Set: The New Challengers
 Ban List: 2015_01 Charleston Format 
 Opponent: Frightfur Bear
 Unlocks: 54-Core: Secrets of Eternity
-[IDS_SOLO.CHAPTER550011_EXPLANATION]
+[IDS_SOLO.CHAPTER20050011_EXPLANATION]
 Progression Level: 53
 Core Set: The New Challengers
 Ban List: 2015_01 Charleston Format 
 Opponent: First of the Dragons
 Unlocks: 53-TP: Astral Pack Six
-[IDS_SOLO.CHAPTER550012_EXPLANATION]
+[IDS_SOLO.CHAPTER20050012_EXPLANATION]
 Progression Level: 53
 Core Set: The New Challengers
 Ban List: 2015_01 Charleston Format 
 Opponent: Herald of the Arc Light
 Unlocks: 
-[IDS_SOLO.CHAPTER550013_EXPLANATION]
+[IDS_SOLO.CHAPTER20050013_EXPLANATION]
 Progression Level: 54
 Core Set: Secrets of Eternity
 Ban List: 2015-04 Nekroz Format 
 Opponent: Dododo Swordsman
 Unlocks: 
-[IDS_SOLO.CHAPTER550014_EXPLANATION]
+[IDS_SOLO.CHAPTER20050014_EXPLANATION]
 Progression Level: 54
 Core Set: Secrets of Eternity
 Ban List: 2015-04 Nekroz Format 
 Opponent: Thunderclap Skywolf
 Unlocks: 
-[IDS_SOLO.CHAPTER550015_EXPLANATION]
+[IDS_SOLO.CHAPTER20050015_EXPLANATION]
 Progression Level: 54
 Core Set: Secrets of Eternity
 Ban List: 2015-04 Nekroz Format 
 Opponent: Ritual Beast Ulti-Peeltphin
 Unlocks: 54-Bonus: World Superstars
-[IDS_SOLO.CHAPTER550016_EXPLANATION]
+[IDS_SOLO.CHAPTER20050016_EXPLANATION]
 Progression Level: 54
 Core Set: Secrets of Eternity
 Ban List: 2015-04 Nekroz Format 
 Opponent: Nekroz of Trishula
 Unlocks: 55-Core: Crossed Souls
-[IDS_SOLO.CHAPTER550017_EXPLANATION]
+[IDS_SOLO.CHAPTER20050017_EXPLANATION]
 Progression Level: 54
 Core Set: Secrets of Eternity
 Ban List: 2015-04 Nekroz Format 
 Opponent: Star Seraph Scale
 Unlocks: 54-Bonus: The Secret Forces
-[IDS_SOLO.CHAPTER550018_EXPLANATION]
+[IDS_SOLO.CHAPTER20050018_EXPLANATION]
 Progression Level: 54
 Core Set: Secrets of Eternity
 Ban List: 2015-04 Nekroz Format 
 Opponent: Contrast HERO Chaos
 Unlocks: 54-Structure Deck: HERO Strike
-[IDS_SOLO.CHAPTER550019_EXPLANATION]
+[IDS_SOLO.CHAPTER20050019_EXPLANATION]
 Progression Level: 55
 Core Set: Crossed Souls
 Ban List: 2015-07 Clown Format 
 Opponent: Aquaactress Arowana
 Unlocks: 55-Bonus: Star Pack ARC-V, 55-TP: Astral Pack Seven
-[IDS_SOLO.CHAPTER550020_EXPLANATION]
+[IDS_SOLO.CHAPTER20050020_EXPLANATION]
 Progression Level: 55
 Core Set: Crossed Souls
 Ban List: 2015-07 Clown Format 
 Opponent: Mimicat
 Unlocks: 55-Starter Deck: Dark Legion
-[IDS_SOLO.CHAPTER550021_EXPLANATION]
+[IDS_SOLO.CHAPTER20050021_EXPLANATION]
 Progression Level: 55
 Core Set: Crossed Souls
 Ban List: 2015-07 Clown Format 
 Opponent: U.A. Dreadnought Dunker
 Unlocks: 55-Starter Deck: Saber Force
-[IDS_SOLO.CHAPTER550022_EXPLANATION]
+[IDS_SOLO.CHAPTER20050022_EXPLANATION]
 Progression Level: 55
 Core Set: Crossed Souls
 Ban List: 2015-07 Clown Format 
 Opponent: Zefraxa, Flame Beast of the Nekroz
 Unlocks: 56-Core: Clash of Rebellions
-[IDS_SOLO.CHAPTER550023_EXPLANATION]
+[IDS_SOLO.CHAPTER20050023_EXPLANATION]
 Progression Level: 55
 Core Set: Crossed Souls
 Ban List: 2015-07 Clown Format 
 Opponent: Timaeus the Knight of Destiny
 Unlocks: 55-Bonus: Dragons of Legend 2
-[IDS_SOLO.CHAPTER550024_EXPLANATION]
+[IDS_SOLO.CHAPTER20050024_EXPLANATION]
 Progression Level: 55
 Core Set: Crossed Souls
 Ban List: 2015-07 Clown Format 
 Opponent: Prediction Princess Tarotrei
 Unlocks: 55-Duelist Pack: Battle City
-[IDS_SOLO.CHAPTER550025_EXPLANATION]
+[IDS_SOLO.CHAPTER20050025_EXPLANATION]
 Progression Level: 56
 Core Set: Clash of Rebellions
 Ban List: 2015-11 PePe Format 
 Opponent: PSY-Framelord Zeta
 Unlocks: 
-[IDS_SOLO.CHAPTER550026_EXPLANATION]
+[IDS_SOLO.CHAPTER20050026_EXPLANATION]
 Progression Level: 56
 Core Set: Clash of Rebellions
 Ban List: 2015-11 PePe Format 
 Opponent: Yosenju Misak
 Unlocks: 
-[IDS_SOLO.CHAPTER550027_EXPLANATION]
+[IDS_SOLO.CHAPTER20050027_EXPLANATION]
 Progression Level: 56
 Core Set: Clash of Rebellions
 Ban List: 2015-11 PePe Format 
 Opponent: Force Resonator
 Unlocks: 56-TP: Astral Pack Eight
-[IDS_SOLO.CHAPTER550028_EXPLANATION]
+[IDS_SOLO.CHAPTER20050028_EXPLANATION]
 Progression Level: 56
 Core Set: Clash of Rebellions
 Ban List: 2015-11 PePe Format 
 Opponent: Archfiend Black Skull Dragon
 Unlocks: 57-Core: Dimension of Chaos
-[IDS_SOLO.CHAPTER550029_EXPLANATION]
+[IDS_SOLO.CHAPTER20050029_EXPLANATION]
 Progression Level: 56
 Core Set: Clash of Rebellions
 Ban List: 2015-11 PePe Format 
 Opponent: Hi-Speedroid Kendama
 Unlocks: 56-Bonus: High-Speed Riders
-[IDS_SOLO.CHAPTER550030_EXPLANATION]
+[IDS_SOLO.CHAPTER20050030_EXPLANATION]
 Progression Level: 56
 Core Set: Clash of Rebellions
 Ban List: 2015-11 PePe Format 
 Opponent: Quickdraw Synchron
 Unlocks: 56-Structure Deck: Synchron Extreme
-[IDS_SOLO.CHAPTER550031_EXPLANATION]
+[IDS_SOLO.CHAPTER20050031_EXPLANATION]
 Progression Level: 57
 Core Set: Dimension of Chaos
 Ban List: 2016-04 DracoPal Format 
 Opponent: Raidraptor – Blaze Falcon
 Unlocks: 
-[IDS_SOLO.CHAPTER550032_EXPLANATION]
+[IDS_SOLO.CHAPTER20050032_EXPLANATION]
 Progression Level: 57
 Core Set: Dimension of Chaos
 Ban List: 2016-04 DracoPal Format 
 Opponent: Performage Flame Eater
 Unlocks: 
-[IDS_SOLO.CHAPTER550033_EXPLANATION]
+[IDS_SOLO.CHAPTER20050033_EXPLANATION]
 Progression Level: 57
 Core Set: Dimension of Chaos
 Ban List: 2016-04 DracoPal Format 
 Opponent: Igknight Margrave
 Unlocks: 
-[IDS_SOLO.CHAPTER550034_EXPLANATION]
+[IDS_SOLO.CHAPTER20050034_EXPLANATION]
 Progression Level: 57
 Core Set: Dimension of Chaos
 Ban List: 2016-04 DracoPal Format 
 Opponent: Wisdom-Eye Magician
 Unlocks: 58-Core: Breakers of Shadow
-[IDS_SOLO.CHAPTER550035_EXPLANATION]
+[IDS_SOLO.CHAPTER20050035_EXPLANATION]
 Progression Level: 57
 Core Set: Dimension of Chaos
 Ban List: 2016-04 DracoPal Format 
 Opponent: Black Luster Soldier – Super Soldier
 Unlocks: 57-Structure Deck: Master of Pendulum
-[IDS_SOLO.CHAPTER550036_EXPLANATION]
+[IDS_SOLO.CHAPTER20050036_EXPLANATION]
 Progression Level: 57
 Core Set: Dimension of Chaos
 Ban List: 2016-04 DracoPal Format 
 Opponent: D/D/D Oracle King d’Arc
 Unlocks: 
-[IDS_SOLO.CHAPTER550037_EXPLANATION]
+[IDS_SOLO.CHAPTER20050037_EXPLANATION]
 Progression Level: 58
 Core Set: Breakers of Shadow
 Ban List: 2016-04 DracoPal Format 
 Opponent: Kozmo Forerunner
 Unlocks: 
-[IDS_SOLO.CHAPTER550038_EXPLANATION]
+[IDS_SOLO.CHAPTER20050038_EXPLANATION]
 Progression Level: 58
 Core Set: Breakers of Shadow
 Ban List: 2016-04 DracoPal Format 
 Opponent: Graydle Slime
 Unlocks: 58-TP: OTS Tournament Pack 1
-[IDS_SOLO.CHAPTER550039_EXPLANATION]
+[IDS_SOLO.CHAPTER20050039_EXPLANATION]
 Progression Level: 58
 Core Set: Breakers of Shadow
 Ban List: 2016-04 DracoPal Format 
 Opponent: Deskbot 006
 Unlocks: 58-Bonus: Millennium Pack
-[IDS_SOLO.CHAPTER550040_EXPLANATION]
+[IDS_SOLO.CHAPTER20050040_EXPLANATION]
 Progression Level: 58
 Core Set: Breakers of Shadow
 Ban List: 2016-04 DracoPal Format 
 Opponent: Majespecter Raccoon – Bunbuku
 Unlocks: 59-Core: Shining Victories
-[IDS_SOLO.CHAPTER550041_EXPLANATION]
+[IDS_SOLO.CHAPTER20050041_EXPLANATION]
 Progression Level: 58
 Core Set: Breakers of Shadow
 Ban List: 2016-04 DracoPal Format 
 Opponent: Ra’s Disciple
 Unlocks: 58-Bonus: Wing Raiders
-[IDS_SOLO.CHAPTER550042_EXPLANATION]
+[IDS_SOLO.CHAPTER20050042_EXPLANATION]
 Progression Level: 58
 Core Set: Breakers of Shadow
 Ban List: 2016-04 DracoPal Format 
 Opponent: Goyo Emperor
 Unlocks: 58-Structure Deck: Emperor of Darkness
-[IDS_SOLO.CHAPTER550043_EXPLANATION]
+[IDS_SOLO.CHAPTER20050043_EXPLANATION]
 Progression Level: 59
 Core Set: Shining Victories
 Ban List: 2016-08 ABC Format 
 Opponent: Gadarla, the Mystery Dust Kaiju
 Unlocks: 
-[IDS_SOLO.CHAPTER550044_EXPLANATION]
+[IDS_SOLO.CHAPTER20050044_EXPLANATION]
 Progression Level: 59
 Core Set: Shining Victories
 Ban List: 2016-08 ABC Format 
 Opponent: Dinoster Power, the Mighty Dracoslayer
 Unlocks: 59-Starter Deck: Yuya
-[IDS_SOLO.CHAPTER550045_EXPLANATION]
+[IDS_SOLO.CHAPTER20050045_EXPLANATION]
 Progression Level: 59
 Core Set: Shining Victories
 Ban List: 2016-08 ABC Format 
 Opponent: The Phantom Knights of Break Sword
 Unlocks: 59-TP: OTS Tournament Pack 2
-[IDS_SOLO.CHAPTER550046_EXPLANATION]
+[IDS_SOLO.CHAPTER20050046_EXPLANATION]
 Progression Level: 59
 Core Set: Shining Victories
 Ban List: 2016-08 ABC Format 
 Opponent: Enther the Heavenly Monarch
 Unlocks: 60-Core: The Dark Illusion
-[IDS_SOLO.CHAPTER550047_EXPLANATION]
+[IDS_SOLO.CHAPTER20050047_EXPLANATION]
 Progression Level: 59
 Core Set: Shining Victories
 Ban List: 2016-08 ABC Format 
 Opponent: Azure-Eyes Silver Dragon
 Unlocks: 59-Structure Deck: Rise of the True Dragons
-[IDS_SOLO.CHAPTER550048_EXPLANATION]
+[IDS_SOLO.CHAPTER20050048_EXPLANATION]
 Progression Level: 59
 Core Set: Shining Victories
 Ban List: 2016-08 ABC Format 
 Opponent: Gold Gadget
 Unlocks: 59-Promo: Dark Side of Dimensions Movie
-[IDS_SOLO.CHAPTER550049_EXPLANATION]
+[IDS_SOLO.CHAPTER20050049_EXPLANATION]
 Progression Level: 60
 Core Set: The Dark Illusion
 Ban List: 2017-03 Grass Zoo Format
 Opponent: Buster Blader, the Dragon Destroyer Swordsman
 Unlocks: 
-[IDS_SOLO.CHAPTER550050_EXPLANATION]
+[IDS_SOLO.CHAPTER20050050_EXPLANATION]
 Progression Level: 60
 Core Set: The Dark Illusion
 Ban List: 2017-03 Grass Zoo Format
 Opponent: Kiwi Magician Girl
 Unlocks: 60-Duelist Pack: Rivals of the Pharaoh
-[IDS_SOLO.CHAPTER550051_EXPLANATION]
+[IDS_SOLO.CHAPTER20050051_EXPLANATION]
 Progression Level: 60
 Core Set: The Dark Illusion
 Ban List: 2017-03 Grass Zoo Format
 Opponent: Super Quantal Fairy Alphan
 Unlocks: 60-Bonus: Dragons of Legend: Unleashed
-[IDS_SOLO.CHAPTER550052_EXPLANATION]
+[IDS_SOLO.CHAPTER20050052_EXPLANATION]
 Progression Level: 60
 Core Set: The Dark Illusion
 Ban List: 2017-03 Grass Zoo Format
 Opponent: Shiranui Shogunsaga
 Unlocks: 61-Core: Invasion: Vengeance
-[IDS_SOLO.CHAPTER550053_EXPLANATION]
+[IDS_SOLO.CHAPTER20050053_EXPLANATION]
 Progression Level: 60
 Core Set: The Dark Illusion
 Ban List: 2017-03 Grass Zoo Format
 Opponent: Dinomist Plesios
 Unlocks: 60-Structure Deck: Yugi Muto
-[IDS_SOLO.CHAPTER550054_EXPLANATION]
+[IDS_SOLO.CHAPTER20050054_EXPLANATION]
 Progression Level: 60
 Core Set: The Dark Illusion
 Ban List: 2017-03 Grass Zoo Format
 Opponent: Dark Garnex the Cubic Beast
 Unlocks: 60-Structure Deck: Seto Kaiba
-[IDS_SOLO.CHAPTER550055_EXPLANATION]
+[IDS_SOLO.CHAPTER20050055_EXPLANATION]
 Progression Level: 61
 Core Set: Invasion: Vengeance
 Ban List: 2017-03 Grass Zoo Format
 Opponent: Lunalight Cat Dancer
 Unlocks: 
-[IDS_SOLO.CHAPTER550056_EXPLANATION]
+[IDS_SOLO.CHAPTER20050056_EXPLANATION]
 Progression Level: 61
 Core Set: Invasion: Vengeance
 Ban List: 2017-03 Grass Zoo Format
 Opponent: Amorphage Sloth
 Unlocks: 61-TP: OTS Tournament Pack 3
-[IDS_SOLO.CHAPTER550057_EXPLANATION]
+[IDS_SOLO.CHAPTER20050057_EXPLANATION]
 Progression Level: 61
 Core Set: Invasion: Vengeance
 Ban List: 2017-03 Grass Zoo Format
 Opponent: A-to-Y Dragon Buster Cannon
 Unlocks: 
-[IDS_SOLO.CHAPTER550058_EXPLANATION]
+[IDS_SOLO.CHAPTER20050058_EXPLANATION]
 Progression Level: 61
 Core Set: Invasion: Vengeance
 Ban List: 2017-03 Grass Zoo Format
 Opponent: Aromaseraphy Rosemary
 Unlocks: 62-Core: Raging Tempest
-[IDS_SOLO.CHAPTER550059_EXPLANATION]
+[IDS_SOLO.CHAPTER20050059_EXPLANATION]
 Progression Level: 61
 Core Set: Invasion: Vengeance
 Ban List: 2017-03 Grass Zoo Format
 Opponent: Silent Paladin
 Unlocks: 61-Bonus: Destiny Soldiers
-[IDS_SOLO.CHAPTER550060_EXPLANATION]
+[IDS_SOLO.CHAPTER20050060_EXPLANATION]
 Progression Level: 61
 Core Set: Invasion: Vengeance
 Ban List: 2017-03 Grass Zoo Format
 Opponent: Divine Dragon Knight Felgrand
 Unlocks: 61-Structure Deck: Pendulum Domination
-[IDS_SOLO.CHAPTER550061_EXPLANATION]
+[IDS_SOLO.CHAPTER20050061_EXPLANATION]
 Progression Level: 62
 Core Set: Raging Tempest
 Ban List: 2017-03 Grass Zoo Format
 Opponent: SPYRAL Quik-Fix
 Unlocks: 62-TP: OTS Tournament Pack 4
-[IDS_SOLO.CHAPTER550062_EXPLANATION]
+[IDS_SOLO.CHAPTER20050062_EXPLANATION]
 Progression Level: 62
 Core Set: Raging Tempest
 Ban List: 2017-03 Grass Zoo Format
 Opponent: Subterror Behemoth Ultramafus
 Unlocks: 62-Bonus: Star Pack Battle Royal
-[IDS_SOLO.CHAPTER550063_EXPLANATION]
+[IDS_SOLO.CHAPTER20050063_EXPLANATION]
 Progression Level: 62
 Core Set: Raging Tempest
 Ban List: 2017-03 Grass Zoo Format
 Opponent: Metalfoes Adamante
 Unlocks: 62-Bonus: Fusion Enforcers
-[IDS_SOLO.CHAPTER550064_EXPLANATION]
+[IDS_SOLO.CHAPTER20050064_EXPLANATION]
 Progression Level: 62
 Core Set: Raging Tempest
 Ban List: 2017-03 Grass Zoo Format
 Opponent: Cyber Angel Vrash
 Unlocks: 63-Core: Maximum Crisis
-[IDS_SOLO.CHAPTER550065_EXPLANATION]
+[IDS_SOLO.CHAPTER20050065_EXPLANATION]
 Progression Level: 62
 Core Set: Raging Tempest
 Ban List: 2017-03 Grass Zoo Format
 Opponent: Heavy Freight Train Derricrane
 Unlocks: 62-Structure Deck: Machine Reactor
-[IDS_SOLO.CHAPTER550066_EXPLANATION]
+[IDS_SOLO.CHAPTER20050066_EXPLANATION]
 Progression Level: 62
 Core Set: Raging Tempest
 Ban List: 2017-03 Grass Zoo Format
 Opponent: Triamid Sphinx
 Unlocks: 62-Structure Deck: Dinosmasher's Fury
-[IDS_SOLO.CHAPTER550067_EXPLANATION]
+[IDS_SOLO.CHAPTER20050067_EXPLANATION]
 Progression Level: 63
 Core Set: Maximum Crisis
 Ban List: 2017_06 Draco Zoo Format
 Opponent: Supreme King Z-ARC
 Unlocks: 
-[IDS_SOLO.CHAPTER550068_EXPLANATION]
+[IDS_SOLO.CHAPTER20050068_EXPLANATION]
 Progression Level: 63
 Core Set: Maximum Crisis
 Ban List: 2017_06 Draco Zoo Format
 Opponent: Flower Cardian Lightflare
 Unlocks: 63-Duelist Pack: Dimensional Guardians
-[IDS_SOLO.CHAPTER550069_EXPLANATION]
+[IDS_SOLO.CHAPTER20050069_EXPLANATION]
 Progression Level: 63
 Core Set: Maximum Crisis
 Ban List: 2017_06 Draco Zoo Format
 Opponent: Chemicritter Hydron Hawk
 Unlocks: 63-Bonus: Battles of Legend: Light's Revenge
-[IDS_SOLO.CHAPTER550070_EXPLANATION]
+[IDS_SOLO.CHAPTER20050070_EXPLANATION]
 Progression Level: 63
 Core Set: Maximum Crisis
 Ban List: 2017_06 Draco Zoo Format
 Opponent: Crystron Phoenix
 Unlocks: 64-Core: Code of the Duelist
-[IDS_SOLO.CHAPTER550071_EXPLANATION]
+[IDS_SOLO.CHAPTER20050071_EXPLANATION]
 Progression Level: 63
 Core Set: Maximum Crisis
 Ban List: 2017_06 Draco Zoo Format
 Opponent: Abyss Actor – Evil Heel
 Unlocks: 63-Bonus: Pendulum Evolution
-[IDS_SOLO.CHAPTER550072_EXPLANATION]
+[IDS_SOLO.CHAPTER20050072_EXPLANATION]
 Progression Level: 63
 Core Set: Maximum Crisis
 Ban List: 2017_06 Draco Zoo Format
 Opponent: Paleozoic Anomalocaris
 Unlocks: 63-Starter Deck: Link Strike
-[IDS_SOLO.CHAPTER560001_EXPLANATION]
+[IDS_SOLO.CHAPTER20060001_EXPLANATION]
 Progression Level: 64
 Core Set: Code of the Duelist
 Ban List: 2017-09 Draco Zoo Format
 Opponent: Predaplant Chimerafflesia
 Unlocks: 
-[IDS_SOLO.CHAPTER560002_EXPLANATION]
+[IDS_SOLO.CHAPTER20060002_EXPLANATION]
 Progression Level: 64
 Core Set: Code of the Duelist
 Ban List: 2017-09 Draco Zoo Format
 Opponent: Berserkion the Electromagna Warrior
 Unlocks: 
-[IDS_SOLO.CHAPTER560003_EXPLANATION]
+[IDS_SOLO.CHAPTER20060003_EXPLANATION]
 Progression Level: 64
 Core Set: Code of the Duelist
 Ban List: 2017-09 Draco Zoo Format
 Opponent: Citadel Whale
 Unlocks: 
-[IDS_SOLO.CHAPTER560004_EXPLANATION]
+[IDS_SOLO.CHAPTER20060004_EXPLANATION]
 Progression Level: 64
 Core Set: Code of the Duelist
 Ban List: 2017-09 Draco Zoo Format
 Opponent: Invoked Raidjin
 Unlocks: 65-Core: Circuit Break
-[IDS_SOLO.CHAPTER560005_EXPLANATION]
+[IDS_SOLO.CHAPTER20060005_EXPLANATION]
 Progression Level: 64
 Core Set: Code of the Duelist
 Ban List: 2017-09 Draco Zoo Format
 Opponent: Darklord Ixchel
 Unlocks: 64-TP: OTS Tournament Pack 5
-[IDS_SOLO.CHAPTER560006_EXPLANATION]
+[IDS_SOLO.CHAPTER20060006_EXPLANATION]
 Progression Level: 64
 Core Set: Code of the Duelist
 Ban List: 2017-09 Draco Zoo Format
 Opponent: Windwitch – Ice Bell
 Unlocks: 64-Bonus: Legendary Duelists
-[IDS_SOLO.CHAPTER560007_EXPLANATION]
+[IDS_SOLO.CHAPTER20060007_EXPLANATION]
 Progression Level: 65
 Core Set: Circuit Break
 Ban List: 2018-02 SPYRAL Format 
 Opponent: True King of All Calamaties
 Unlocks: 
-[IDS_SOLO.CHAPTER560008_EXPLANATION]
+[IDS_SOLO.CHAPTER20060008_EXPLANATION]
 Progression Level: 65
 Core Set: Circuit Break
 Ban List: 2018-02 SPYRAL Format 
 Opponent: Shinobird Crow
 Unlocks: 65-TP: OTS Tournament Pack 6
-[IDS_SOLO.CHAPTER560009_EXPLANATION]
+[IDS_SOLO.CHAPTER20060009_EXPLANATION]
 Progression Level: 65
 Core Set: Circuit Break
 Ban List: 2018-02 SPYRAL Format 
 Opponent: Cyberdarkness Dragon
 Unlocks: 65-Bonus: Spirit Warriors
-[IDS_SOLO.CHAPTER560010_EXPLANATION]
+[IDS_SOLO.CHAPTER20060010_EXPLANATION]
 Progression Level: 65
 Core Set: Circuit Break
 Ban List: 2018-02 SPYRAL Format 
 Opponent: Zoodiac Hammerkong
 Unlocks: 66-Core: Extreme Force
-[IDS_SOLO.CHAPTER560011_EXPLANATION]
+[IDS_SOLO.CHAPTER20060011_EXPLANATION]
 Progression Level: 65
 Core Set: Circuit Break
 Ban List: 2018-02 SPYRAL Format 
 Opponent: Lyrilusc – Assembled Nightingale
 Unlocks: 65-Structure Deck: Wave of Light
-[IDS_SOLO.CHAPTER560012_EXPLANATION]
+[IDS_SOLO.CHAPTER20060012_EXPLANATION]
 Progression Level: 65
 Core Set: Circuit Break
 Ban List: 2018-02 SPYRAL Format 
 Opponent: Phantasm Spiral Dragon
 Unlocks: 65-Structure Deck: Cyberse Link
-[IDS_SOLO.CHAPTER560013_EXPLANATION]
+[IDS_SOLO.CHAPTER20060013_EXPLANATION]
 Progression Level: 66
 Core Set: Extreme Force
 Ban List: 2018-05 Secaucus Format 
 Opponent: Ningirsu the World Chalice Warrior
 Unlocks: 
-[IDS_SOLO.CHAPTER560014_EXPLANATION]
+[IDS_SOLO.CHAPTER20060014_EXPLANATION]
 Progression Level: 66
 Core Set: Extreme Force
 Ban List: 2018-05 Secaucus Format 
 Opponent: X-Krawler Qualiark
 Unlocks: 66-Bonus: Star Pack VRAINS
-[IDS_SOLO.CHAPTER560015_EXPLANATION]
+[IDS_SOLO.CHAPTER20060015_EXPLANATION]
 Progression Level: 66
 Core Set: Extreme Force
 Ban List: 2018-05 Secaucus Format 
 Opponent: Trickstar Bloom
 Unlocks: 66-TP: OTS Tournament Pack 7
-[IDS_SOLO.CHAPTER560016_EXPLANATION]
+[IDS_SOLO.CHAPTER20060016_EXPLANATION]
 Progression Level: 66
 Core Set: Extreme Force
 Ban List: 2018-05 Secaucus Format 
 Opponent: Firewall Dragon Darkfluid
 Unlocks: 67-Core: Flames of Destruction
-[IDS_SOLO.CHAPTER560017_EXPLANATION]
+[IDS_SOLO.CHAPTER20060017_EXPLANATION]
 Progression Level: 66
 Core Set: Extreme Force
 Ban List: 2018-05 Secaucus Format 
 Opponent: The Weather Painter Rainbow
 Unlocks: 66-Legendary Duelists: Ancient Millennium
-[IDS_SOLO.CHAPTER560018_EXPLANATION]
+[IDS_SOLO.CHAPTER20060018_EXPLANATION]
 Progression Level: 66
 Core Set: Extreme Force
 Ban List: 2018-05 Secaucus Format 
 Opponent: Magical Musketeer Calamity
 Unlocks: 66-Structure Deck: Lair of Darkness
-[IDS_SOLO.CHAPTER560019_EXPLANATION]
+[IDS_SOLO.CHAPTER20060019_EXPLANATION]
 Progression Level: 67
 Core Set: Flames of Destruction
 Ban List: 2018-09 Danger Format 
 Opponent: Altergeist Primebanshee
 Unlocks: 
-[IDS_SOLO.CHAPTER560020_EXPLANATION]
+[IDS_SOLO.CHAPTER20060020_EXPLANATION]
 Progression Level: 67
 Core Set: Flames of Destruction
 Ban List: 2018-09 Danger Format 
 Opponent: Pumpkin Carriage
 Unlocks: 
-[IDS_SOLO.CHAPTER560021_EXPLANATION]
+[IDS_SOLO.CHAPTER20060021_EXPLANATION]
 Progression Level: 67
 Core Set: Flames of Destruction
 Ban List: 2018-09 Danger Format 
 Opponent: Metaphys Tyrant Dragon
 Unlocks: 67-Starter Deck: Codebreaker
-[IDS_SOLO.CHAPTER560022_EXPLANATION]
+[IDS_SOLO.CHAPTER20060022_EXPLANATION]
 Progression Level: 67
 Core Set: Flames of Destruction
 Ban List: 2018-09 Danger Format 
 Opponent: F.A. Whip Crosser
 Unlocks: 68-Core: Cybernetic Horizon
-[IDS_SOLO.CHAPTER560023_EXPLANATION]
+[IDS_SOLO.CHAPTER20060023_EXPLANATION]
 Progression Level: 67
 Core Set: Flames of Destruction
 Ban List: 2018-09 Danger Format 
 Opponent: Revendread Slayer
 Unlocks: 67-Bonus: Dark Saviors
-[IDS_SOLO.CHAPTER560024_EXPLANATION]
+[IDS_SOLO.CHAPTER20060024_EXPLANATION]
 Progression Level: 67
 Core Set: Flames of Destruction
 Ban List: 2018-09 Danger Format 
 Opponent: Mekk-Knight Red Moon
 Unlocks: 67-Bonus: Battles of Legend: Relentless Revenge
-[IDS_SOLO.CHAPTER560025_EXPLANATION]
+[IDS_SOLO.CHAPTER20060025_EXPLANATION]
 Progression Level: 68
 Core Set: Cybernetic Horizon
 Ban List: 2018-09 Danger Format 
 Opponent: Gouki Tagpartner
 Unlocks: 
-[IDS_SOLO.CHAPTER560026_EXPLANATION]
+[IDS_SOLO.CHAPTER20060026_EXPLANATION]
 Progression Level: 68
 Core Set: Cybernetic Horizon
 Ban List: 2018-09 Danger Format 
 Opponent: Mythical Beast Garuda
 Unlocks: 68-Legendary Duelists: White Dragon Abyss
-[IDS_SOLO.CHAPTER560027_EXPLANATION]
+[IDS_SOLO.CHAPTER20060027_EXPLANATION]
 Progression Level: 68
 Core Set: Cybernetic Horizon
 Ban List: 2018-09 Danger Format 
 Opponent: Sky Striker Ace – Kagari
 Unlocks: 68-TP: OTS Tournament Pack 8
-[IDS_SOLO.CHAPTER560028_EXPLANATION]
+[IDS_SOLO.CHAPTER20060028_EXPLANATION]
 Progression Level: 68
 Core Set: Cybernetic Horizon
 Ban List: 2018-09 Danger Format 
 Opponent: Knightmare Phoenix
 Unlocks: 69-Core: Soul Fusion
-[IDS_SOLO.CHAPTER560029_EXPLANATION]
+[IDS_SOLO.CHAPTER20060029_EXPLANATION]
 Progression Level: 68
 Core Set: Cybernetic Horizon
 Ban List: 2018-09 Danger Format 
 Opponent: Elementsaber Molehu
 Unlocks: 68-Structure Deck: Powercode Link
-[IDS_SOLO.CHAPTER560030_EXPLANATION]
+[IDS_SOLO.CHAPTER20060030_EXPLANATION]
 Progression Level: 68
 Core Set: Cybernetic Horizon
 Ban List: 2018-09 Danger Format 
 Opponent: Bravo, Fighter Fur Hire
 Unlocks: 68-Bonus: Shadows in Valhalla
-[IDS_SOLO.CHAPTER560031_EXPLANATION]
+[IDS_SOLO.CHAPTER20060031_EXPLANATION]
 Progression Level: 69
 Core Set: Soul Fusion
 Ban List: 2018-09 Danger Format 
 Opponent: Crusadia Spartha
 Unlocks: 
-[IDS_SOLO.CHAPTER560032_EXPLANATION]
+[IDS_SOLO.CHAPTER20060032_EXPLANATION]
 Progression Level: 69
 Core Set: Soul Fusion
 Ban List: 2019-01 Striker Format 
 Opponent: Superdreadnought Rail Cannon Juggernaut Liebe
 Unlocks: 69-TP: OTS Tournament Pack 9
-[IDS_SOLO.CHAPTER560033_EXPLANATION]
+[IDS_SOLO.CHAPTER20060033_EXPLANATION]
 Progression Level: 69
 Core Set: Soul Fusion
 Ban List: 2019-01 Striker Format 
 Opponent: Prank-Kids Rocket Ride
 Unlocks: 69-Bonus: Hidden Summoners
-[IDS_SOLO.CHAPTER560034_EXPLANATION]
+[IDS_SOLO.CHAPTER20060034_EXPLANATION]
 Progression Level: 69
 Core Set: Soul Fusion
 Ban List: 2019-01 Striker Format 
 Opponent: Danger! Thunderbird!
 Unlocks: 70-Core: Savage Strike
-[IDS_SOLO.CHAPTER560035_EXPLANATION]
+[IDS_SOLO.CHAPTER20060035_EXPLANATION]
 Progression Level: 69
 Core Set: Soul Fusion
 Ban List: 2019-01 Striker Format 
 Opponent: Yoko, the Graceful Mayakashi
 Unlocks: 69-Legendary Duelists: Sisters of the Rose
-[IDS_SOLO.CHAPTER560036_EXPLANATION]
+[IDS_SOLO.CHAPTER20060036_EXPLANATION]
 Progression Level: 69
 Core Set: Soul Fusion
 Ban List: 2019-01 Striker Format 
 Opponent: Nephthys, the Sacred Preserver
 Unlocks: 69-Structure Deck: Zombie Horde
-[IDS_SOLO.CHAPTER560037_EXPLANATION]
+[IDS_SOLO.CHAPTER20060037_EXPLANATION]
 Progression Level: 70
 Core Set: Savage Strike
 Ban List: 2019-04 Thunder Dragon Format
 Opponent: Galatea, the Orcust Automaton
 Unlocks: 
-[IDS_SOLO.CHAPTER560038_EXPLANATION]
+[IDS_SOLO.CHAPTER20060038_EXPLANATION]
 Progression Level: 70
 Core Set: Savage Strike
 Ban List: 2019-04 Thunder Dragon Format
 Opponent: Garden Rose Maiden
 Unlocks: 70-TP: OTS Tournament Pack 10
-[IDS_SOLO.CHAPTER560039_EXPLANATION]
+[IDS_SOLO.CHAPTER20060039_EXPLANATION]
 Progression Level: 70
 Core Set: Savage Strike
 Ban List: 2019-04 Thunder Dragon Format
 Opponent: Valkyrie Brunhilde
 Unlocks: 70-Bonus: The Infinity Chasers
-[IDS_SOLO.CHAPTER560040_EXPLANATION]
+[IDS_SOLO.CHAPTER20060040_EXPLANATION]
 Progression Level: 70
 Core Set: Savage Strike
 Ban List: 2019-04 Thunder Dragon Format
 Opponent: Salamangreat Heatleo
 Unlocks: 71-Core: Dark Neostorm
-[IDS_SOLO.CHAPTER560041_EXPLANATION]
+[IDS_SOLO.CHAPTER20060041_EXPLANATION]
 Progression Level: 70
 Core Set: Savage Strike
 Ban List: 2019-04 Thunder Dragon Format
 Opponent: Impcantation Chalislime
 Unlocks: 70-Structure Deck: Order of the Spellcasters
-[IDS_SOLO.CHAPTER560042_EXPLANATION]
+[IDS_SOLO.CHAPTER20060042_EXPLANATION]
 Progression Level: 70
 Core Set: Savage Strike
 Ban List: 2019-04 Thunder Dragon Format
 Opponent: Thunder Dragon Colossus
 Unlocks: 70-Structure Deck: Soulburner
-[IDS_SOLO.CHAPTER560043_EXPLANATION]
+[IDS_SOLO.CHAPTER20060043_EXPLANATION]
 Progression Level: 71
 Core Set: Dark Neostorm
 Ban List: 2019-07 Lunalight Format 
 Opponent: Guardragon Pisty
 Unlocks: 
-[IDS_SOLO.CHAPTER560044_EXPLANATION]
+[IDS_SOLO.CHAPTER20060044_EXPLANATION]
 Progression Level: 71
 Core Set: Dark Neostorm
 Ban List: 2019-07 Lunalight Format 
 Opponent: Witchcrafter Pittore
 Unlocks: 
-[IDS_SOLO.CHAPTER560045_EXPLANATION]
+[IDS_SOLO.CHAPTER20060045_EXPLANATION]
 Progression Level: 71
 Core Set: Dark Neostorm
 Ban List: 2019-07 Lunalight Format 
 Opponent: Infinitrack Mountain Smasher
 Unlocks: 
-[IDS_SOLO.CHAPTER560046_EXPLANATION]
+[IDS_SOLO.CHAPTER20060046_EXPLANATION]
 Progression Level: 71
 Core Set: Dark Neostorm
 Ban List: 2019-07 Lunalight Format 
 Opponent: Dinowrestler Giga Spinosavate
 Unlocks: 72-Core: Rising Rampage
-[IDS_SOLO.CHAPTER560047_EXPLANATION]
+[IDS_SOLO.CHAPTER20060047_EXPLANATION]
 Progression Level: 71
 Core Set: Dark Neostorm
 Ban List: 2019-07 Lunalight Format 
 Opponent: Time Thief Redoer
 Unlocks: 71-Bonus: Battles of Legend: Hero's Revenge
-[IDS_SOLO.CHAPTER560048_EXPLANATION]
+[IDS_SOLO.CHAPTER20060048_EXPLANATION]
 Progression Level: 71
 Core Set: Dark Neostorm
 Ban List: 2019-07 Lunalight Format 
 Opponent: Basilius, Familiar of the Evil Eye
 Unlocks: 
-[IDS_SOLO.CHAPTER560049_EXPLANATION]
+[IDS_SOLO.CHAPTER20060049_EXPLANATION]
 Progression Level: 72
 Core Set: Rising Rampage
 Ban List: 2019-10 Orcust Format 
 Opponent: Simorg, Bird of Bringing
 Unlocks: 72-Game: Legacy of the Duelist: Link Evolution
-[IDS_SOLO.CHAPTER560050_EXPLANATION]
+[IDS_SOLO.CHAPTER20060050_EXPLANATION]
 Progression Level: 72
 Core Set: Rising Rampage
 Ban List: 2019-10 Orcust Format 
 Opponent: Curse Necrofear
 Unlocks: 72-Legendary Duelists: Immortal Destiny
-[IDS_SOLO.CHAPTER560051_EXPLANATION]
+[IDS_SOLO.CHAPTER20060051_EXPLANATION]
 Progression Level: 72
 Core Set: Rising Rampage
 Ban List: 2019-10 Orcust Format 
 Opponent: Fortune Fairy Ann
 Unlocks: 72-TP: OTS Tournament Pack 11
-[IDS_SOLO.CHAPTER560052_EXPLANATION]
+[IDS_SOLO.CHAPTER20060052_EXPLANATION]
 Progression Level: 72
 Core Set: Rising Rampage
 Ban List: 2019-10 Orcust Format 
 Opponent: Vision HERO Trinity
 Unlocks: 73-Core: Chaos Impact
-[IDS_SOLO.CHAPTER560053_EXPLANATION]
+[IDS_SOLO.CHAPTER20060053_EXPLANATION]
 Progression Level: 72
 Core Set: Rising Rampage
 Ban List: 2019-10 Orcust Format 
 Opponent: Battlewasp – Azusa the Ghost Bow
 Unlocks: 72-Bonus: Fists of the Gadgets
-[IDS_SOLO.CHAPTER560054_EXPLANATION]
+[IDS_SOLO.CHAPTER20060054_EXPLANATION]
 Progression Level: 72
 Core Set: Rising Rampage
 Ban List: 2019-10 Orcust Format 
 Opponent: Silverrokket Dragon
 Unlocks: 72-Structure Deck: Rokket Revolt
-[IDS_SOLO.CHAPTER560055_EXPLANATION]
+[IDS_SOLO.CHAPTER20060055_EXPLANATION]
 Progression Level: 73
 Core Set: Chaos Impact
 Ban List: 2020-01 Rokket Format 
 Opponent: Marincess Marbled Rock
 Unlocks: 
-[IDS_SOLO.CHAPTER560056_EXPLANATION]
+[IDS_SOLO.CHAPTER20060056_EXPLANATION]
 Progression Level: 73
 Core Set: Chaos Impact
 Ban List: 2020-01 Rokket Format 
 Opponent: House Dragonmaid
 Unlocks: 
-[IDS_SOLO.CHAPTER560057_EXPLANATION]
+[IDS_SOLO.CHAPTER20060057_EXPLANATION]
 Progression Level: 73
 Core Set: Chaos Impact
 Ban List: 2020-01 Rokket Format 
 Opponent: Ikelos, the Dream Mirror Mara
 Unlocks: 73-TP: OTS Tournament Pack 12
-[IDS_SOLO.CHAPTER560058_EXPLANATION]
+[IDS_SOLO.CHAPTER20060058_EXPLANATION]
 Progression Level: 73
 Core Set: Chaos Impact
 Ban List: 2020-01 Rokket Format 
 Opponent: Shaman of the Tenyi
 Unlocks: 74-Core: Ignition Assault
-[IDS_SOLO.CHAPTER560059_EXPLANATION]
+[IDS_SOLO.CHAPTER20060059_EXPLANATION]
 Progression Level: 73
 Core Set: Chaos Impact
 Ban List: 2020-01 Rokket Format 
 Opponent: Hela, Generaider Boss of Doom
 Unlocks: 73-Legendary Duelists: Magical Hero
-[IDS_SOLO.CHAPTER560060_EXPLANATION]
+[IDS_SOLO.CHAPTER20060060_EXPLANATION]
 Progression Level: 73
 Core Set: Chaos Impact
 Ban List: 2020-01 Rokket Format 
 Opponent: Geomathmech Final Sigma
 Unlocks: 73-Bonus: Mystic Fighters
-[IDS_SOLO.CHAPTER560061_EXPLANATION]
+[IDS_SOLO.CHAPTER20060061_EXPLANATION]
 Progression Level: 74
 Core Set: Ignition Assault
 Ban List: 2020-04 Rokket Format 
 Opponent: Powercode Talker
 Unlocks: 
-[IDS_SOLO.CHAPTER560062_EXPLANATION]
+[IDS_SOLO.CHAPTER20060062_EXPLANATION]
 Progression Level: 74
 Core Set: Ignition Assault
 Ban List: 2020-04 Rokket Format 
 Opponent: Unchained Abomination
 Unlocks: 
-[IDS_SOLO.CHAPTER560063_EXPLANATION]
+[IDS_SOLO.CHAPTER20060063_EXPLANATION]
 Progression Level: 74
 Core Set: Ignition Assault
 Ban List: 2020-04 Rokket Format 
 Opponent: Kanzashi the Rikka Queen
 Unlocks: 74-Bonus: Secret Slayers
-[IDS_SOLO.CHAPTER560064_EXPLANATION]
+[IDS_SOLO.CHAPTER20060064_EXPLANATION]
 Progression Level: 74
 Core Set: Ignition Assault
 Ban List: 2020-04 Rokket Format 
 Opponent: Adamancipator Risen – Leonite
 Unlocks: 75-Core: Eternity Code
-[IDS_SOLO.CHAPTER560065_EXPLANATION]
+[IDS_SOLO.CHAPTER20060065_EXPLANATION]
 Progression Level: 74
 Core Set: Ignition Assault
 Ban List: 2020-04 Rokket Format 
 Opponent: Megalith Ophiel
 Unlocks: 74-Structure Deck: Mechanized Madness
-[IDS_SOLO.CHAPTER560066_EXPLANATION]
+[IDS_SOLO.CHAPTER20060066_EXPLANATION]
 Progression Level: 74
 Core Set: Ignition Assault
 Ban List: 2020-04 Rokket Format 
 Opponent: Eldlich the Golden Lord
 Unlocks: 74-Structure Deck: Shaddoll Showdown
-[IDS_SOLO.CHAPTER560067_EXPLANATION]
+[IDS_SOLO.CHAPTER20060067_EXPLANATION]
 Progression Level: 75
 Core Set: Eternity Code
 Ban List: 2020-06 Adamancipator Format 
 Opponent: The Arrival Cyberse Ignister
 Unlocks: 
-[IDS_SOLO.CHAPTER560068_EXPLANATION]
+[IDS_SOLO.CHAPTER20060068_EXPLANATION]
 Progression Level: 75
 Core Set: Eternity Code
 Ban List: 2020-06 Adamancipator Format 
 Opponent: Appliancer Laundry Dragon
 Unlocks: 75-Bonus: Toon Chaos
-[IDS_SOLO.CHAPTER560069_EXPLANATION]
+[IDS_SOLO.CHAPTER20060069_EXPLANATION]
 Progression Level: 75
 Core Set: Eternity Code
 Ban List: 2020-06 Adamancipator Format 
 Opponent: Numeron Wall
 Unlocks: Masochist: All MD Cards
-[IDS_SOLO.CHAPTER560070_EXPLANATION]
+[IDS_SOLO.CHAPTER20060070_EXPLANATION]
 Progression Level: 75
 Core Set: Eternity Code
 Ban List: 2020-06 Adamancipator Format 
 Opponent: Armityle the Chaos Phantasm
 Unlocks: All remaining cards
-[IDS_SOLO.CHAPTER560071_EXPLANATION]
+[IDS_SOLO.CHAPTER20060071_EXPLANATION]
 Progression Level: 75
 Core Set: Eternity Code
 Ban List: 2020-06 Adamancipator Format 
 Opponent: Ancient Warriors – Graceful
 Unlocks: 75-Bonus: Battles of Legend: Armageddon
-[IDS_SOLO.CHAPTER560072_EXPLANATION]
+[IDS_SOLO.CHAPTER20060072_EXPLANATION]
 Progression Level: 75
 Core Set: Eternity Code
 Ban List: 2020-06 Adamancipator Format 
 Opponent: Blackbeard, the Plunder Patroll Captain
 Unlocks: 75-Structure Deck: Sacred Beasts
-[IDS_SOLO.CHAPTER600001_EXPLANATION]
+[IDS_SOLO.CHAPTER20110001_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Zoodiac Hammerkong  
-[IDS_SOLO.CHAPTER600002_EXPLANATION]
+[IDS_SOLO.CHAPTER20110002_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Union Controller  
-[IDS_SOLO.CHAPTER600003_EXPLANATION]
+[IDS_SOLO.CHAPTER20110003_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Abyss Actor – Super Producer  
-[IDS_SOLO.CHAPTER600004_EXPLANATION]
+[IDS_SOLO.CHAPTER20110004_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Cosmic Slicer Zer’oll  
-[IDS_SOLO.CHAPTER600005_EXPLANATION]
+[IDS_SOLO.CHAPTER20110005_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Altergeist Adminia  
-[IDS_SOLO.CHAPTER600006_EXPLANATION]
+[IDS_SOLO.CHAPTER20110006_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Amazoness Augusta  
-[IDS_SOLO.CHAPTER600007_EXPLANATION]
+[IDS_SOLO.CHAPTER20110007_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Amorphage Sloth  
-[IDS_SOLO.CHAPTER600008_EXPLANATION]
+[IDS_SOLO.CHAPTER20110008_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Chaos Ancient Gear Giant  
-[IDS_SOLO.CHAPTER600009_EXPLANATION]
+[IDS_SOLO.CHAPTER20110009_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Ancient Warriors – Rebellious Lu Feng  
-[IDS_SOLO.CHAPTER600010_EXPLANATION]
+[IDS_SOLO.CHAPTER20110010_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Appliancer Vacculephant  
-[IDS_SOLO.CHAPTER600011_EXPLANATION]
+[IDS_SOLO.CHAPTER20110011_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Arcana Force EX – The Dark Ruler  
-[IDS_SOLO.CHAPTER600012_EXPLANATION]
+[IDS_SOLO.CHAPTER20110012_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Labrynth Archfiend  
-[IDS_SOLO.CHAPTER600013_EXPLANATION]
+[IDS_SOLO.CHAPTER20110013_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Dark Armed, the Dragon of Annihilation  
-[IDS_SOLO.CHAPTER600014_EXPLANATION]
+[IDS_SOLO.CHAPTER20110014_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Aromalilith Magnolia  
-[IDS_SOLO.CHAPTER600015_EXPLANATION]
+[IDS_SOLO.CHAPTER20110015_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Artifact Durendal  
-[IDS_SOLO.CHAPTER600016_EXPLANATION]
+[IDS_SOLO.CHAPTER20110016_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Stardust Dragon/Assault Mode  
-[IDS_SOLO.CHAPTER600017_EXPLANATION]
+[IDS_SOLO.CHAPTER20110017_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: B.E.S. Blaster Cannon Core  
-[IDS_SOLO.CHAPTER600018_EXPLANATION]
+[IDS_SOLO.CHAPTER20110018_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Cursed Bamboo Sword  
-[IDS_SOLO.CHAPTER600019_EXPLANATION]
+[IDS_SOLO.CHAPTER20110019_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Battlewasp – Ballista the Armageddon  
-[IDS_SOLO.CHAPTER600020_EXPLANATION]
+[IDS_SOLO.CHAPTER20110020_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Number C79: Battlin’ Boxer General Kaiser  
-[IDS_SOLO.CHAPTER600021_EXPLANATION]
+[IDS_SOLO.CHAPTER20110021_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Master of Chaos  
-[IDS_SOLO.CHAPTER600022_EXPLANATION]
+[IDS_SOLO.CHAPTER20110022_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Black-Winged Assault Dragon  
-[IDS_SOLO.CHAPTER600023_EXPLANATION]
+[IDS_SOLO.CHAPTER20110023_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Neo Blue-Eyes Ultimate Dragon  
-[IDS_SOLO.CHAPTER600024_EXPLANATION]
+[IDS_SOLO.CHAPTER20110024_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Bujinki Amaterasu  
-[IDS_SOLO.CHAPTER600025_EXPLANATION]
+[IDS_SOLO.CHAPTER20110025_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Dante, Pilgrim of the Burning Abyss  
-[IDS_SOLO.CHAPTER600026_EXPLANATION]
+[IDS_SOLO.CHAPTER20110026_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Buster Blader, the Dragon Destroyer Swordsman  
-[IDS_SOLO.CHAPTER600027_EXPLANATION]
+[IDS_SOLO.CHAPTER20110027_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Chaos Angel  
-[IDS_SOLO.CHAPTER600028_EXPLANATION]
+[IDS_SOLO.CHAPTER20110028_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Spirit Charmers  
-[IDS_SOLO.CHAPTER600029_EXPLANATION]
+[IDS_SOLO.CHAPTER20110029_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Vola-Chemicritter Methydraco  
-[IDS_SOLO.CHAPTER600030_EXPLANATION]
+[IDS_SOLO.CHAPTER20110030_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Chronomaly Vimana  
-[IDS_SOLO.CHAPTER600031_EXPLANATION]
+[IDS_SOLO.CHAPTER20110031_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Cipher Etranger  
-[IDS_SOLO.CHAPTER600032_EXPLANATION]
+[IDS_SOLO.CHAPTER20110032_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Cloudian – Eye of the Typhoon  
-[IDS_SOLO.CHAPTER600033_EXPLANATION]
+[IDS_SOLO.CHAPTER20110033_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Constellar Ptolemy M7  
-[IDS_SOLO.CHAPTER600034_EXPLANATION]
+[IDS_SOLO.CHAPTER20110034_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Crusadia Equimax  
-[IDS_SOLO.CHAPTER600035_EXPLANATION]
+[IDS_SOLO.CHAPTER20110035_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Ultimate Crystal Rainbow Dragon  
-[IDS_SOLO.CHAPTER600036_EXPLANATION]
+[IDS_SOLO.CHAPTER20110036_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Crystron Quariongandrax  
-[IDS_SOLO.CHAPTER600037_EXPLANATION]
+[IDS_SOLO.CHAPTER20110037_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Crimson Nova the Dark Cubic Lord  
-[IDS_SOLO.CHAPTER600038_EXPLANATION]
+[IDS_SOLO.CHAPTER20110038_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Cyber Angel Vrash  
-[IDS_SOLO.CHAPTER600039_EXPLANATION]
+[IDS_SOLO.CHAPTER20110039_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Cyber Dragon Infinity  
-[IDS_SOLO.CHAPTER600040_EXPLANATION]
+[IDS_SOLO.CHAPTER20110040_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Danger! Bigfoot!  
-[IDS_SOLO.CHAPTER600041_EXPLANATION]
+[IDS_SOLO.CHAPTER20110041_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Illusion of Chaos  
-[IDS_SOLO.CHAPTER600042_EXPLANATION]
+[IDS_SOLO.CHAPTER20110042_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Don Zaloog  
-[IDS_SOLO.CHAPTER600043_EXPLANATION]
+[IDS_SOLO.CHAPTER20110043_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Grapha, Dragon Overlord of Dark World  
-[IDS_SOLO.CHAPTER600044_EXPLANATION]
+[IDS_SOLO.CHAPTER20110044_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: The First Darklord  
-[IDS_SOLO.CHAPTER600045_EXPLANATION]
+[IDS_SOLO.CHAPTER20110045_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: D/D/D Deviser King Deus Machinex  
-[IDS_SOLO.CHAPTER600046_EXPLANATION]
+[IDS_SOLO.CHAPTER20110046_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Deskbot 009  
-[IDS_SOLO.CHAPTER600047_EXPLANATION]
+[IDS_SOLO.CHAPTER20110047_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Destiny HERO – Dominance  
-[IDS_SOLO.CHAPTER600048_EXPLANATION]
+[IDS_SOLO.CHAPTER20110048_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Digital Bug Rhinosebus  
-[IDS_SOLO.CHAPTER600049_EXPLANATION]
+[IDS_SOLO.CHAPTER20110049_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Dinomist Rex  
-[IDS_SOLO.CHAPTER600050_EXPLANATION]
+[IDS_SOLO.CHAPTER20110050_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Dinowrestler Chimera T Wrextle  
-[IDS_SOLO.CHAPTER600051_EXPLANATION]
+[IDS_SOLO.CHAPTER20110051_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Humhumming the Key Djinn  
-[IDS_SOLO.CHAPTER600052_EXPLANATION]
+[IDS_SOLO.CHAPTER20110052_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Dragoons of Draconia  
-[IDS_SOLO.CHAPTER600053_EXPLANATION]
+[IDS_SOLO.CHAPTER20110053_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Dinoster Power, the Mighty Dracoslayer  
-[IDS_SOLO.CHAPTER600054_EXPLANATION]
+[IDS_SOLO.CHAPTER20110054_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Blaze, Supreme Ruler of all Dragons  
-[IDS_SOLO.CHAPTER600055_EXPLANATION]
+[IDS_SOLO.CHAPTER20110055_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Dragonmaid Sheou  
-[IDS_SOLO.CHAPTER600056_EXPLANATION]
+[IDS_SOLO.CHAPTER20110056_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Dragunity Knight – Areadbhair  
-[IDS_SOLO.CHAPTER600057_EXPLANATION]
+[IDS_SOLO.CHAPTER20110057_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Oneiros, the Dream Mirror Tormentor  
-[IDS_SOLO.CHAPTER600058_EXPLANATION]
+[IDS_SOLO.CHAPTER20110058_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Drytron Mu Beta Fafnir  
-[IDS_SOLO.CHAPTER600059_EXPLANATION]
+[IDS_SOLO.CHAPTER20110059_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Starduston  
-[IDS_SOLO.CHAPTER600060_EXPLANATION]
+[IDS_SOLO.CHAPTER20110060_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Earthbound Greater Linewalker  
-[IDS_SOLO.CHAPTER600061_EXPLANATION]
+[IDS_SOLO.CHAPTER20110061_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Egyptian God Slime  
-[IDS_SOLO.CHAPTER600062_EXPLANATION]
+[IDS_SOLO.CHAPTER20110062_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Eldlich the Mad Golden Lord  
-[IDS_SOLO.CHAPTER600063_EXPLANATION]
+[IDS_SOLO.CHAPTER20110063_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Xtra HERO Dread Decimator  
-[IDS_SOLO.CHAPTER600064_EXPLANATION]
+[IDS_SOLO.CHAPTER20110064_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Elementsaber Lapauila Mana  
-[IDS_SOLO.CHAPTER600065_EXPLANATION]
+[IDS_SOLO.CHAPTER20110065_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Endymion, the Mighty Master of Magic  
-[IDS_SOLO.CHAPTER600066_EXPLANATION]
+[IDS_SOLO.CHAPTER20110066_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Zerrziel, Ruler of the Evil Eye  
-[IDS_SOLO.CHAPTER600067_EXPLANATION]
+[IDS_SOLO.CHAPTER20110067_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Evil HERO Malicious Bane  
-[IDS_SOLO.CHAPTER600068_EXPLANATION]
+[IDS_SOLO.CHAPTER20110068_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Evilswarm Nightmare  
-[IDS_SOLO.CHAPTER600069_EXPLANATION]
+[IDS_SOLO.CHAPTER20110069_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Evolzar Lars  
-[IDS_SOLO.CHAPTER600070_EXPLANATION]
+[IDS_SOLO.CHAPTER20110070_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: The Unstoppable Exodia Incarnation  
-[IDS_SOLO.CHAPTER600071_EXPLANATION]
+[IDS_SOLO.CHAPTER20110071_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Exodia the Forbidden One  
-[IDS_SOLO.CHAPTER600072_EXPLANATION]
+[IDS_SOLO.CHAPTER20110072_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: F.A. Dawn Dragster  
-[IDS_SOLO.CHAPTER600073_EXPLANATION]
+[IDS_SOLO.CHAPTER20110073_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Fabled Andwraith  
-[IDS_SOLO.CHAPTER600074_EXPLANATION]
+[IDS_SOLO.CHAPTER20110074_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Brotherhood of the Fire Fist – Kirin  
-[IDS_SOLO.CHAPTER600075_EXPLANATION]
+[IDS_SOLO.CHAPTER20110075_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Garunix Eternity, Hyang of the Fire Kings  
-[IDS_SOLO.CHAPTER600076_EXPLANATION]
+[IDS_SOLO.CHAPTER20110076_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Frightfur Cruel Whale  
-[IDS_SOLO.CHAPTER600077_EXPLANATION]
+[IDS_SOLO.CHAPTER20110077_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Fortune Lady Past  
-[IDS_SOLO.CHAPTER600078_EXPLANATION]
+[IDS_SOLO.CHAPTER20110078_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Rafale, Champion Fur Hire  
-[IDS_SOLO.CHAPTER600079_EXPLANATION]
+[IDS_SOLO.CHAPTER20110079_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Gold Gadget  
-[IDS_SOLO.CHAPTER600080_EXPLANATION]
+[IDS_SOLO.CHAPTER20110080_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Soldier Gaia the Fierce Knight  
-[IDS_SOLO.CHAPTER600081_EXPLANATION]
+[IDS_SOLO.CHAPTER20110081_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Galaxy-Eyes Cipher X Dragon  
-[IDS_SOLO.CHAPTER600082_EXPLANATION]
+[IDS_SOLO.CHAPTER20110082_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Gem-Knight Master Diamond  
-[IDS_SOLO.CHAPTER600083_EXPLANATION]
+[IDS_SOLO.CHAPTER20110083_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Laevatein, Generaider Boss of Shadows  
-[IDS_SOLO.CHAPTER600084_EXPLANATION]
+[IDS_SOLO.CHAPTER20110084_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Arms of Genex Return Zero  
-[IDS_SOLO.CHAPTER600085_EXPLANATION]
+[IDS_SOLO.CHAPTER20110085_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Ghostrick Angel of Mischief  
-[IDS_SOLO.CHAPTER600086_EXPLANATION]
+[IDS_SOLO.CHAPTER20110086_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Gimmick Puppet Bisque Doll  
-[IDS_SOLO.CHAPTER600087_EXPLANATION]
+[IDS_SOLO.CHAPTER20110087_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Gishki Neremanas  
-[IDS_SOLO.CHAPTER600088_EXPLANATION]
+[IDS_SOLO.CHAPTER20110088_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Gladiator Beast Domitianus  
-[IDS_SOLO.CHAPTER600089_EXPLANATION]
+[IDS_SOLO.CHAPTER20110089_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Gouki Bearhug  
-[IDS_SOLO.CHAPTER600090_EXPLANATION]
+[IDS_SOLO.CHAPTER20110090_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Gravekeeper’s Supernaturalist  
-[IDS_SOLO.CHAPTER600091_EXPLANATION]
+[IDS_SOLO.CHAPTER20110091_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Graydle Dragon  
-[IDS_SOLO.CHAPTER600092_EXPLANATION]
+[IDS_SOLO.CHAPTER20110092_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: World Chalice Guardragon Almarduke  
-[IDS_SOLO.CHAPTER600093_EXPLANATION]
+[IDS_SOLO.CHAPTER20110093_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Daigusto Laplampilica  
-[IDS_SOLO.CHAPTER600094_EXPLANATION]
+[IDS_SOLO.CHAPTER20110094_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Cyber Slash Harpie Lady  
-[IDS_SOLO.CHAPTER600095_EXPLANATION]
+[IDS_SOLO.CHAPTER20110095_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Herald of the Arc Light  
-[IDS_SOLO.CHAPTER600096_EXPLANATION]
+[IDS_SOLO.CHAPTER20110096_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Heraldic Beast Amphisbaena  
-[IDS_SOLO.CHAPTER600097_EXPLANATION]
+[IDS_SOLO.CHAPTER20110097_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Heroic Champion – Claivesolish  
-[IDS_SOLO.CHAPTER600098_EXPLANATION]
+[IDS_SOLO.CHAPTER20110098_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Hieratic Dragon King of Atum  
-[IDS_SOLO.CHAPTER600099_EXPLANATION]
+[IDS_SOLO.CHAPTER20110099_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Trishula, Zero Dragon of the Ice Barrier  
-[IDS_SOLO.CHAPTER600100_EXPLANATION]
+[IDS_SOLO.CHAPTER20110100_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Igknight Veteran  
-[IDS_SOLO.CHAPTER600101_EXPLANATION]
+[IDS_SOLO.CHAPTER20110101_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Light Dragon Ignister  
-[IDS_SOLO.CHAPTER600102_EXPLANATION]
+[IDS_SOLO.CHAPTER20110102_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Infernoid Tierra  
-[IDS_SOLO.CHAPTER600103_EXPLANATION]
+[IDS_SOLO.CHAPTER20110103_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Infinitrack Earth Slicer  
-[IDS_SOLO.CHAPTER600104_EXPLANATION]
+[IDS_SOLO.CHAPTER20110104_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Infernity Doom Archfiend  
-[IDS_SOLO.CHAPTER600105_EXPLANATION]
+[IDS_SOLO.CHAPTER20110105_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Invoked Elysium  
-[IDS_SOLO.CHAPTER600106_EXPLANATION]
+[IDS_SOLO.CHAPTER20110106_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Inzektor Giga-Weevil  
-[IDS_SOLO.CHAPTER600107_EXPLANATION]
+[IDS_SOLO.CHAPTER20110107_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Junk Destroyer  
-[IDS_SOLO.CHAPTER600108_EXPLANATION]
+[IDS_SOLO.CHAPTER20110108_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Jurrac Giganoto  
-[IDS_SOLO.CHAPTER600109_EXPLANATION]
+[IDS_SOLO.CHAPTER20110109_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Jizukiru, the Star Destroying Kaiju  
-[IDS_SOLO.CHAPTER600110_EXPLANATION]
+[IDS_SOLO.CHAPTER20110110_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Karakuri Super Shogun MDL 00N “Bureibo”  
-[IDS_SOLO.CHAPTER600111_EXPLANATION]
+[IDS_SOLO.CHAPTER20110111_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Knightmare Gryphon  
-[IDS_SOLO.CHAPTER600112_EXPLANATION]
+[IDS_SOLO.CHAPTER20110112_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Koa’ki Meiru Maximus  
-[IDS_SOLO.CHAPTER600113_EXPLANATION]
+[IDS_SOLO.CHAPTER20110113_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Koalo-Koala  
-[IDS_SOLO.CHAPTER600114_EXPLANATION]
+[IDS_SOLO.CHAPTER20110114_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Kozmo Dark Planet  
-[IDS_SOLO.CHAPTER600115_EXPLANATION]
+[IDS_SOLO.CHAPTER20110115_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: X-Krawler Qualiark  
-[IDS_SOLO.CHAPTER600116_EXPLANATION]
+[IDS_SOLO.CHAPTER20110116_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Linkuriboh  
-[IDS_SOLO.CHAPTER600117_EXPLANATION]
+[IDS_SOLO.CHAPTER20110117_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Lavalval Salamander  
-[IDS_SOLO.CHAPTER600118_EXPLANATION]
+[IDS_SOLO.CHAPTER20110118_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Timaeus the Knight of Destiny  
-[IDS_SOLO.CHAPTER600119_EXPLANATION]
+[IDS_SOLO.CHAPTER20110119_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Minerva, the Exalted Lightsworn  
-[IDS_SOLO.CHAPTER600120_EXPLANATION]
+[IDS_SOLO.CHAPTER20110120_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Lunalight Leo Dancer  
-[IDS_SOLO.CHAPTER600121_EXPLANATION]
+[IDS_SOLO.CHAPTER20110121_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Lyrilusc – Recital Starling  
-[IDS_SOLO.CHAPTER600122_EXPLANATION]
+[IDS_SOLO.CHAPTER20110122_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Machina Ruinforce  
-[IDS_SOLO.CHAPTER600123_EXPLANATION]
+[IDS_SOLO.CHAPTER20110123_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Madolche Puddingcess  
-[IDS_SOLO.CHAPTER600124_EXPLANATION]
+[IDS_SOLO.CHAPTER20110124_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Magical Musketeer Max  
-[IDS_SOLO.CHAPTER600125_EXPLANATION]
+[IDS_SOLO.CHAPTER20110125_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Berserkion the Electromagna Warrior  
-[IDS_SOLO.CHAPTER600126_EXPLANATION]
+[IDS_SOLO.CHAPTER20110126_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Majespecter Toad – Ogama  
-[IDS_SOLO.CHAPTER600127_EXPLANATION]
+[IDS_SOLO.CHAPTER20110127_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Malefic Truth Dragon  
-[IDS_SOLO.CHAPTER600128_EXPLANATION]
+[IDS_SOLO.CHAPTER20110128_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Malicevorous Knife  
-[IDS_SOLO.CHAPTER600129_EXPLANATION]
+[IDS_SOLO.CHAPTER20110129_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Marincess Great Bubble Reef  
-[IDS_SOLO.CHAPTER600130_EXPLANATION]
+[IDS_SOLO.CHAPTER20110130_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Geomathmech Final Sigma  
-[IDS_SOLO.CHAPTER600131_EXPLANATION]
+[IDS_SOLO.CHAPTER20110131_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Mecha Phantom Beast Jaculuslan  
-[IDS_SOLO.CHAPTER600132_EXPLANATION]
+[IDS_SOLO.CHAPTER20110132_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Megalith Aratron  
-[IDS_SOLO.CHAPTER600133_EXPLANATION]
+[IDS_SOLO.CHAPTER20110133_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Mekk-Knight of the Morning Star  
-[IDS_SOLO.CHAPTER600134_EXPLANATION]
+[IDS_SOLO.CHAPTER20110134_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Meklord Astro Dragon Triskelion  
-[IDS_SOLO.CHAPTER600135_EXPLANATION]
+[IDS_SOLO.CHAPTER20110135_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Flowering Etoile the Melodious Magnificat  
-[IDS_SOLO.CHAPTER600136_EXPLANATION]
+[IDS_SOLO.CHAPTER20110136_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Mermail Abyssteus  
-[IDS_SOLO.CHAPTER600137_EXPLANATION]
+[IDS_SOLO.CHAPTER20110137_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Parametalfoes Azortless  
-[IDS_SOLO.CHAPTER600138_EXPLANATION]
+[IDS_SOLO.CHAPTER20110138_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Metaphys Horus  
-[IDS_SOLO.CHAPTER600139_EXPLANATION]
+[IDS_SOLO.CHAPTER20110139_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Erebus the Underworld Monarch  
-[IDS_SOLO.CHAPTER600140_EXPLANATION]
+[IDS_SOLO.CHAPTER20110140_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Power Tool Braver Dragon  
-[IDS_SOLO.CHAPTER600141_EXPLANATION]
+[IDS_SOLO.CHAPTER20110141_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Naturia Gaiastrio  
-[IDS_SOLO.CHAPTER600142_EXPLANATION]
+[IDS_SOLO.CHAPTER20110142_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Nekroz of Decisive Armor  
-[IDS_SOLO.CHAPTER600143_EXPLANATION]
+[IDS_SOLO.CHAPTER20110143_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Nemeses Umbrella  
-[IDS_SOLO.CHAPTER600144_EXPLANATION]
+[IDS_SOLO.CHAPTER20110144_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Elemental HERO Cosmo Neos  
-[IDS_SOLO.CHAPTER600145_EXPLANATION]
+[IDS_SOLO.CHAPTER20110145_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Meizen the Battle Ninja  
-[IDS_SOLO.CHAPTER600146_EXPLANATION]
+[IDS_SOLO.CHAPTER20110146_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Sacred Noble Knight of King Artorigus  
-[IDS_SOLO.CHAPTER600147_EXPLANATION]
+[IDS_SOLO.CHAPTER20110147_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Thor, Lord of the Aesir  
-[IDS_SOLO.CHAPTER600148_EXPLANATION]
+[IDS_SOLO.CHAPTER20110148_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Number C1: Numeron Chaos Gate Sunya  
-[IDS_SOLO.CHAPTER600149_EXPLANATION]
+[IDS_SOLO.CHAPTER20110149_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Odd-Eyes Revolution Dragon  
-[IDS_SOLO.CHAPTER600150_EXPLANATION]
+[IDS_SOLO.CHAPTER20110150_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Ojama Pink  
-[IDS_SOLO.CHAPTER600151_EXPLANATION]
+[IDS_SOLO.CHAPTER20110151_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Dingirsu, the Orcust of the Evening Star  
-[IDS_SOLO.CHAPTER600152_EXPLANATION]
+[IDS_SOLO.CHAPTER20110152_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Paleozoic Hallucigenia  
-[IDS_SOLO.CHAPTER600153_EXPLANATION]
+[IDS_SOLO.CHAPTER20110153_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Avenging Knight Parshath  
-[IDS_SOLO.CHAPTER600154_EXPLANATION]
+[IDS_SOLO.CHAPTER20110154_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Astrograph Sorcerer  
-[IDS_SOLO.CHAPTER600155_EXPLANATION]
+[IDS_SOLO.CHAPTER20110155_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Penguin Brave  
-[IDS_SOLO.CHAPTER600156_EXPLANATION]
+[IDS_SOLO.CHAPTER20110156_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Performage Trapeze High Magician  
-[IDS_SOLO.CHAPTER600157_EXPLANATION]
+[IDS_SOLO.CHAPTER20110157_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Performapal Gentrude  
-[IDS_SOLO.CHAPTER600158_EXPLANATION]
+[IDS_SOLO.CHAPTER20110158_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Phantasm Spiral Dragon  
-[IDS_SOLO.CHAPTER600159_EXPLANATION]
+[IDS_SOLO.CHAPTER20110159_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: The Phantom Knights of Rusty Bardiche  
-[IDS_SOLO.CHAPTER600160_EXPLANATION]
+[IDS_SOLO.CHAPTER20110160_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Starliege Photon Blast Dragon  
-[IDS_SOLO.CHAPTER600161_EXPLANATION]
+[IDS_SOLO.CHAPTER20110161_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Plunder Patrollship Jord  
-[IDS_SOLO.CHAPTER600162_EXPLANATION]
+[IDS_SOLO.CHAPTER20110162_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Prank-Kids Battle Butler  
-[IDS_SOLO.CHAPTER600163_EXPLANATION]
+[IDS_SOLO.CHAPTER20110163_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Predaplant Triphyoverutum  
-[IDS_SOLO.CHAPTER600164_EXPLANATION]
+[IDS_SOLO.CHAPTER20110164_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Prediction Princess Tarotreith  
-[IDS_SOLO.CHAPTER600165_EXPLANATION]
+[IDS_SOLO.CHAPTER20110165_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: PSY-Framelord Omega  
-[IDS_SOLO.CHAPTER600166_EXPLANATION]
+[IDS_SOLO.CHAPTER20110166_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Qliphort Stealth  
-[IDS_SOLO.CHAPTER600167_EXPLANATION]
+[IDS_SOLO.CHAPTER20110167_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Raidraptor – Ultimate Falcon  
-[IDS_SOLO.CHAPTER600168_EXPLANATION]
+[IDS_SOLO.CHAPTER20110168_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Red-Eyes Flare Metal Dragon  
-[IDS_SOLO.CHAPTER600169_EXPLANATION]
+[IDS_SOLO.CHAPTER20110169_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Reptilianne Melusine  
-[IDS_SOLO.CHAPTER600170_EXPLANATION]
+[IDS_SOLO.CHAPTER20110170_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Red Familiar  
-[IDS_SOLO.CHAPTER600171_EXPLANATION]
+[IDS_SOLO.CHAPTER20110171_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Teardrop the Rikka Queen  
-[IDS_SOLO.CHAPTER600172_EXPLANATION]
+[IDS_SOLO.CHAPTER20110172_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Ritual Beast Ulti-Gaiapelio  
-[IDS_SOLO.CHAPTER600173_EXPLANATION]
+[IDS_SOLO.CHAPTER20110173_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Borreload Riot Dragon  
-[IDS_SOLO.CHAPTER600174_EXPLANATION]
+[IDS_SOLO.CHAPTER20110174_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Crossrose Dragon  
-[IDS_SOLO.CHAPTER600175_EXPLANATION]
+[IDS_SOLO.CHAPTER20110175_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Egyptian God Slime  
-[IDS_SOLO.CHAPTER600176_EXPLANATION]
+[IDS_SOLO.CHAPTER20110176_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Salamangreat Miragestallio  
-[IDS_SOLO.CHAPTER600177_EXPLANATION]
+[IDS_SOLO.CHAPTER20110177_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Atomic Scrap Dragon  
-[IDS_SOLO.CHAPTER600178_EXPLANATION]
+[IDS_SOLO.CHAPTER20110178_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: El Shaddoll Shekhinaga  
-[IDS_SOLO.CHAPTER600179_EXPLANATION]
+[IDS_SOLO.CHAPTER20110179_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Shinobaron Peacock  
-[IDS_SOLO.CHAPTER600180_EXPLANATION]
+[IDS_SOLO.CHAPTER20110180_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Shiranui Sunsaga  
-[IDS_SOLO.CHAPTER600181_EXPLANATION]
+[IDS_SOLO.CHAPTER20110181_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Simorgh of Darkness  
-[IDS_SOLO.CHAPTER600182_EXPLANATION]
+[IDS_SOLO.CHAPTER20110182_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Legendary Six Samurai – Shi En  
-[IDS_SOLO.CHAPTER600183_EXPLANATION]
+[IDS_SOLO.CHAPTER20110183_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Sky Striker Ace – Kagari  
-[IDS_SOLO.CHAPTER600184_EXPLANATION]
+[IDS_SOLO.CHAPTER20110184_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Hi-Spedroid Clear Wing Rider  
-[IDS_SOLO.CHAPTER600185_EXPLANATION]
+[IDS_SOLO.CHAPTER20110185_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Theinen the Great Sphinx  
-[IDS_SOLO.CHAPTER600186_EXPLANATION]
+[IDS_SOLO.CHAPTER20110186_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Mother Spider  
-[IDS_SOLO.CHAPTER600187_EXPLANATION]
+[IDS_SOLO.CHAPTER20110187_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Sentence of Doom  
-[IDS_SOLO.CHAPTER600188_EXPLANATION]
+[IDS_SOLO.CHAPTER20110188_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: SPYRAL Sleeper  
-[IDS_SOLO.CHAPTER600189_EXPLANATION]
+[IDS_SOLO.CHAPTER20110189_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Number 102: Star Seraph Sentry  
-[IDS_SOLO.CHAPTER600190_EXPLANATION]
+[IDS_SOLO.CHAPTER20110190_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Shooting Majestic Star Dragon  
-[IDS_SOLO.CHAPTER600191_EXPLANATION]
+[IDS_SOLO.CHAPTER20110191_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Subterror Guru  
-[IDS_SOLO.CHAPTER600192_EXPLANATION]
+[IDS_SOLO.CHAPTER20110192_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Superheavy Samurai Brave Masurawo  
-[IDS_SOLO.CHAPTER600193_EXPLANATION]
+[IDS_SOLO.CHAPTER20110193_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Alsei, the Sylvan High Protector  
-[IDS_SOLO.CHAPTER600194_EXPLANATION]
+[IDS_SOLO.CHAPTER20110194_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: T.G. Glaive Blaster  
-[IDS_SOLO.CHAPTER600195_EXPLANATION]
+[IDS_SOLO.CHAPTER20110195_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Stellarknight Constellar Diamond  
-[IDS_SOLO.CHAPTER600196_EXPLANATION]
+[IDS_SOLO.CHAPTER20110196_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Draco Berserker of the Tenyi  
-[IDS_SOLO.CHAPTER600197_EXPLANATION]
+[IDS_SOLO.CHAPTER20110197_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: The Agent of Entropy – Uranus  
-[IDS_SOLO.CHAPTER600198_EXPLANATION]
+[IDS_SOLO.CHAPTER20110198_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Thunder Dragon Titan  
-[IDS_SOLO.CHAPTER600199_EXPLANATION]
+[IDS_SOLO.CHAPTER20110199_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Time Thief Perpetua  
-[IDS_SOLO.CHAPTER600200_EXPLANATION]
+[IDS_SOLO.CHAPTER20110200_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Sandaion, the Timelord  
-[IDS_SOLO.CHAPTER600201_EXPLANATION]
+[IDS_SOLO.CHAPTER20110201_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Tindangle Acute Cerberus  
-[IDS_SOLO.CHAPTER600202_EXPLANATION]
+[IDS_SOLO.CHAPTER20110202_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Toon Black Luster Soldier  
-[IDS_SOLO.CHAPTER600203_EXPLANATION]
+[IDS_SOLO.CHAPTER20110203_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Super Express Bullet Train  
-[IDS_SOLO.CHAPTER600204_EXPLANATION]
+[IDS_SOLO.CHAPTER20110204_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Traptrix Atypus  
-[IDS_SOLO.CHAPTER600205_EXPLANATION]
+[IDS_SOLO.CHAPTER20110205_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Triamid Sphinx  
-[IDS_SOLO.CHAPTER600206_EXPLANATION]
+[IDS_SOLO.CHAPTER20110206_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Trickstar Bella Donna  
-[IDS_SOLO.CHAPTER600207_EXPLANATION]
+[IDS_SOLO.CHAPTER20110207_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Mariamne, the True Dracophoenix  
-[IDS_SOLO.CHAPTER600208_EXPLANATION]
+[IDS_SOLO.CHAPTER20110208_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: U.A. Player Manager  
-[IDS_SOLO.CHAPTER600209_EXPLANATION]
+[IDS_SOLO.CHAPTER20110209_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Umbral Horror Unform  
-[IDS_SOLO.CHAPTER600210_EXPLANATION]
+[IDS_SOLO.CHAPTER20110210_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Abominable Unchained Soul  
-[IDS_SOLO.CHAPTER600211_EXPLANATION]
+[IDS_SOLO.CHAPTER20110211_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Number 99: Utopia Dragonar  
-[IDS_SOLO.CHAPTER600212_EXPLANATION]
+[IDS_SOLO.CHAPTER20110212_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Valkyrie Sigrun  
-[IDS_SOLO.CHAPTER600213_EXPLANATION]
+[IDS_SOLO.CHAPTER20110213_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Vampire Vamp  
-[IDS_SOLO.CHAPTER600214_EXPLANATION]
+[IDS_SOLO.CHAPTER20110214_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Revendread Executor  
-[IDS_SOLO.CHAPTER600215_EXPLANATION]
+[IDS_SOLO.CHAPTER20110215_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Volcanic Rocket  
-[IDS_SOLO.CHAPTER600216_EXPLANATION]
+[IDS_SOLO.CHAPTER20110216_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Water Dragon Cluster  
-[IDS_SOLO.CHAPTER600217_EXPLANATION]
+[IDS_SOLO.CHAPTER20110217_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Watthydra  
-[IDS_SOLO.CHAPTER600218_EXPLANATION]
+[IDS_SOLO.CHAPTER20110218_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: The Weather Painter Moonbow  
-[IDS_SOLO.CHAPTER600219_EXPLANATION]
+[IDS_SOLO.CHAPTER20110219_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Wightlord  
-[IDS_SOLO.CHAPTER600220_EXPLANATION]
+[IDS_SOLO.CHAPTER20110220_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Wind-Up Carrier Zenmaity  
-[IDS_SOLO.CHAPTER600221_EXPLANATION]
+[IDS_SOLO.CHAPTER20110221_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Windwitch – Diamond Bell  
-[IDS_SOLO.CHAPTER600222_EXPLANATION]
+[IDS_SOLO.CHAPTER20110222_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Witchcrafter Vie-Madame  
-[IDS_SOLO.CHAPTER600223_EXPLANATION]
+[IDS_SOLO.CHAPTER20110223_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Ningirsu the World Chalice Warrior  
-[IDS_SOLO.CHAPTER600224_EXPLANATION]
+[IDS_SOLO.CHAPTER20110224_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Worm King  
-[IDS_SOLO.CHAPTER600225_EXPLANATION]
+[IDS_SOLO.CHAPTER20110225_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: XX-Saber Gottoms  
-[IDS_SOLO.CHAPTER600226_EXPLANATION]
+[IDS_SOLO.CHAPTER20110226_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Mayosenju Hitot  
-[IDS_SOLO.CHAPTER600227_EXPLANATION]
+[IDS_SOLO.CHAPTER20110227_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Phantom of Yubel  
-[IDS_SOLO.CHAPTER600228_EXPLANATION]
+[IDS_SOLO.CHAPTER20110228_EXPLANATION]
 Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
