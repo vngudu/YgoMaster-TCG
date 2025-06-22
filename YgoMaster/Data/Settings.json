@@ -204,17 +204,17 @@
         "win": [
             {
                 "type": "Item",
-                "rate": 0.1,
+                "rate": 10,
                 "rare": true,
             },
             {
                 "type": "Item",
-                "rate": 0.1,
+                "rate": 0,
                 "rare": true,
             },
             {
                 "type": "Item",
-                "rate": 0.1,
+                "rate": 0,
                 "rare": true,
             },
             {
@@ -225,8 +225,8 @@
             },
             {
                 "type": "Gem",
-                "min": 200,
-                "max": 400,
+                "min": 300,
+                "max": 500,
                 "rate": 100
             },
             {
@@ -270,8 +270,8 @@
         "lose": [
             {
                 "type": "Gem",
-                "min": 100,
-                "max": 300,
+                "min": 200,
+                "max": 400,
                 "rate": 100
             },
             {
@@ -293,17 +293,17 @@
         "win": [
             {
                 "type": "Item",
-                "rate": 0.1,
+                "rate": 10,
                 "rare": true,
             },
             {
                 "type": "Item",
-                "rate": 0.1,
+                "rate": 0,
                 "rare": true,
             },
             {
                 "type": "Item",
-                "rate": 0.1,
+                "rate": 0,
                 "rare": true,
             },
             {
@@ -314,8 +314,8 @@
             },
             {
                 "type": "Gem",
-                "min": 200,
-                "max": 400,
+                "min": 300,
+                "max": 500,
                 "rate": 100
             },
             {
@@ -359,8 +359,8 @@
         "lose": [
             {
                 "type": "Gem",
-                "min": 100,
-                "max": 300,
+                "min": 200,
+                "max": 400,
                 "rate": 100
             },
             {
