@@ -1207,83 +1207,91 @@ namespace YgoMaster
         /// - Also used to get the card rarities for a specific pack in a shop (which can use specific rarities for that pack)
         /// </summary>
         Dictionary<int, int> GetCardRarities(Player player, ShopItemInfo targetShopItem = null)
+{
+    if (targetShopItem != null)
+    {
+        Dictionary<int, int> packCardRare = new Dictionary<int, int>();
+        foreach (KeyValuePair<int, CardRarity> card in targetShopItem.Cards)
         {
-            // NOTE: This function is probably a little heavy handed, only call once per packet
-            if (targetShopItem != null)
+            CardRarity rarity = card.Value;
+            if (rarity == CardRarity.None || !Shop.PerPackRarities)
             {
-                Dictionary<int, int> packCardRare = new Dictionary<int, int>();
-                foreach (KeyValuePair<int, CardRarity> card in targetShopItem.Cards)
-                {
-                    CardRarity rarity = card.Value;
-                    if (rarity == CardRarity.None || !Shop.PerPackRarities)
-                    {
-                        TryGetCardRarity(card.Key, CardRare, out rarity);
-                    }
-                    if (rarity == CardRarity.None)
-                    {
-                        continue;
-                    }
-                    packCardRare[card.Key] = (int)rarity;
-                }
-                return packCardRare;
+                TryGetCardRarity(card.Key, CardRare, out rarity);
             }
-            if ((!ProgressiveCardList && !ProgressiveCardRarities) ||
-                player.ShopState.GetAvailability(Shop, Shop.StandardPack) == PlayerShopItemAvailability.Available)
+            if (rarity != CardRarity.None)
             {
-                return CardRare;
+                packCardRare[card.Key] = (int)rarity;
             }
-            Dictionary<int, int> result = ProgressiveCardList ? new Dictionary<int, int>() : new Dictionary<int, int>(CardRare);
-            Dictionary<int, int> lowestPackRarities = ProgressiveCardRarities ? new Dictionary<int, int>() : null;
-            foreach (ShopItemInfo shopItem in Shop.PackShop.Values)
-            {
-                if (ProgressiveCardList && player.ShopState.GetAvailability(Shop, shopItem) == PlayerShopItemAvailability.Hidden)
-                {
-                    continue;
-                }
-                foreach (KeyValuePair<int, CardRarity> card in shopItem.Cards)
-                {
-                    if (ProgressiveCardRarities)
-                    {
-                        CardRarity rarity;
-                        if (!TryGetCardRarity(card.Key, lowestPackRarities, out rarity) || card.Value < rarity)
-                        {
-                            lowestPackRarities[card.Key] = (int)card.Value;
-                        }
-                    }
-                    if (ProgressiveCardList)
-                    {
-                        CardRarity rarity;
-                        if (!TryGetCardRarity(card.Key, result, out rarity) &&
-                            TryGetCardRarity(card.Key, CardRare, out rarity))
-                        {
-                            result[card.Key] = (int)rarity;
-                        }
-                    }
-                }
-            }
+        }
+        return packCardRare;
+    }
+    if (!ProgressiveCardList && !ProgressiveCardRarities)
+    {
+        return CardRare;
+    }
+    Dictionary<int, int> result = ProgressiveCardList ? new Dictionary<int, int>() : new Dictionary<int, int>(CardRare);
+    Dictionary<int, int> lowestPackRarities = ProgressiveCardRarities ? new Dictionary<int, int>() : null;
+    foreach (ShopItemInfo shopItem in Shop.PackShop.Values)
+    {
+        if (ProgressiveCardList && player.ShopState.GetAvailability(Shop, shopItem) == PlayerShopItemAvailability.Hidden)
+        {
+            continue;
+        }
+        foreach (KeyValuePair<int, CardRarity> card in shopItem.Cards)
+        {
+            int cardId = card.Key;
+            CardRarity packRarity = card.Value;
             if (ProgressiveCardRarities)
             {
-                foreach (KeyValuePair<int, int> card in new Dictionary<int, int>(result))
+                CardRarity existingRarity;
+                bool exists = TryGetCardRarity(cardId, lowestPackRarities, out existingRarity);
+                if (!exists || packRarity < existingRarity)
                 {
-                    CardRarity rarity;
-                    if (TryGetCardRarity(card.Key, lowestPackRarities, out rarity) && rarity > (CardRarity)card.Value)
+                    lowestPackRarities[cardId] = (int)packRarity;
+                }
+            }
+            if (ProgressiveCardList)
+            {
+                CardRarity existing;
+                if (!TryGetCardRarity(cardId, result, out existing))
+                {
+                    CardRarity baseRarity;
+                    if (TryGetCardRarity(cardId, CardRare, out baseRarity))
                     {
-                        result[card.Key] = (int)rarity;
+                        result[cardId] = (int)baseRarity;
                     }
                 }
             }
-            // Add any cards owned by the player but are missing from the result (otherwise the client will have issues with those cards)
-            foreach (int cardId in player.Cards.GetIDs())
-            {
-                CardRarity rarity;
-                if (!result.ContainsKey(cardId) && TryGetCardRarity(cardId, CardRare, out rarity))
-                {
-                    result[cardId] = (int)rarity;
-                }
-            }
-            return result;
         }
-
+    }
+    if (ProgressiveCardRarities)
+    {
+        Dictionary<int, int> copy = new Dictionary<int, int>(result);
+        foreach (KeyValuePair<int, int> entry in copy)
+        {
+            int cardId = entry.Key;
+            CardRarity currentRarity = (CardRarity)entry.Value;
+            CardRarity unlockedLowest;
+            if (TryGetCardRarity(cardId, lowestPackRarities, out unlockedLowest) &&
+                unlockedLowest < currentRarity)
+            {
+                result[cardId] = (int)unlockedLowest;
+            }
+        }
+    }
+    foreach (int cardId in player.Cards.GetIDs())
+    {
+        if (!result.ContainsKey(cardId))
+        {
+            CardRarity rarity;
+            if (TryGetCardRarity(cardId, CardRare, out rarity))
+            {
+                result[cardId] = (int)rarity;
+            }
+        }
+    }
+    return result;
+}
         bool TryGetCardRarity(int cardId, Dictionary<int, int> rarities, out CardRarity result)
         {
             result = CardRarity.None;
