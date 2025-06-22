@@ -24,7 +24,7 @@
     ],
     "FirstPlayer": -1,// 0 you go first, 1 they go first
     "Limit": 0,// YgomGame.Duel.Engine.LimitedType
-    "cpu": 100,
+    "cpu": 97,
     //"cpuflag": "AttackOnly",// YgomGame.Duel.Engine.CpuParam
     //"MyType": 1,// For AI vs AI
     //"Type": 4,// 0 = normal, 1 = "extra", 2 = tag, 3 = speed duel, 4 = rush duel (Engine.DuelType)

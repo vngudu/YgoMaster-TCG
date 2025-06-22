@@ -289,7 +289,7 @@ namespace YgoMaster
             // TODO: Maybe set 100 to the default in DuelStarter and go from 100 to -100 instead?
             if (cpu == int.MaxValue)
             {
-                cpu = 100;
+                cpu = 97;
             }
             if (Type == 2)// tag duel (they are bugged, the decks don't load resulting in an instant victory / defeat)
             {
