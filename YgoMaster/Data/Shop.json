@@ -8,7 +8,7 @@
     "DefaultPackCardNum": 8,
     "NoDuplicatesPerPack": true,
     "PerPackRarities": true,
-    "DisableCardStyleRarity": true,
+    "DisableCardStyleRarity": false,
     "DisableUltraRareGuarantee": false,
     "UpgradeRarityWhenNotFound": false,
     "UnlockAllSecrets": false,
