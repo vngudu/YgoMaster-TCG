@@ -1,4 +1,4 @@
-@echo off 
+@echo off
 
 echo Compiling YgoMaster / YgoMasterClient (C#)
 echo.
@@ -10,7 +10,7 @@ echo.
 echo Compiling YgoMasterLoader (C++)
 echo.
 
-REM Compile YgoMasterLoader using cl (requires Visual Studio with C++ compilers) (TODO: Improve this... maybe also check vswhere.exe)
+REM Compile YgoMasterLoader using cl (requires Visual Studio with C++ compilers)
 set BATPATH=%ProgramW6432%\Microsoft Visual Studio\2022\Community\VC\Auxiliary\Build\vcvarsall.bat
 if exist "%BATPATH%" ( call "%BATPATH%" amd64 ) else ^
 if defined VS190COMNTOOLS ( call "%VS190COMNTOOLS%\..\..\VC\vcvarsall.bat" amd64 ) else ^
@@ -28,7 +28,18 @@ goto cppCompilerNotFound
 cd YgoMasterLoader
 cl YgoMasterLoader.cpp /LD /DWITHDETOURS /Fe:../YgoMaster/YgoMasterLoader.dll
 cl MonoRun.cpp /Fe:../YgoMaster/MonoRun.exe
-cd ../
+cd ..
+
+echo.
+echo Compiling SettingsEditor (C++)
+echo.
+
+REM --- Compile SettingsEditor resources (if you use a .rc file) ---
+rc /foygomaster\SettingsEditor.res ygomaster\SettingsEditor.rc
+
+rc /foygomaster\SettingsEditor.res ygomaster\SettingsEditor.rc
+cl /EHsc /Iygomaster /I. ygomaster\SettingsEditor.cpp ygomaster\SettingsEditor.res user32.lib gdi32.lib comdlg32.lib /Feygomaster\SettingsEditor.exe
+
 goto done
 
 :cppCompilerNotFound
@@ -42,4 +53,5 @@ echo 4) Manually compile it by reading the top of YgoMasterLoader.cpp
 
 :done
 echo.
+echo Build complete.
 pause
