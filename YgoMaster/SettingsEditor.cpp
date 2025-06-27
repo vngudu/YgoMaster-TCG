@@ -104,6 +104,12 @@ INT_PTR CALLBACK DlgProc(HWND hDlg, UINT msg, WPARAM wParam, LPARAM lParam) {
     switch (msg) {
     case WM_INITDIALOG:
         // Load all controls based on PARAMS table
+		case Param::DOUBLE: {
+			char buf[64];
+			snprintf(buf, sizeof(buf), "%.6f", ptr->get<double>());
+			SetDlgItemTextA(hDlg, p.dlgId, buf);
+			break;
+		},
         for (int i = 0; i < PARAM_COUNT; ++i) {
             const Param& p = PARAMS[i];
             json* ptr = get_json_ptr_by_path(settings, p.key);
@@ -129,6 +135,36 @@ INT_PTR CALLBACK DlgProc(HWND hDlg, UINT msg, WPARAM wParam, LPARAM lParam) {
         return TRUE;
 
     case WM_COMMAND:
+		switch (LOWORD(wParam)) {
+			case 1014: // Reset Player Progress
+			{
+				char baseDir[MAX_PATH];
+				GetCurrentDirectoryA(MAX_PATH, baseDir);
+				std::string playerPath = std::string(baseDir) + "\\Players\\Local\\Player.json";
+
+				WIN32_FILE_ATTRIBUTE_DATA fad;
+				if (GetFileAttributesExA(playerPath.c_str(), GetFileExInfoStandard, &fad)) {
+					// File exists
+					// Get date as YYYYMMDD_HHMMSS
+					SYSTEMTIME st;
+					GetLocalTime(&st);
+					char dateStr[32];
+					sprintf_s(dateStr, "%04d%02d%02d_%02d%02d%02d",
+							  st.wYear, st.wMonth, st.wDay, st.wHour, st.wMinute, st.wSecond);
+
+					std::string backupPath = std::string(baseDir) + "\\Players\\Local\\Player_" + dateStr + ".json";
+					if (MoveFileA(playerPath.c_str(), backupPath.c_str())) {
+						MessageBoxA(hDlg, "Player progress has been reset and backup created.", "Success", MB_OK | MB_ICONINFORMATION);
+					} else {
+						MessageBoxA(hDlg, "Could not rename Player.json. Check file permissions.", "Error", MB_OK | MB_ICONERROR);
+					}
+				} else {
+					MessageBoxA(hDlg, "No Player.json found to reset.", "Info", MB_OK | MB_ICONINFORMATION);
+				}
+				break;
+			}
+			// ... other case statements ...
+		}
         if (HIWORD(wParam) == CBN_SELCHANGE && LOWORD(wParam) == 1008) {
         int sel = (int)SendDlgItemMessageA(hDlg, 1008, CB_GETCURSEL, 0, 0);
         if (sel >= 0 && sel < DIFFICULTY_COUNT) {
@@ -143,6 +179,16 @@ INT_PTR CALLBACK DlgProc(HWND hDlg, UINT msg, WPARAM wParam, LPARAM lParam) {
     }
         if (LOWORD(wParam) == IDOK) {
             // Save all controls based on PARAMS table
+			case Param::DOUBLE: {
+				char buf[64];
+				GetDlgItemTextA(hDlg, p.dlgId, buf, sizeof(buf));
+				try {
+					*ptr = std::stod(buf);
+				} catch (...) {
+					*ptr = 0.0;
+				}
+				break;
+			},
             for (int i = 0; i < PARAM_COUNT; ++i) {
                 const Param& p = PARAMS[i];
                 json* ptr = get_json_ptr_by_path(settings, p.key);
