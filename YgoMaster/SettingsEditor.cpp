@@ -8,20 +8,23 @@ using json = nlohmann::json;
 // Parameters for settings
 struct Param {
     const char* key;
-    enum Type { BOOL, INT, STRING } type;
+    enum Type { BOOL, INT, STRING, DOUBLE } type;
     int dlgId;
 };
 
 // Difficulty presets
 struct DifficultyPreset {
     const char* name;
+	double multiplier;
     int minValue;
     int maxValue;
+    int loseMin;
+    int loseMax;
 };
 DifficultyPreset DIFFICULTY_PRESETS[] = {
-    {"Easy", 500, 700},
-    {"Normal", 300, 500},
-    {"Hard", 100, 200}
+    {"Easy", 1.5, 500, 700, 300, 500},
+    {"Normal", 1.0, 300, 500, 200, 400},
+    {"Hard", 0.5, 100, 200, 100, 200}
 };
 const int DIFFICULTY_COUNT = sizeof(DIFFICULTY_PRESETS) / sizeof(DIFFICULTY_PRESETS[0]);
 
@@ -31,9 +34,12 @@ Param PARAMS[] = {
     {"UnlockAllItems", Param::BOOL, 1002},
     {"CardCraftableAll", Param::BOOL, 1003},
     {"DisableNoDismantle", Param::BOOL, 1004},
-    {"DefaultGems", Param::STRING, 1005},
-    {"DuelRewards.win[4].min", Param::INT, 1009},
-    {"DuelRewards.win[4].max", Param::INT, 1010}
+    {"DefaultGems", Param::INT, 1005},
+	{"DuelRewards.ChapterStatusChangedMultiplier", Param::DOUBLE, 1009},
+    {"DuelRewards.win[4].min", Param::INT, 1010},
+    {"DuelRewards.win[4].max", Param::INT, 1011},	
+    {"DuelRewards.lose[0].min", Param::INT, 1012},
+    {"DuelRewards.lose[0].max", Param::INT, 1013}
 };
 const int PARAM_COUNT = sizeof(PARAMS) / sizeof(PARAMS[0]);
 
@@ -124,14 +130,17 @@ INT_PTR CALLBACK DlgProc(HWND hDlg, UINT msg, WPARAM wParam, LPARAM lParam) {
 
     case WM_COMMAND:
         if (HIWORD(wParam) == CBN_SELCHANGE && LOWORD(wParam) == 1008) {
-            int sel = (int)SendDlgItemMessageA(hDlg, 1008, CB_GETCURSEL, 0, 0);
-            if (sel >= 0 && sel < DIFFICULTY_COUNT) {
-                int minValue = DIFFICULTY_PRESETS[sel].minValue;
-                int maxValue = DIFFICULTY_PRESETS[sel].maxValue;
-                SetDlgItemInt(hDlg, 1009, minValue, TRUE);
-                SetDlgItemInt(hDlg, 1010, maxValue, TRUE);
-            }
+        int sel = (int)SendDlgItemMessageA(hDlg, 1008, CB_GETCURSEL, 0, 0);
+        if (sel >= 0 && sel < DIFFICULTY_COUNT) {
+            const auto& preset = DIFFICULTY_PRESETS[sel];
+            SetDlgItemInt(hDlg, 1010, preset.minValue, TRUE);
+            SetDlgItemInt(hDlg, 1011, preset.maxValue, TRUE);
+            // Add similar lines for the new controls:
+            SetDlgItemTextA(hDlg, 1009, std::to_string(preset.multiplier).c_str());
+            SetDlgItemInt(hDlg, 1012, preset.loseMin, TRUE);
+            SetDlgItemInt(hDlg, 1013, preset.loseMax, TRUE);
         }
+    }
         if (LOWORD(wParam) == IDOK) {
             // Save all controls based on PARAMS table
             for (int i = 0; i < PARAM_COUNT; ++i) {
