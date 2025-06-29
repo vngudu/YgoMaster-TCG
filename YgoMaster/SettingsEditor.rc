@@ -1,5 +1,6 @@
 #include <windows.h>
-101 DIALOGEX 0, 0, 300, 200
+IDI_APP_ICON ICON "ygoset.ico"
+101 DIALOGEX 0, 0, 300, 500
 STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
 CAPTION "Edit Settings"
 FONT 8, "MS Shell Dlg"
@@ -9,17 +10,16 @@ BEGIN
     CONTROL "Cards not in Collection are craftable", 1003, "Button", BS_AUTOCHECKBOX | WS_TABSTOP, 10, 34, 150, 10
     CONTROL "Deactivate Crafting", 1004, "Button", BS_AUTOCHECKBOX | WS_TABSTOP, 10, 46, 150, 10
 
-    LTEXT "Starting Gems when resetting Player Progress", -1, 10, 58, 60, 10
-    EDITTEXT 1005, 80, 56, 120, 12, ES_AUTOHSCROLL
+    LTEXT "Starting Gems at Reset", -1, 10, 58, 80, 10
+    EDITTEXT 1005, 100, 56, 120, 12, ES_AUTOHSCROLL
 
-    LTEXT "Difficulty", -1, 10, 70, 60, 10
-    COMBOBOX 1008, 80, 68, 120, 80, CBS_DROPDOWNLIST | WS_VSCROLL | WS_TABSTOP
+    LTEXT "Difficulty", -1, 10, 70, 80, 10
+    COMBOBOX 1008, 100, 68, 120, 80, CBS_DROPDOWNLIST | WS_VSCROLL | WS_TABSTOP
 	
     LTEXT "Win[4] Min", -1, 10, 82, 60, 10
     EDITTEXT 1010, 80, 80, 60, 12, ES_AUTOHSCROLL
     LTEXT "Win[4] Max", -1, 150, 82, 60, 10
     EDITTEXT 1011, 210, 80, 40, 12, ES_AUTOHSCROLL
-
 
     LTEXT "Lose[0] Min", -1, 10, 94, 60, 10
     EDITTEXT 1012, 80, 92, 60, 12, ES_AUTOHSCROLL
@@ -28,7 +28,11 @@ BEGIN
 
     DEFPUSHBUTTON "Save", IDOK, 10, 110, 60, 14
     PUSHBUTTON "Cancel", IDCANCEL, 120, 110, 60, 14
-	PUSHBUTTON "Reset Player Progress", 1014, 200, 110, 80, 14
-	
-	PUSHBUTTON "Save and Start YGOMasterClient", 1015, 10, 130, 120, 14
+    PUSHBUTTON "Reset Player Progress", 1014, 200, 110, 80, 14
+    PUSHBUTTON "Save and Start YGOMasterClient", 1015, 10, 130, 120, 14
+
+    PUSHBUTTON "Random Character Challenge", 1020, 10, 150, 120, 14
+    COMBOBOX 1021, 10, 170, 120, 60, CBS_DROPDOWNLIST | WS_VSCROLL | WS_TABSTOP
+    CONTROL "", 1022, "Static", SS_BITMAP | WS_CHILD | WS_VISIBLE, 10, 190, 130, 130
+    LTEXT "", 1023, 140, 190, 140, 130
 END

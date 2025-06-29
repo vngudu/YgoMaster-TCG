@@ -23,6 +23,7 @@ masterduel_Data/*
 *.user
 *.userosscache
 *.sln.docstates
+*.ico
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs

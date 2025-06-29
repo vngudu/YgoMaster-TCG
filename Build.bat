@@ -36,8 +36,6 @@ echo.
 
 REM --- Compile SettingsEditor resources (if you use a .rc file) ---
 rc /foygomaster\SettingsEditor.res ygomaster\SettingsEditor.rc
-
-rc /foygomaster\SettingsEditor.res ygomaster\SettingsEditor.rc
 cl /EHsc /Iygomaster /I. ygomaster\SettingsEditor.cpp ygomaster\SettingsEditor.res user32.lib gdi32.lib comdlg32.lib /Feygomaster\SettingsEditor.exe
 
 goto done

@@ -677,6 +677,8 @@
     1070115,//The Fallen & The Virtuous
     1070116,//Materiactor Exagard
     1070117,//Crystron Quariongandrax
+	1070118,//Arcana Force XXI - The World
+    1070119,//Gladiator Beast Gyzarus									  									 
     1071001,//Crusadia Maximus
     1071002,//Longirsu, the Orcust Orchestrator
     1071003,//Dream Mirror Phantasms
@@ -813,6 +815,7 @@
     1090028,//Forest of Endless White
     1090030,//Forest of the Traptrix
     1090031,//Ruins of the Sinful Spoils
+	1090032,//Lost World					
     1090033,//Evil★Twin
     1090034,//Striking Stratagem Simulation Area
     1090036,//Despia, Theater of the Branded
@@ -849,6 +852,7 @@
     1100028,//Forest of Endless White
     1100030,//Forest of the Traptrix
     1100031,//Ruins of the Sinful Spoils
+	1100032,//Lost World					
     1100033,//Evil★Twin
     1100034,//Striking Stratagem Simulation Area
     1100036,//Despia, Theater of the Branded
@@ -909,6 +913,7 @@
     1110028,//Forest of Endless White
     1110030,//Forest of the Traptrix
     1110031,//Ruins of the Sinful Spoils
+	1110032,//Lost World					
     1110033,//Evil★Twin
     1110034,//Striking Stratagem Simulation Area
     1110036,//Despia, Theater of the Branded
@@ -944,6 +949,7 @@
     1111045,//Madolche Chickolates
     1111047,//DARK
     1111048,//LIGHT
+	1111049,//EARTH			   
     1111050,//WATER
     1111056,//Legend of the Sovereign Seas
     1111057,//Shield of the Millennium Dynasty

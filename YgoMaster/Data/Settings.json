@@ -114,8 +114,8 @@
         "ChapterStatusChangedNoRewards": false,
         "lose": [
             {
-                "max": 500,
-                "min": 300,
+                "max": 400,
+                "min": 200,
                 "rate": 100,
                 "type": "Gem"
             },
@@ -158,8 +158,8 @@
                 "value": 200
             },
             {
-                "max": 700,
-                "min": 500,
+                "max": 600,
+                "min": 400,
                 "rate": 100,
                 "type": "Gem"
             },
