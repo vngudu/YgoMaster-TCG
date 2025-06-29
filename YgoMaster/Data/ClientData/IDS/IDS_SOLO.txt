@@ -12,6 +12,14 @@ Yu-Gi-Oh! TCG Arc-V Era
 Yu-Gi-Oh! TCG VRAINS Era
 [IDS_SOLO.GATE2011]
 Yu-Gi-Oh! TCG Modern Challenger
+[IDS_SOLO.GATE2012]
+Yu-Gi-Oh! TCG Goat Challenger
+[IDS_SOLO.GATE2013]
+Yu-Gi-Oh! TCG Perfect Circle Challenger
+[IDS_SOLO.GATE2014]
+Yu-Gi-Oh! TCG Edison Challenger
+[IDS_SOLO.GATE2015]
+Yu-Gi-Oh! TCG HAT Challenger
 [IDS_SOLO.GATE2001_EXPLANATION]]
 Progressive TCG campaign from Legend of Blue Eyes White Dragon (01) up to Flaming Eternity (14).
 [IDS_SOLO.GATE2002_EXPLANATION]]
@@ -26,6 +34,14 @@ Progressive TCG campaign from Duelist Alliance (52) up to Maximum Crisis (63).
 Progressive TCG campaign from Code of the Duelist (64) up to Eternity Code (75).
 [IDS_SOLO.GATE2011_EXPLANATION]]
 Challenge your enemies and their modernized decks again (06/2025).
+[IDS_SOLO.GATE2012_EXPLANATION]]
+Challenge enemies within GOAT format (04/2005).
+[IDS_SOLO.GATE2013_EXPLANATION]]
+Challenge enemies within Perfect Circle format (01/2008).
+[IDS_SOLO.GATE2014_EXPLANATION]]
+Challenge enemies within Edison format (03/2010).
+[IDS_SOLO.GATE2015_EXPLANATION]]
+Challenge enemies within HAT format (04/2014).
 [IDS_SOLO.CHAPTER20010001_EXPLANATION]
 Progression Level: 01
 Core Set: Legend of Blue Eyes White Dragon
@@ -3866,5 +3882,196 @@ Progression Level: 75+
 Core Set: All remaining cards
 Ban List: YGOMaster v1.60  
 Opponent: Zefra Metaltron  
-
+[IDS_SOLO.CHAPTER20120001_EXPLANATION]
+Progression Level: 14+
+Ban List: 2005-04 Goat Format  
+Opponent: Mudora
+[IDS_SOLO.CHAPTER20120002_EXPLANATION]
+Progression Level: 14+
+Ban List: 2005-04 Goat Format  
+Opponent: Morphing Jar  
+[IDS_SOLO.CHAPTER20120003_EXPLANATION]
+Progression Level: 14+
+Ban List: 2005-04 Goat Format  
+Opponent: Horus the Black Flame Dragon LV8  
+[IDS_SOLO.CHAPTER20120004_EXPLANATION]
+Progression Level: 14+
+Ban List: 2005-04 Goat Format  
+Opponent: Gravekeepers Spy  
+[IDS_SOLO.CHAPTER20120005_EXPLANATION]
+Progression Level: 14+
+Ban List: 2005-04 Goat Format  
+Opponent: Golem Sentry  
+[IDS_SOLO.CHAPTER20120006_EXPLANATION]
+Progression Level: 14+
+Ban List: 2005-04 Goat Format  
+Opponent: Dark Necrofear  
+[IDS_SOLO.CHAPTER20120007_EXPLANATION]
+Progression Level: 14+
+Ban List: 2005-04 Goat Format  
+Opponent: Black Luster Soldier  
+[IDS_SOLO.CHAPTER20120008_EXPLANATION]
+Progression Level: 14+
+Ban List: 2005-04 Goat Format  
+Opponent: Armed Dragen LV7  
+[IDS_SOLO.CHAPTER20120009_EXPLANATION]
+Progression Level: 14+
+Ban List: 2005-04 Goat Format  
+Opponent: Zaborg  
+[IDS_SOLO.CHAPTER20120010_EXPLANATION]
+Progression Level: 14+
+Ban List: 2005-04 Goat Format  
+Opponent: The Creator  
+[IDS_SOLO.CHAPTER20120011_EXPLANATION]
+Progression Level: 14+
+Ban List: 2005-04 Goat Format  
+Opponent: Ryu Kokki  
+[IDS_SOLO.CHAPTER20120012_EXPLANATION]
+Progression Level: 14+
+Ban List: 2005-04 Goat Format  
+Opponent: Relinquished  
+[IDS_SOLO.CHAPTER20130001_EXPLANATION]
+Progression Level: 27+
+Ban List: 2008-01 Perfect Circle Format  
+Opponent: Test Tiger 
+[IDS_SOLO.CHAPTER20130002_EXPLANATION]
+Progression Level: 27+
+Ban List: 2008-01 Perfect Circle Format  
+Opponent: Skill Drain 
+[IDS_SOLO.CHAPTER20130003_EXPLANATION]
+Progression Level: 27+
+Ban List: 2008-01 Perfect Circle Format  
+Opponent: Red Gadget 
+[IDS_SOLO.CHAPTER20130004_EXPLANATION]
+Progression Level: 27+
+Ban List: 2008-01 Perfect Circle Format  
+Opponent: Il Blud 
+[IDS_SOLO.CHAPTER20130005_EXPLANATION]
+Progression Level: 27+
+Ban List: 2008-01 Perfect Circle Format  
+Opponent: Green Gadget 
+[IDS_SOLO.CHAPTER20130006_EXPLANATION]
+Progression Level: 27+
+Ban List: 2008-01 Perfect Circle Format  
+Opponent: Great Shogun Shien 
+[IDS_SOLO.CHAPTER20130007_EXPLANATION]
+Progression Level: 27+
+Ban List: 2008-01 Perfect Circle Format  
+Opponent: Destiny Hero Diamond Dude 
+[IDS_SOLO.CHAPTER20130008_EXPLANATION]
+Progression Level: 27+
+Ban List: 2008-01 Perfect Circle Format  
+Opponent: Demise, King of Armageddon 
+[IDS_SOLO.CHAPTER20130009_EXPLANATION]
+Progression Level: 27+
+Ban List: 2008-01 Perfect Circle Format  
+Opponent: Cyber Dragon
+[IDS_SOLO.CHAPTER20130010_EXPLANATION]
+Progression Level: 27+
+Ban List: 2008-01 Perfect Circle Format  
+Opponent: Bazoo the Soul Eater
+[IDS_SOLO.CHAPTER20130011_EXPLANATION]
+Progression Level: 27+
+Ban List: 2008-01 Perfect Circle Format  
+Opponent: Banisher of the Radiance
+[IDS_SOLO.CHAPTER20130012_EXPLANATION]
+Progression Level: 27+
+Ban List: 2008-01 Perfect Circle Format  
+Opponent: Thestalos the Firestorm Monarch
+[IDS_SOLO.CHAPTER20140001_EXPLANATION]
+Progression Level: 39+
+Ban List: 2010-03 Edison Format  
+Opponent: Volcanic Rocket
+[IDS_SOLO.CHAPTER20140002_EXPLANATION]
+Progression Level: 39+
+Ban List: 2010-03 Edison Format  
+Opponent: Substitoad
+[IDS_SOLO.CHAPTER20140003_EXPLANATION]
+Progression Level: 39+
+Ban List: 2010-03 Edison Format  
+Opponent: Rescue Cat
+[IDS_SOLO.CHAPTER20140004_EXPLANATION]
+Progression Level: 39+
+Ban List: 2010-03 Edison Format  
+Opponent: Quickdraw Synchron
+[IDS_SOLO.CHAPTER20140005_EXPLANATION]
+Progression Level: 39+
+Ban List: 2010-03 Edison Format  
+Opponent: Phoenixian Cluster Amaryllis
+[IDS_SOLO.CHAPTER20140006_EXPLANATION]
+Progression Level: 39+
+Ban List: 2010-03 Edison Format  
+Opponent: Machina Fortress
+[IDS_SOLO.CHAPTER20140007_EXPLANATION]
+Progression Level: 39+
+Ban List: 2010-03 Edison Format  
+Opponent: Gemini Soldier
+[IDS_SOLO.CHAPTER20140008_EXPLANATION]
+Progression Level: 39+
+Ban List: 2010-03 Edison Format  
+Opponent: Celestia, Lightsworn Angel
+[IDS_SOLO.CHAPTER20140009_EXPLANATION]
+Progression Level: 39+
+Ban List: 2010-03 Edison Format  
+Opponent: Caius the Shadow Monarch
+[IDS_SOLO.CHAPTER20140010_EXPLANATION]
+Progression Level: 39+
+Ban List: 2010-03 Edison Format  
+Opponent: Blackwing Armor Master
+[IDS_SOLO.CHAPTER20140011_EXPLANATION]
+Progression Level: 39+
+Ban List: 2010-03 Edison Format  
+Opponent: Ancient Gear Gadjiltron Dragon
+[IDS_SOLO.CHAPTER20140012_EXPLANATION]
+Progression Level: 39+
+Ban List: 2010-03 Edison Format  
+Opponent: Zombie Master
+[IDS_SOLO.CHAPTER20150001_EXPLANATION]
+Progression Level: 51+
+Ban List: 2014-04 HAT Format  
+Opponent: T.G. Rush Rhino
+[IDS_SOLO.CHAPTER20150002_EXPLANATION]
+Progression Level: 51+
+Ban List: 2014-04 HAT Format  
+Opponent: Sylvan Hemitree
+[IDS_SOLO.CHAPTER20150003_EXPLANATION]
+Progression Level: 51+
+Ban List: 2014-04 HAT Format  
+Opponent: Mermail Abysslinde
+[IDS_SOLO.CHAPTER20150004_EXPLANATION]
+Progression Level: 51+
+Ban List: 2014-04 HAT Format  
+Opponent: Koaki Meiru Urnight
+[IDS_SOLO.CHAPTER20150005_EXPLANATION]
+Progression Level: 51+
+Ban List: 2014-04 HAT Format  
+Opponent: Karakuri Shogun mdl 00 Burei
+[IDS_SOLO.CHAPTER20150006_EXPLANATION]
+Progression Level: 51+
+Ban List: 2014-04 HAT Format  
+Opponent: Infernity Necromancer
+[IDS_SOLO.CHAPTER20150007_EXPLANATION]
+Progression Level: 51+
+Ban List: 2014-04 HAT Format  
+Opponent: Gishki Zielgigas
+[IDS_SOLO.CHAPTER20150008_EXPLANATION]
+Progression Level: 51+
+Ban List: 2014-04 HAT Format  
+Opponent: Fire Hand
+[IDS_SOLO.CHAPTER20150009_EXPLANATION]
+Progression Level: 51+
+Ban List: 2014-04 HAT Format  
+Opponent: Evolsaur Cerato
+[IDS_SOLO.CHAPTER20150010_EXPLANATION]
+Progression Level: 51+
+Ban List: 2014-04 HAT Format  
+Opponent: Evilswarm Ophion
+[IDS_SOLO.CHAPTER20150011_EXPLANATION]
+Progression Level: 51+
+Ban List: 2014-04 HAT Format  
+Opponent: Bujin Hirume
+[IDS_SOLO.CHAPTER20150012_EXPLANATION]
+Progression Level: 51+
+Ban List: 2014-04 HAT Format  
+Opponent: Brotherhood of the Fire Fist - Rooster
 

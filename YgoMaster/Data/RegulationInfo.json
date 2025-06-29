@@ -75,7 +75,13 @@
 	"13076": "TCG 73_CHIM 2020-01 Rokket Format",
 	"13077": "TCG 74_IGAS 2020-04 Rokket Format",
 	"13078": "TCG 75_ETCO 2020-06 Adamancipator Format",
-	"14000": "TCG 75+_YGOMaster v1.60",
+	"13091": "TCG 14+ 2005-04 Goat Format",
+	"13092": "TCG 27+ 2008-01 Perfect Circle Format",
+	"13093": "TCG 39+ 2010-03 Edison Format",
+	"13094": "TCG 51+ 2014-04 HAT Format",
+	//"13095": "TCG 63+ 2017-06 Zoo Format",
+	//"13096": "TCG 75+ 2019-10 TOSS Format",
+	"14000": "TCG 75+ YGOMaster v1.60",
     "1038": "IDS_CARDMENU_REGULATION_NORMAL",
     "8": "IDS_CARDMENU_REGULATION_UNLIMITED"
   }

@@ -15,16 +15,17 @@ struct Param {
 // Difficulty presets
 struct DifficultyPreset {
     const char* name;
-	double multiplier;
+    double multiplier;
     int minValue;
     int maxValue;
     int loseMin;
     int loseMax;
 };
 DifficultyPreset DIFFICULTY_PRESETS[] = {
-    {"Easy", 1.5, 500, 700, 300, 500},
-    {"Normal", 1.0, 300, 500, 200, 400},
-    {"Hard", 0.5, 100, 200, 100, 200}
+    {"Easy", 1.5, 600, 800, 400, 600},
+    {"Normal", 1.0, 400, 600, 200, 400},
+    {"Hard", 1.0, 200, 400, 0, 200},
+	{"Roguelike", 1.0, 0, 0, 0, 0}
 };
 const int DIFFICULTY_COUNT = sizeof(DIFFICULTY_PRESETS) / sizeof(DIFFICULTY_PRESETS[0]);
 
@@ -35,9 +36,9 @@ Param PARAMS[] = {
     {"CardCraftableAll", Param::BOOL, 1003},
     {"DisableNoDismantle", Param::BOOL, 1004},
     {"DefaultGems", Param::INT, 1005},
-	{"DuelRewards.ChapterStatusChangedMultiplier", Param::DOUBLE, 1009},
+    {"DuelRewards.ChapterStatusChangedMultiplier", Param::DOUBLE, 1009},
     {"DuelRewards.win[4].min", Param::INT, 1010},
-    {"DuelRewards.win[4].max", Param::INT, 1011},	
+    {"DuelRewards.win[4].max", Param::INT, 1011},
     {"DuelRewards.lose[0].min", Param::INT, 1012},
     {"DuelRewards.lose[0].max", Param::INT, 1013}
 };
@@ -104,12 +105,6 @@ INT_PTR CALLBACK DlgProc(HWND hDlg, UINT msg, WPARAM wParam, LPARAM lParam) {
     switch (msg) {
     case WM_INITDIALOG:
         // Load all controls based on PARAMS table
-		case Param::DOUBLE: {
-			char buf[64];
-			snprintf(buf, sizeof(buf), "%.6f", ptr->get<double>());
-			SetDlgItemTextA(hDlg, p.dlgId, buf);
-			break;
-		},
         for (int i = 0; i < PARAM_COUNT; ++i) {
             const Param& p = PARAMS[i];
             json* ptr = get_json_ptr_by_path(settings, p.key);
@@ -125,6 +120,12 @@ INT_PTR CALLBACK DlgProc(HWND hDlg, UINT msg, WPARAM wParam, LPARAM lParam) {
             case Param::INT:
                 SetDlgItemInt(hDlg, p.dlgId, ptr->get<int>(), TRUE);
                 break;
+            case Param::DOUBLE: {
+                char buf[64];
+                snprintf(buf, sizeof(buf), "%.6f", ptr->get<double>());
+                SetDlgItemTextA(hDlg, p.dlgId, buf);
+                break;
+            }
             }
         }
         // Populate difficulty combo box
@@ -135,60 +136,38 @@ INT_PTR CALLBACK DlgProc(HWND hDlg, UINT msg, WPARAM wParam, LPARAM lParam) {
         return TRUE;
 
     case WM_COMMAND:
-		switch (LOWORD(wParam)) {
-			case 1014: // Reset Player Progress
-			{
-				char baseDir[MAX_PATH];
-				GetCurrentDirectoryA(MAX_PATH, baseDir);
-				std::string playerPath = std::string(baseDir) + "\\Players\\Local\\Player.json";
+        switch (LOWORD(wParam)) {
+        case 1014: // Reset Player Progress
+        {
+            char baseDir[MAX_PATH];
+            GetCurrentDirectoryA(MAX_PATH, baseDir);
+            std::string playerPath = std::string(baseDir) + "\\Players\\Local\\Player.json";
 
-				WIN32_FILE_ATTRIBUTE_DATA fad;
-				if (GetFileAttributesExA(playerPath.c_str(), GetFileExInfoStandard, &fad)) {
-					// File exists
-					// Get date as YYYYMMDD_HHMMSS
-					SYSTEMTIME st;
-					GetLocalTime(&st);
-					char dateStr[32];
-					sprintf_s(dateStr, "%04d%02d%02d_%02d%02d%02d",
-							  st.wYear, st.wMonth, st.wDay, st.wHour, st.wMinute, st.wSecond);
+            WIN32_FILE_ATTRIBUTE_DATA fad;
+            if (GetFileAttributesExA(playerPath.c_str(), GetFileExInfoStandard, &fad)) {
+                // File exists
+                // Get date as YYYYMMDD_HHMMSS
+                SYSTEMTIME st;
+                GetLocalTime(&st);
+                char dateStr[32];
+                sprintf_s(dateStr, "%04d%02d%02d_%02d%02d%02d",
+                    st.wYear, st.wMonth, st.wDay, st.wHour, st.wMinute, st.wSecond);
 
-					std::string backupPath = std::string(baseDir) + "\\Players\\Local\\Player_" + dateStr + ".json";
-					if (MoveFileA(playerPath.c_str(), backupPath.c_str())) {
-						MessageBoxA(hDlg, "Player progress has been reset and backup created.", "Success", MB_OK | MB_ICONINFORMATION);
-					} else {
-						MessageBoxA(hDlg, "Could not rename Player.json. Check file permissions.", "Error", MB_OK | MB_ICONERROR);
-					}
-				} else {
-					MessageBoxA(hDlg, "No Player.json found to reset.", "Info", MB_OK | MB_ICONINFORMATION);
-				}
-				break;
-			}
-			// ... other case statements ...
-		}
-        if (HIWORD(wParam) == CBN_SELCHANGE && LOWORD(wParam) == 1008) {
-        int sel = (int)SendDlgItemMessageA(hDlg, 1008, CB_GETCURSEL, 0, 0);
-        if (sel >= 0 && sel < DIFFICULTY_COUNT) {
-            const auto& preset = DIFFICULTY_PRESETS[sel];
-            SetDlgItemInt(hDlg, 1010, preset.minValue, TRUE);
-            SetDlgItemInt(hDlg, 1011, preset.maxValue, TRUE);
-            // Add similar lines for the new controls:
-            SetDlgItemTextA(hDlg, 1009, std::to_string(preset.multiplier).c_str());
-            SetDlgItemInt(hDlg, 1012, preset.loseMin, TRUE);
-            SetDlgItemInt(hDlg, 1013, preset.loseMax, TRUE);
+                std::string backupPath = std::string(baseDir) + "\\Players\\Local\\Player_" + dateStr + ".json";
+                if (MoveFileA(playerPath.c_str(), backupPath.c_str())) {
+                    MessageBoxA(hDlg, "Player progress has been reset and backup created.", "Success", MB_OK | MB_ICONINFORMATION);
+                } else {
+                    MessageBoxA(hDlg, "Could not rename Player.json. Check file permissions.", "Error", MB_OK | MB_ICONERROR);
+                }
+            } else {
+                MessageBoxA(hDlg, "No Player.json found to reset.", "Info", MB_OK | MB_ICONINFORMATION);
+            }
+            break;
         }
-    }
-        if (LOWORD(wParam) == IDOK) {
-            // Save all controls based on PARAMS table
-			case Param::DOUBLE: {
-				char buf[64];
-				GetDlgItemTextA(hDlg, p.dlgId, buf, sizeof(buf));
-				try {
-					*ptr = std::stod(buf);
-				} catch (...) {
-					*ptr = 0.0;
-				}
-				break;
-			},
+
+        case 1015: // Save and Start YGOMasterClient
+        {
+            // Save settings first (reuse your IDOK logic)
             for (int i = 0; i < PARAM_COUNT; ++i) {
                 const Param& p = PARAMS[i];
                 json* ptr = get_json_ptr_by_path(settings, p.key);
@@ -206,6 +185,83 @@ INT_PTR CALLBACK DlgProc(HWND hDlg, UINT msg, WPARAM wParam, LPARAM lParam) {
                 case Param::INT:
                     *ptr = (int)GetDlgItemInt(hDlg, p.dlgId, NULL, TRUE);
                     break;
+                case Param::DOUBLE: {
+                    char buf[64];
+                    GetDlgItemTextA(hDlg, p.dlgId, buf, sizeof(buf));
+                    try {
+                        *ptr = std::stod(buf);
+                    } catch (...) {
+                        *ptr = 0.0;
+                    }
+                    break;
+                }
+                }
+            }
+            if (!SaveSettings()) {
+                MessageBoxA(hDlg, "Could not save Data/Settings.json!", "Error", MB_ICONERROR);
+                break;
+            }
+
+            // Launch YGOMasterClient.exe in the same folder as the editor
+            char exePath[MAX_PATH];
+            GetModuleFileNameA(NULL, exePath, MAX_PATH);
+            char* lastSlash = strrchr(exePath, '\\');
+            if (lastSlash) strcpy(lastSlash + 1, "YGOMasterClient.exe");
+
+            STARTUPINFOA si = { sizeof(si) };
+            PROCESS_INFORMATION pi = {};
+            if (!CreateProcessA(exePath, NULL, NULL, NULL, FALSE, 0, NULL, NULL, &si, &pi)) {
+                MessageBoxA(hDlg, "Failed to start YGOMasterClient.exe", "Error", MB_ICONERROR);
+                break;
+            }
+            CloseHandle(pi.hProcess);
+            CloseHandle(pi.hThread);
+
+            EndDialog(hDlg, IDOK); // Optionally close the editor
+            break;
+        }
+        } // end switch (LOWORD(wParam))
+
+        if (HIWORD(wParam) == CBN_SELCHANGE && LOWORD(wParam) == 1008) {
+            int sel = (int)SendDlgItemMessageA(hDlg, 1008, CB_GETCURSEL, 0, 0);
+            if (sel >= 0 && sel < DIFFICULTY_COUNT) {
+                const auto& preset = DIFFICULTY_PRESETS[sel];
+                SetDlgItemInt(hDlg, 1010, preset.minValue, TRUE);
+                SetDlgItemInt(hDlg, 1011, preset.maxValue, TRUE);
+                SetDlgItemTextA(hDlg, 1009, std::to_string(preset.multiplier).c_str());
+                SetDlgItemInt(hDlg, 1012, preset.loseMin, TRUE);
+                SetDlgItemInt(hDlg, 1013, preset.loseMax, TRUE);
+            }
+        }
+        if (LOWORD(wParam) == IDOK) {
+            // Save all controls based on PARAMS table
+            for (int i = 0; i < PARAM_COUNT; ++i) {
+                const Param& p = PARAMS[i];
+                json* ptr = get_json_ptr_by_path(settings, p.key);
+                if (!ptr) continue;
+                switch (p.type) {
+                case Param::BOOL:
+                    *ptr = (SendDlgItemMessageA(hDlg, p.dlgId, BM_GETCHECK, 0, 0) == BST_CHECKED);
+                    break;
+                case Param::STRING: {
+                    char buf[256] = {0};
+                    GetDlgItemTextA(hDlg, p.dlgId, buf, sizeof(buf));
+                    *ptr = std::string(buf);
+                    break;
+                }
+                case Param::INT:
+                    *ptr = (int)GetDlgItemInt(hDlg, p.dlgId, NULL, TRUE);
+                    break;
+                case Param::DOUBLE: {
+                    char buf[64];
+                    GetDlgItemTextA(hDlg, p.dlgId, buf, sizeof(buf));
+                    try {
+                        *ptr = std::stod(buf);
+                    } catch (...) {
+                        *ptr = 0.0;
+                    }
+                    break;
+                }
                 }
             }
             if (!SaveSettings()) {

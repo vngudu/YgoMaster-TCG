@@ -2363,10 +2363,46 @@
     "name": "TCG 79_LIOV 2021-07 Tri Zoo Format",
     "icon": "RegulationLogo79"
   },
+  "13091": {
+    "id": "13091",
+    "regulation_id": 13091,
+    "name": "TCG 14+ 2005-04 Goat Format",
+    "icon": "RegulationLogo14x"
+  },
+  "13092": {
+    "id": "13092",
+    "regulation_id": 13092,
+    "name": "TCG 27+ 2008-09 Perfect Circle Format",
+    "icon": "RegulationLogo27x"
+  },
+  "13093": {
+    "id": "13093",
+    "regulation_id": 13093,
+    "name": "TCG 39+ 2010-03 Edison Format",
+    "icon": "RegulationLogo39x"
+  },
+  "13094": {
+    "id": "13094",
+    "regulation_id": 13094,
+    "name": "TCG 51+ 2014-04 HAT Format",
+    "icon": "RegulationLogo51x"
+  },
+  "13095": {
+    "id": "13095",
+    "regulation_id": 13095,
+    "name": "TCG 63+ 2017-06 Zoo Format",
+    "icon": "RegulationLogo63x"
+  },
+  "13096": {
+    "id": "13096",
+    "regulation_id": 13096,
+    "name": "TCG 75+ 2019-10 TOSS Format",
+    "icon": "RegulationLogo75x"
+  },
   "14000": {
     "id": "14000",
     "regulation_id": 14000,
-    "name": "TCG 75+_Master Duel v1.60",
+    "name": "TCG 75+ YGOMaster v1.60",
     "icon": "RegulationLogo75x"
   }
 }
