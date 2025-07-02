@@ -208,7 +208,7 @@ INT_PTR CALLBACK DlgProc(HWND hDlg, UINT msg, WPARAM wParam, LPARAM lParam) {
         {
             char baseDir[MAX_PATH];
             GetCurrentDirectoryA(MAX_PATH, baseDir);
-            std::string playerPath = std::string(baseDir) + "\\Players\\Local\\Player.json";
+            std::string playerPath = std::string(baseDir) + "\\Data\\Players\\Local\\Player.json";
 
             WIN32_FILE_ATTRIBUTE_DATA fad;
             if (GetFileAttributesExA(playerPath.c_str(), GetFileExInfoStandard, &fad)) {
@@ -219,7 +219,7 @@ INT_PTR CALLBACK DlgProc(HWND hDlg, UINT msg, WPARAM wParam, LPARAM lParam) {
                 sprintf_s(dateStr, "%04d%02d%02d_%02d%02d%02d",
                     st.wYear, st.wMonth, st.wDay, st.wHour, st.wMinute, st.wSecond);
 
-                std::string backupPath = std::string(baseDir) + "\\Players\\Local\\Player_" + dateStr + ".json";
+                std::string backupPath = std::string(baseDir) + "\\Data\\Players\\Local\\Player_" + dateStr + ".json";
                 if (MoveFileA(playerPath.c_str(), backupPath.c_str())) {
                     MessageBoxA(hDlg, "Player progress has been reset and backup created.", "Success", MB_OK | MB_ICONINFORMATION);
                 } else {
